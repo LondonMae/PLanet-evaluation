@@ -1,0 +1,3 @@
+< Between(personalization = {in_app_demographic, in_app_content,
+in_app_collaborative, social_media_demographic, social_media_content,
+social_media_collaborative} x choice = {present, absent}, 1) >

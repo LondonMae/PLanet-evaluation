@@ -1,0 +1,4 @@
+< Latin(input = {touchpad1, touchpad2, airmouse1, airmouse2, mouseringdouble1,
+mouseringdouble2, mouseringdouble3, mouseringdouble4, mouseringsingle1,
+mouseringsingle2, mouseringsingle3, mouseringsingle4}, 1, Serial(Random(page = {1, 2,
+3, 4, 5, 6, 7, 8, 9, 10}, 5))) >

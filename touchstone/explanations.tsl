@@ -1,0 +1,2 @@
+< Between(intervention = {control, causal, ai}, 1,
+      Random(validity = {valid, invalid}, 1)) >
