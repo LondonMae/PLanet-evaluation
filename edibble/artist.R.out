@@ -1,0 +1,36 @@
+# An edibble: 32 x 4
+     participant   trial   task interface
+         <U(16)> <U(32)> <T(2)>    <T(2)>
+           <chr>   <chr>  <chr>     <chr>
+ 1 participant01 trial01 coffee    ARTiST
+ 2 participant01 trial02   room  baseline
+ 3 participant02 trial03 coffee    ARTiST
+ 4 participant02 trial04   room  baseline
+ 5 participant03 trial05   room  baseline
+ 6 participant03 trial06 coffee    ARTiST
+ 7 participant04 trial07   room    ARTiST
+ 8 participant04 trial08 coffee  baseline
+ 9 participant05 trial09   room  baseline
+10 participant05 trial10 coffee    ARTiST
+11 participant06 trial11 coffee  baseline
+12 participant06 trial12   room    ARTiST
+13 participant07 trial13 coffee  baseline
+14 participant07 trial14   room    ARTiST
+15 participant08 trial15 coffee  baseline
+16 participant08 trial16   room    ARTiST
+17 participant09 trial17   room    ARTiST
+18 participant09 trial18 coffee  baseline
+19 participant10 trial19   room  baseline
+20 participant10 trial20 coffee    ARTiST
+21 participant11 trial21   room    ARTiST
+22 participant11 trial22 coffee  baseline
+23 participant12 trial23   room    ARTiST
+24 participant12 trial24 coffee  baseline
+25 participant13 trial25   room  baseline
+26 participant13 trial26 coffee    ARTiST
+27 participant14 trial27 coffee    ARTiST
+28 participant14 trial28   room  baseline
+29 participant15 trial29 coffee    ARTiST
+30 participant15 trial30   room  baseline
+31 participant16 trial31 coffee    ARTiST
+32 participant16 trial32   room  baseline

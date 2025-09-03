@@ -1,0 +1,510 @@
+# An edibble: 506 x 3
+       participant augmentation_type     condition
+          <U(506)>            <T(3)>        <T(2)>
+             <chr>             <chr>         <chr>
+  1 participant001           Sensory    Disability
+  2 participant002         Cognitive    Disability
+  3 participant003         Cognitive No Disability
+  4 participant004             Motor    Disability
+  5 participant005           Sensory No Disability
+  6 participant006             Motor No Disability
+  7 participant007             Motor    Disability
+  8 participant008             Motor No Disability
+  9 participant009             Motor No Disability
+ 10 participant010           Sensory    Disability
+ 11 participant011             Motor No Disability
+ 12 participant012         Cognitive No Disability
+ 13 participant013         Cognitive No Disability
+ 14 participant014         Cognitive    Disability
+ 15 participant015             Motor    Disability
+ 16 participant016             Motor    Disability
+ 17 participant017         Cognitive    Disability
+ 18 participant018         Cognitive    Disability
+ 19 participant019             Motor No Disability
+ 20 participant020           Sensory    Disability
+ 21 participant021             Motor    Disability
+ 22 participant022           Sensory    Disability
+ 23 participant023             Motor No Disability
+ 24 participant024           Sensory    Disability
+ 25 participant025           Sensory No Disability
+ 26 participant026             Motor No Disability
+ 27 participant027         Cognitive No Disability
+ 28 participant028             Motor No Disability
+ 29 participant029         Cognitive No Disability
+ 30 participant030           Sensory    Disability
+ 31 participant031             Motor No Disability
+ 32 participant032             Motor No Disability
+ 33 participant033           Sensory No Disability
+ 34 participant034           Sensory No Disability
+ 35 participant035         Cognitive    Disability
+ 36 participant036             Motor No Disability
+ 37 participant037             Motor    Disability
+ 38 participant038             Motor    Disability
+ 39 participant039             Motor    Disability
+ 40 participant040             Motor No Disability
+ 41 participant041           Sensory No Disability
+ 42 participant042             Motor No Disability
+ 43 participant043         Cognitive    Disability
+ 44 participant044           Sensory No Disability
+ 45 participant045           Sensory No Disability
+ 46 participant046           Sensory No Disability
+ 47 participant047           Sensory    Disability
+ 48 participant048             Motor No Disability
+ 49 participant049             Motor    Disability
+ 50 participant050           Sensory    Disability
+ 51 participant051             Motor No Disability
+ 52 participant052           Sensory    Disability
+ 53 participant053         Cognitive    Disability
+ 54 participant054           Sensory No Disability
+ 55 participant055         Cognitive No Disability
+ 56 participant056         Cognitive    Disability
+ 57 participant057           Sensory No Disability
+ 58 participant058           Sensory No Disability
+ 59 participant059           Sensory    Disability
+ 60 participant060         Cognitive    Disability
+ 61 participant061         Cognitive No Disability
+ 62 participant062           Sensory    Disability
+ 63 participant063             Motor No Disability
+ 64 participant064         Cognitive No Disability
+ 65 participant065           Sensory    Disability
+ 66 participant066         Cognitive No Disability
+ 67 participant067             Motor No Disability
+ 68 participant068             Motor No Disability
+ 69 participant069         Cognitive    Disability
+ 70 participant070           Sensory    Disability
+ 71 participant071           Sensory    Disability
+ 72 participant072         Cognitive No Disability
+ 73 participant073         Cognitive No Disability
+ 74 participant074         Cognitive    Disability
+ 75 participant075         Cognitive    Disability
+ 76 participant076           Sensory    Disability
+ 77 participant077           Sensory No Disability
+ 78 participant078         Cognitive    Disability
+ 79 participant079           Sensory No Disability
+ 80 participant080         Cognitive No Disability
+ 81 participant081             Motor    Disability
+ 82 participant082             Motor    Disability
+ 83 participant083             Motor    Disability
+ 84 participant084         Cognitive    Disability
+ 85 participant085           Sensory    Disability
+ 86 participant086             Motor No Disability
+ 87 participant087             Motor No Disability
+ 88 participant088           Sensory    Disability
+ 89 participant089         Cognitive    Disability
+ 90 participant090           Sensory No Disability
+ 91 participant091         Cognitive    Disability
+ 92 participant092             Motor No Disability
+ 93 participant093         Cognitive    Disability
+ 94 participant094           Sensory No Disability
+ 95 participant095         Cognitive No Disability
+ 96 participant096           Sensory    Disability
+ 97 participant097             Motor    Disability
+ 98 participant098             Motor    Disability
+ 99 participant099         Cognitive No Disability
+100 participant100           Sensory No Disability
+101 participant101         Cognitive No Disability
+102 participant102             Motor No Disability
+103 participant103           Sensory No Disability
+104 participant104         Cognitive    Disability
+105 participant105             Motor    Disability
+106 participant106             Motor No Disability
+107 participant107         Cognitive No Disability
+108 participant108           Sensory No Disability
+109 participant109           Sensory No Disability
+110 participant110           Sensory No Disability
+111 participant111             Motor    Disability
+112 participant112         Cognitive    Disability
+113 participant113         Cognitive    Disability
+114 participant114             Motor No Disability
+115 participant115           Sensory No Disability
+116 participant116             Motor No Disability
+117 participant117             Motor No Disability
+118 participant118         Cognitive    Disability
+119 participant119         Cognitive No Disability
+120 participant120         Cognitive No Disability
+121 participant121         Cognitive    Disability
+122 participant122         Cognitive No Disability
+123 participant123         Cognitive No Disability
+124 participant124           Sensory No Disability
+125 participant125           Sensory    Disability
+126 participant126           Sensory    Disability
+127 participant127           Sensory    Disability
+128 participant128           Sensory No Disability
+129 participant129             Motor    Disability
+130 participant130         Cognitive No Disability
+131 participant131           Sensory    Disability
+132 participant132           Sensory    Disability
+133 participant133           Sensory    Disability
+134 participant134         Cognitive    Disability
+135 participant135             Motor No Disability
+136 participant136             Motor    Disability
+137 participant137         Cognitive No Disability
+138 participant138           Sensory No Disability
+139 participant139             Motor    Disability
+140 participant140             Motor    Disability
+141 participant141           Sensory    Disability
+142 participant142           Sensory    Disability
+143 participant143           Sensory No Disability
+144 participant144             Motor No Disability
+145 participant145           Sensory    Disability
+146 participant146           Sensory No Disability
+147 participant147             Motor    Disability
+148 participant148         Cognitive No Disability
+149 participant149             Motor No Disability
+150 participant150         Cognitive No Disability
+151 participant151             Motor    Disability
+152 participant152         Cognitive No Disability
+153 participant153             Motor    Disability
+154 participant154         Cognitive    Disability
+155 participant155           Sensory No Disability
+156 participant156           Sensory No Disability
+157 participant157           Sensory No Disability
+158 participant158           Sensory No Disability
+159 participant159         Cognitive No Disability
+160 participant160           Sensory No Disability
+161 participant161             Motor    Disability
+162 participant162             Motor No Disability
+163 participant163         Cognitive No Disability
+164 participant164           Sensory No Disability
+165 participant165           Sensory    Disability
+166 participant166             Motor No Disability
+167 participant167           Sensory No Disability
+168 participant168             Motor    Disability
+169 participant169           Sensory    Disability
+170 participant170         Cognitive    Disability
+171 participant171           Sensory    Disability
+172 participant172         Cognitive No Disability
+173 participant173           Sensory    Disability
+174 participant174           Sensory No Disability
+175 participant175             Motor    Disability
+176 participant176         Cognitive    Disability
+177 participant177             Motor    Disability
+178 participant178           Sensory    Disability
+179 participant179         Cognitive No Disability
+180 participant180         Cognitive    Disability
+181 participant181             Motor No Disability
+182 participant182           Sensory No Disability
+183 participant183         Cognitive No Disability
+184 participant184         Cognitive    Disability
+185 participant185           Sensory    Disability
+186 participant186         Cognitive No Disability
+187 participant187           Sensory    Disability
+188 participant188         Cognitive    Disability
+189 participant189             Motor No Disability
+190 participant190           Sensory    Disability
+191 participant191         Cognitive No Disability
+192 participant192         Cognitive No Disability
+193 participant193             Motor No Disability
+194 participant194           Sensory No Disability
+195 participant195         Cognitive No Disability
+196 participant196           Sensory    Disability
+197 participant197             Motor    Disability
+198 participant198         Cognitive    Disability
+199 participant199           Sensory No Disability
+200 participant200             Motor No Disability
+201 participant201         Cognitive No Disability
+202 participant202         Cognitive No Disability
+203 participant203           Sensory    Disability
+204 participant204           Sensory No Disability
+205 participant205           Sensory    Disability
+206 participant206           Sensory No Disability
+207 participant207             Motor    Disability
+208 participant208           Sensory    Disability
+209 participant209         Cognitive No Disability
+210 participant210             Motor    Disability
+211 participant211             Motor    Disability
+212 participant212           Sensory No Disability
+213 participant213           Sensory    Disability
+214 participant214           Sensory No Disability
+215 participant215           Sensory    Disability
+216 participant216         Cognitive No Disability
+217 participant217             Motor    Disability
+218 participant218           Sensory    Disability
+219 participant219             Motor    Disability
+220 participant220           Sensory    Disability
+221 participant221           Sensory    Disability
+222 participant222         Cognitive No Disability
+223 participant223             Motor No Disability
+224 participant224         Cognitive    Disability
+225 participant225             Motor No Disability
+226 participant226           Sensory No Disability
+227 participant227           Sensory No Disability
+228 participant228           Sensory    Disability
+229 participant229           Sensory    Disability
+230 participant230             Motor No Disability
+231 participant231             Motor No Disability
+232 participant232             Motor No Disability
+233 participant233             Motor No Disability
+234 participant234           Sensory    Disability
+235 participant235         Cognitive No Disability
+236 participant236             Motor    Disability
+237 participant237           Sensory    Disability
+238 participant238         Cognitive No Disability
+239 participant239             Motor No Disability
+240 participant240         Cognitive No Disability
+241 participant241         Cognitive    Disability
+242 participant242         Cognitive    Disability
+243 participant243         Cognitive No Disability
+244 participant244         Cognitive    Disability
+245 participant245         Cognitive No Disability
+246 participant246             Motor No Disability
+247 participant247           Sensory    Disability
+248 participant248         Cognitive    Disability
+249 participant249         Cognitive No Disability
+250 participant250         Cognitive No Disability
+251 participant251         Cognitive No Disability
+252 participant252             Motor No Disability
+253 participant253         Cognitive    Disability
+254 participant254           Sensory    Disability
+255 participant255             Motor No Disability
+256 participant256         Cognitive    Disability
+257 participant257           Sensory    Disability
+258 participant258             Motor    Disability
+259 participant259           Sensory    Disability
+260 participant260             Motor    Disability
+261 participant261           Sensory No Disability
+262 participant262             Motor No Disability
+263 participant263           Sensory    Disability
+264 participant264         Cognitive    Disability
+265 participant265             Motor    Disability
+266 participant266         Cognitive    Disability
+267 participant267         Cognitive    Disability
+268 participant268           Sensory    Disability
+269 participant269           Sensory No Disability
+270 participant270             Motor No Disability
+271 participant271           Sensory No Disability
+272 participant272           Sensory    Disability
+273 participant273           Sensory    Disability
+274 participant274         Cognitive    Disability
+275 participant275           Sensory No Disability
+276 participant276             Motor No Disability
+277 participant277             Motor    Disability
+278 participant278         Cognitive    Disability
+279 participant279             Motor No Disability
+280 participant280         Cognitive    Disability
+281 participant281             Motor    Disability
+282 participant282             Motor No Disability
+283 participant283             Motor No Disability
+284 participant284           Sensory No Disability
+285 participant285         Cognitive    Disability
+286 participant286             Motor    Disability
+287 participant287         Cognitive No Disability
+288 participant288             Motor    Disability
+289 participant289           Sensory    Disability
+290 participant290             Motor No Disability
+291 participant291         Cognitive No Disability
+292 participant292         Cognitive    Disability
+293 participant293         Cognitive No Disability
+294 participant294         Cognitive No Disability
+295 participant295         Cognitive    Disability
+296 participant296         Cognitive    Disability
+297 participant297         Cognitive No Disability
+298 participant298         Cognitive No Disability
+299 participant299             Motor No Disability
+300 participant300         Cognitive No Disability
+301 participant301             Motor No Disability
+302 participant302         Cognitive    Disability
+303 participant303         Cognitive No Disability
+304 participant304             Motor    Disability
+305 participant305         Cognitive    Disability
+306 participant306           Sensory    Disability
+307 participant307         Cognitive No Disability
+308 participant308         Cognitive    Disability
+309 participant309           Sensory No Disability
+310 participant310           Sensory    Disability
+311 participant311             Motor No Disability
+312 participant312         Cognitive    Disability
+313 participant313         Cognitive    Disability
+314 participant314             Motor    Disability
+315 participant315           Sensory No Disability
+316 participant316             Motor No Disability
+317 participant317           Sensory    Disability
+318 participant318           Sensory No Disability
+319 participant319             Motor    Disability
+320 participant320           Sensory    Disability
+321 participant321             Motor    Disability
+322 participant322         Cognitive    Disability
+323 participant323             Motor No Disability
+324 participant324           Sensory No Disability
+325 participant325           Sensory No Disability
+326 participant326           Sensory    Disability
+327 participant327           Sensory No Disability
+328 participant328           Sensory No Disability
+329 participant329             Motor No Disability
+330 participant330           Sensory    Disability
+331 participant331           Sensory No Disability
+332 participant332             Motor    Disability
+333 participant333         Cognitive    Disability
+334 participant334         Cognitive No Disability
+335 participant335         Cognitive    Disability
+336 participant336         Cognitive No Disability
+337 participant337         Cognitive No Disability
+338 participant338           Sensory    Disability
+339 participant339           Sensory    Disability
+340 participant340           Sensory    Disability
+341 participant341         Cognitive No Disability
+342 participant342             Motor No Disability
+343 participant343           Sensory No Disability
+344 participant344           Sensory    Disability
+345 participant345           Sensory No Disability
+346 participant346         Cognitive No Disability
+347 participant347           Sensory    Disability
+348 participant348         Cognitive    Disability
+349 participant349         Cognitive No Disability
+350 participant350           Sensory    Disability
+351 participant351             Motor    Disability
+352 participant352           Sensory No Disability
+353 participant353             Motor    Disability
+354 participant354             Motor No Disability
+355 participant355         Cognitive No Disability
+356 participant356             Motor    Disability
+357 participant357           Sensory No Disability
+358 participant358             Motor No Disability
+359 participant359           Sensory No Disability
+360 participant360             Motor No Disability
+361 participant361         Cognitive    Disability
+362 participant362             Motor No Disability
+363 participant363             Motor    Disability
+364 participant364         Cognitive No Disability
+365 participant365             Motor    Disability
+366 participant366             Motor    Disability
+367 participant367         Cognitive    Disability
+368 participant368         Cognitive No Disability
+369 participant369             Motor No Disability
+370 participant370         Cognitive    Disability
+371 participant371             Motor    Disability
+372 participant372         Cognitive No Disability
+373 participant373             Motor    Disability
+374 participant374           Sensory    Disability
+375 participant375           Sensory    Disability
+376 participant376         Cognitive    Disability
+377 participant377           Sensory No Disability
+378 participant378             Motor    Disability
+379 participant379         Cognitive    Disability
+380 participant380         Cognitive No Disability
+381 participant381             Motor No Disability
+382 participant382             Motor No Disability
+383 participant383         Cognitive    Disability
+384 participant384             Motor    Disability
+385 participant385             Motor    Disability
+386 participant386             Motor No Disability
+387 participant387           Sensory No Disability
+388 participant388         Cognitive No Disability
+389 participant389           Sensory    Disability
+390 participant390             Motor No Disability
+391 participant391           Sensory    Disability
+392 participant392             Motor    Disability
+393 participant393         Cognitive No Disability
+394 participant394             Motor No Disability
+395 participant395             Motor No Disability
+396 participant396         Cognitive    Disability
+397 participant397             Motor No Disability
+398 participant398         Cognitive No Disability
+399 participant399         Cognitive    Disability
+400 participant400             Motor    Disability
+401 participant401             Motor No Disability
+402 participant402             Motor No Disability
+403 participant403         Cognitive No Disability
+404 participant404         Cognitive No Disability
+405 participant405           Sensory    Disability
+406 participant406           Sensory    Disability
+407 participant407           Sensory    Disability
+408 participant408         Cognitive No Disability
+409 participant409         Cognitive No Disability
+410 participant410           Sensory    Disability
+411 participant411         Cognitive    Disability
+412 participant412             Motor    Disability
+413 participant413         Cognitive No Disability
+414 participant414         Cognitive    Disability
+415 participant415           Sensory No Disability
+416 participant416             Motor    Disability
+417 participant417             Motor    Disability
+418 participant418         Cognitive No Disability
+419 participant419             Motor    Disability
+420 participant420             Motor No Disability
+421 participant421             Motor    Disability
+422 participant422             Motor    Disability
+423 participant423             Motor    Disability
+424 participant424           Sensory No Disability
+425 participant425         Cognitive    Disability
+426 participant426           Sensory No Disability
+427 participant427             Motor No Disability
+428 participant428           Sensory No Disability
+429 participant429           Sensory No Disability
+430 participant430             Motor    Disability
+431 participant431             Motor    Disability
+432 participant432         Cognitive No Disability
+433 participant433         Cognitive    Disability
+434 participant434             Motor    Disability
+435 participant435         Cognitive No Disability
+436 participant436             Motor    Disability
+437 participant437           Sensory    Disability
+438 participant438         Cognitive No Disability
+439 participant439         Cognitive    Disability
+440 participant440         Cognitive    Disability
+441 participant441           Sensory    Disability
+442 participant442           Sensory No Disability
+443 participant443             Motor No Disability
+444 participant444           Sensory    Disability
+445 participant445           Sensory    Disability
+446 participant446             Motor No Disability
+447 participant447           Sensory No Disability
+448 participant448             Motor No Disability
+449 participant449         Cognitive    Disability
+450 participant450           Sensory    Disability
+451 participant451         Cognitive    Disability
+452 participant452             Motor No Disability
+453 participant453             Motor    Disability
+454 participant454             Motor    Disability
+455 participant455         Cognitive No Disability
+456 participant456           Sensory    Disability
+457 participant457           Sensory    Disability
+458 participant458         Cognitive    Disability
+459 participant459           Sensory    Disability
+460 participant460             Motor No Disability
+461 participant461             Motor No Disability
+462 participant462             Motor No Disability
+463 participant463           Sensory    Disability
+464 participant464             Motor    Disability
+465 participant465           Sensory No Disability
+466 participant466             Motor    Disability
+467 participant467         Cognitive    Disability
+468 participant468           Sensory No Disability
+469 participant469         Cognitive No Disability
+470 participant470         Cognitive    Disability
+471 participant471             Motor    Disability
+472 participant472             Motor    Disability
+473 participant473         Cognitive No Disability
+474 participant474             Motor No Disability
+475 participant475           Sensory No Disability
+476 participant476           Sensory    Disability
+477 participant477             Motor    Disability
+478 participant478           Sensory No Disability
+479 participant479           Sensory No Disability
+480 participant480         Cognitive    Disability
+481 participant481         Cognitive No Disability
+482 participant482         Cognitive    Disability
+483 participant483         Cognitive No Disability
+484 participant484         Cognitive No Disability
+485 participant485         Cognitive No Disability
+486 participant486           Sensory No Disability
+487 participant487             Motor    Disability
+488 participant488         Cognitive    Disability
+489 participant489         Cognitive    Disability
+490 participant490             Motor    Disability
+491 participant491             Motor    Disability
+492 participant492         Cognitive No Disability
+493 participant493           Sensory No Disability
+494 participant494         Cognitive No Disability
+495 participant495             Motor No Disability
+496 participant496           Sensory    Disability
+497 participant497         Cognitive    Disability
+498 participant498           Sensory No Disability
+499 participant499           Sensory    Disability
+500 participant500             Motor    Disability
+501 participant501             Motor No Disability
+502 participant502           Sensory    Disability
+503 participant503         Cognitive    Disability
+504 participant504             Motor No Disability
+505 participant505             Motor    Disability
+506 participant506           Sensory No Disability

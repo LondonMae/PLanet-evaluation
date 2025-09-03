@@ -1,0 +1,436 @@
+# An edibble: 432 x 5
+      participant   block    trial number_of_grains conditions
+          <U(12)> <U(36)> <U(432)>           <T(3)>     <T(4)>
+            <chr>   <chr>    <chr>            <chr>      <chr>
+  1 participant01 block01 trial001               39          6
+  2 participant01 block01 trial002               39          0
+  3 participant01 block01 trial003               39          9
+  4 participant01 block01 trial004                9          0
+  5 participant01 block01 trial005                9          9
+  6 participant01 block01 trial006               19          6
+  7 participant01 block01 trial007                9          6
+  8 participant01 block01 trial008               19          9
+  9 participant01 block01 trial009               19          4
+ 10 participant01 block01 trial010               39          4
+ 11 participant01 block01 trial011               19          0
+ 12 participant01 block01 trial012                9          4
+ 13 participant01 block02 trial013               39          9
+ 14 participant01 block02 trial014               19          6
+ 15 participant01 block02 trial015               39          6
+ 16 participant01 block02 trial016                9          0
+ 17 participant01 block02 trial017               39          4
+ 18 participant01 block02 trial018               19          0
+ 19 participant01 block02 trial019                9          4
+ 20 participant01 block02 trial020                9          9
+ 21 participant01 block02 trial021               39          0
+ 22 participant01 block02 trial022               19          4
+ 23 participant01 block02 trial023                9          6
+ 24 participant01 block02 trial024               19          9
+ 25 participant01 block03 trial025               19          6
+ 26 participant01 block03 trial026                9          4
+ 27 participant01 block03 trial027               19          9
+ 28 participant01 block03 trial028               19          0
+ 29 participant01 block03 trial029                9          9
+ 30 participant01 block03 trial030                9          6
+ 31 participant01 block03 trial031               39          0
+ 32 participant01 block03 trial032               19          4
+ 33 participant01 block03 trial033                9          0
+ 34 participant01 block03 trial034               39          4
+ 35 participant01 block03 trial035               39          9
+ 36 participant01 block03 trial036               39          6
+ 37 participant02 block04 trial037                9          4
+ 38 participant02 block04 trial038               19          9
+ 39 participant02 block04 trial039                9          9
+ 40 participant02 block04 trial040               19          0
+ 41 participant02 block04 trial041                9          6
+ 42 participant02 block04 trial042               39          0
+ 43 participant02 block04 trial043               39          9
+ 44 participant02 block04 trial044               39          6
+ 45 participant02 block04 trial045               39          4
+ 46 participant02 block04 trial046               19          4
+ 47 participant02 block04 trial047               19          6
+ 48 participant02 block04 trial048                9          0
+ 49 participant02 block05 trial049               39          0
+ 50 participant02 block05 trial050               39          4
+ 51 participant02 block05 trial051               39          9
+ 52 participant02 block05 trial052                9          4
+ 53 participant02 block05 trial053                9          6
+ 54 participant02 block05 trial054               39          6
+ 55 participant02 block05 trial055               19          9
+ 56 participant02 block05 trial056               19          0
+ 57 participant02 block05 trial057                9          0
+ 58 participant02 block05 trial058               19          6
+ 59 participant02 block05 trial059                9          9
+ 60 participant02 block05 trial060               19          4
+ 61 participant02 block06 trial061               39          0
+ 62 participant02 block06 trial062               19          0
+ 63 participant02 block06 trial063               19          9
+ 64 participant02 block06 trial064                9          0
+ 65 participant02 block06 trial065                9          6
+ 66 participant02 block06 trial066               39          4
+ 67 participant02 block06 trial067                9          4
+ 68 participant02 block06 trial068                9          9
+ 69 participant02 block06 trial069               39          9
+ 70 participant02 block06 trial070               39          6
+ 71 participant02 block06 trial071               19          4
+ 72 participant02 block06 trial072               19          6
+ 73 participant03 block07 trial073               19          4
+ 74 participant03 block07 trial074                9          9
+ 75 participant03 block07 trial075               19          0
+ 76 participant03 block07 trial076               19          9
+ 77 participant03 block07 trial077               39          4
+ 78 participant03 block07 trial078                9          0
+ 79 participant03 block07 trial079               39          9
+ 80 participant03 block07 trial080               19          6
+ 81 participant03 block07 trial081                9          4
+ 82 participant03 block07 trial082               39          0
+ 83 participant03 block07 trial083               39          6
+ 84 participant03 block07 trial084                9          6
+ 85 participant03 block08 trial085                9          9
+ 86 participant03 block08 trial086               19          4
+ 87 participant03 block08 trial087                9          4
+ 88 participant03 block08 trial088               39          9
+ 89 participant03 block08 trial089               39          4
+ 90 participant03 block08 trial090               19          0
+ 91 participant03 block08 trial091               19          6
+ 92 participant03 block08 trial092               39          6
+ 93 participant03 block08 trial093               39          0
+ 94 participant03 block08 trial094                9          0
+ 95 participant03 block08 trial095               19          9
+ 96 participant03 block08 trial096                9          6
+ 97 participant03 block09 trial097                9          9
+ 98 participant03 block09 trial098               39          4
+ 99 participant03 block09 trial099               39          0
+100 participant03 block09 trial100                9          0
+101 participant03 block09 trial101               19          0
+102 participant03 block09 trial102               39          9
+103 participant03 block09 trial103                9          4
+104 participant03 block09 trial104               19          6
+105 participant03 block09 trial105                9          6
+106 participant03 block09 trial106               39          6
+107 participant03 block09 trial107               19          9
+108 participant03 block09 trial108               19          4
+109 participant04 block10 trial109               19          6
+110 participant04 block10 trial110                9          4
+111 participant04 block10 trial111               39          0
+112 participant04 block10 trial112               19          4
+113 participant04 block10 trial113               19          9
+114 participant04 block10 trial114                9          6
+115 participant04 block10 trial115                9          0
+116 participant04 block10 trial116               19          0
+117 participant04 block10 trial117               39          4
+118 participant04 block10 trial118                9          9
+119 participant04 block10 trial119               39          6
+120 participant04 block10 trial120               39          9
+121 participant04 block11 trial121                9          4
+122 participant04 block11 trial122                9          0
+123 participant04 block11 trial123               19          6
+124 participant04 block11 trial124               39          4
+125 participant04 block11 trial125               19          9
+126 participant04 block11 trial126               19          4
+127 participant04 block11 trial127               39          0
+128 participant04 block11 trial128                9          9
+129 participant04 block11 trial129                9          6
+130 participant04 block11 trial130               39          6
+131 participant04 block11 trial131               19          0
+132 participant04 block11 trial132               39          9
+133 participant04 block12 trial133               39          6
+134 participant04 block12 trial134               19          0
+135 participant04 block12 trial135                9          9
+136 participant04 block12 trial136                9          0
+137 participant04 block12 trial137               39          4
+138 participant04 block12 trial138               19          9
+139 participant04 block12 trial139               39          0
+140 participant04 block12 trial140               19          6
+141 participant04 block12 trial141                9          6
+142 participant04 block12 trial142                9          4
+143 participant04 block12 trial143               39          9
+144 participant04 block12 trial144               19          4
+145 participant05 block13 trial145               19          0
+146 participant05 block13 trial146               39          4
+147 participant05 block13 trial147                9          9
+148 participant05 block13 trial148               39          9
+149 participant05 block13 trial149                9          6
+150 participant05 block13 trial150               19          4
+151 participant05 block13 trial151               19          6
+152 participant05 block13 trial152                9          4
+153 participant05 block13 trial153               19          9
+154 participant05 block13 trial154               39          0
+155 participant05 block13 trial155               39          6
+156 participant05 block13 trial156                9          0
+157 participant05 block14 trial157                9          0
+158 participant05 block14 trial158               19          9
+159 participant05 block14 trial159               19          0
+160 participant05 block14 trial160                9          6
+161 participant05 block14 trial161               39          4
+162 participant05 block14 trial162               39          9
+163 participant05 block14 trial163               19          6
+164 participant05 block14 trial164               19          4
+165 participant05 block14 trial165               39          6
+166 participant05 block14 trial166                9          4
+167 participant05 block14 trial167                9          9
+168 participant05 block14 trial168               39          0
+169 participant05 block15 trial169               19          4
+170 participant05 block15 trial170                9          4
+171 participant05 block15 trial171                9          0
+172 participant05 block15 trial172               39          4
+173 participant05 block15 trial173               39          9
+174 participant05 block15 trial174                9          6
+175 participant05 block15 trial175                9          9
+176 participant05 block15 trial176               19          6
+177 participant05 block15 trial177               19          9
+178 participant05 block15 trial178               39          0
+179 participant05 block15 trial179               39          6
+180 participant05 block15 trial180               19          0
+181 participant06 block16 trial181               39          4
+182 participant06 block16 trial182                9          9
+183 participant06 block16 trial183               39          6
+184 participant06 block16 trial184               39          0
+185 participant06 block16 trial185               19          9
+186 participant06 block16 trial186                9          0
+187 participant06 block16 trial187               19          6
+188 participant06 block16 trial188               39          9
+189 participant06 block16 trial189                9          4
+190 participant06 block16 trial190                9          6
+191 participant06 block16 trial191               19          0
+192 participant06 block16 trial192               19          4
+193 participant06 block17 trial193               39          9
+194 participant06 block17 trial194                9          0
+195 participant06 block17 trial195               19          4
+196 participant06 block17 trial196               19          6
+197 participant06 block17 trial197               39          0
+198 participant06 block17 trial198               19          9
+199 participant06 block17 trial199               19          0
+200 participant06 block17 trial200               39          4
+201 participant06 block17 trial201                9          9
+202 participant06 block17 trial202                9          6
+203 participant06 block17 trial203                9          4
+204 participant06 block17 trial204               39          6
+205 participant06 block18 trial205               19          0
+206 participant06 block18 trial206                9          0
+207 participant06 block18 trial207               39          4
+208 participant06 block18 trial208               19          6
+209 participant06 block18 trial209               19          9
+210 participant06 block18 trial210               39          9
+211 participant06 block18 trial211                9          6
+212 participant06 block18 trial212                9          9
+213 participant06 block18 trial213                9          4
+214 participant06 block18 trial214               39          6
+215 participant06 block18 trial215               19          4
+216 participant06 block18 trial216               39          0
+217 participant07 block19 trial217               19          0
+218 participant07 block19 trial218               19          6
+219 participant07 block19 trial219               39          9
+220 participant07 block19 trial220                9          4
+221 participant07 block19 trial221               19          4
+222 participant07 block19 trial222               19          9
+223 participant07 block19 trial223               39          4
+224 participant07 block19 trial224                9          0
+225 participant07 block19 trial225                9          9
+226 participant07 block19 trial226               39          0
+227 participant07 block19 trial227               39          6
+228 participant07 block19 trial228                9          6
+229 participant07 block20 trial229               19          9
+230 participant07 block20 trial230               19          6
+231 participant07 block20 trial231                9          6
+232 participant07 block20 trial232               19          0
+233 participant07 block20 trial233               39          4
+234 participant07 block20 trial234               39          9
+235 participant07 block20 trial235               19          4
+236 participant07 block20 trial236                9          4
+237 participant07 block20 trial237                9          0
+238 participant07 block20 trial238                9          9
+239 participant07 block20 trial239               39          6
+240 participant07 block20 trial240               39          0
+241 participant07 block21 trial241                9          6
+242 participant07 block21 trial242               19          0
+243 participant07 block21 trial243               19          4
+244 participant07 block21 trial244               39          0
+245 participant07 block21 trial245                9          4
+246 participant07 block21 trial246               19          6
+247 participant07 block21 trial247               39          4
+248 participant07 block21 trial248                9          0
+249 participant07 block21 trial249               39          9
+250 participant07 block21 trial250               19          9
+251 participant07 block21 trial251                9          9
+252 participant07 block21 trial252               39          6
+253 participant08 block22 trial253                9          6
+254 participant08 block22 trial254               19          9
+255 participant08 block22 trial255                9          4
+256 participant08 block22 trial256               39          6
+257 participant08 block22 trial257                9          9
+258 participant08 block22 trial258               19          6
+259 participant08 block22 trial259               39          4
+260 participant08 block22 trial260               19          0
+261 participant08 block22 trial261                9          0
+262 participant08 block22 trial262               39          9
+263 participant08 block22 trial263               19          4
+264 participant08 block22 trial264               39          0
+265 participant08 block23 trial265               39          0
+266 participant08 block23 trial266               19          6
+267 participant08 block23 trial267               39          9
+268 participant08 block23 trial268               19          0
+269 participant08 block23 trial269               19          9
+270 participant08 block23 trial270                9          4
+271 participant08 block23 trial271               39          4
+272 participant08 block23 trial272                9          6
+273 participant08 block23 trial273               39          6
+274 participant08 block23 trial274                9          9
+275 participant08 block23 trial275                9          0
+276 participant08 block23 trial276               19          4
+277 participant08 block24 trial277                9          9
+278 participant08 block24 trial278               19          4
+279 participant08 block24 trial279                9          0
+280 participant08 block24 trial280               39          9
+281 participant08 block24 trial281               19          9
+282 participant08 block24 trial282                9          4
+283 participant08 block24 trial283               39          0
+284 participant08 block24 trial284                9          6
+285 participant08 block24 trial285               19          0
+286 participant08 block24 trial286               39          4
+287 participant08 block24 trial287               39          6
+288 participant08 block24 trial288               19          6
+289 participant09 block25 trial289               39          9
+290 participant09 block25 trial290               19          0
+291 participant09 block25 trial291               39          0
+292 participant09 block25 trial292                9          6
+293 participant09 block25 trial293               19          9
+294 participant09 block25 trial294                9          9
+295 participant09 block25 trial295               39          4
+296 participant09 block25 trial296               39          6
+297 participant09 block25 trial297               19          4
+298 participant09 block25 trial298                9          4
+299 participant09 block25 trial299               19          6
+300 participant09 block25 trial300                9          0
+301 participant09 block26 trial301               39          9
+302 participant09 block26 trial302                9          4
+303 participant09 block26 trial303               19          9
+304 participant09 block26 trial304               19          4
+305 participant09 block26 trial305                9          0
+306 participant09 block26 trial306               39          4
+307 participant09 block26 trial307                9          9
+308 participant09 block26 trial308               19          6
+309 participant09 block26 trial309                9          6
+310 participant09 block26 trial310               39          6
+311 participant09 block26 trial311               39          0
+312 participant09 block26 trial312               19          0
+313 participant09 block27 trial313                9          4
+314 participant09 block27 trial314               39          4
+315 participant09 block27 trial315               39          9
+316 participant09 block27 trial316                9          6
+317 participant09 block27 trial317               19          0
+318 participant09 block27 trial318               39          0
+319 participant09 block27 trial319                9          9
+320 participant09 block27 trial320               19          4
+321 participant09 block27 trial321               19          6
+322 participant09 block27 trial322               39          6
+323 participant09 block27 trial323               19          9
+324 participant09 block27 trial324                9          0
+325 participant10 block28 trial325               19          9
+326 participant10 block28 trial326               19          0
+327 participant10 block28 trial327                9          0
+328 participant10 block28 trial328               19          6
+329 participant10 block28 trial329                9          9
+330 participant10 block28 trial330               39          6
+331 participant10 block28 trial331               39          0
+332 participant10 block28 trial332               39          9
+333 participant10 block28 trial333               39          4
+334 participant10 block28 trial334                9          4
+335 participant10 block28 trial335                9          6
+336 participant10 block28 trial336               19          4
+337 participant10 block29 trial337               19          4
+338 participant10 block29 trial338               39          4
+339 participant10 block29 trial339               39          6
+340 participant10 block29 trial340               19          0
+341 participant10 block29 trial341               39          0
+342 participant10 block29 trial342               39          9
+343 participant10 block29 trial343               19          6
+344 participant10 block29 trial344               19          9
+345 participant10 block29 trial345                9          9
+346 participant10 block29 trial346                9          0
+347 participant10 block29 trial347                9          4
+348 participant10 block29 trial348                9          6
+349 participant10 block30 trial349               39          4
+350 participant10 block30 trial350                9          9
+351 participant10 block30 trial351               19          0
+352 participant10 block30 trial352               39          0
+353 participant10 block30 trial353                9          4
+354 participant10 block30 trial354                9          0
+355 participant10 block30 trial355               19          4
+356 participant10 block30 trial356               19          9
+357 participant10 block30 trial357               39          6
+358 participant10 block30 trial358                9          6
+359 participant10 block30 trial359               39          9
+360 participant10 block30 trial360               19          6
+361 participant11 block31 trial361               39          4
+362 participant11 block31 trial362               39          0
+363 participant11 block31 trial363               19          0
+364 participant11 block31 trial364               19          4
+365 participant11 block31 trial365                9          9
+366 participant11 block31 trial366                9          6
+367 participant11 block31 trial367               19          9
+368 participant11 block31 trial368               39          9
+369 participant11 block31 trial369                9          4
+370 participant11 block31 trial370               39          6
+371 participant11 block31 trial371                9          0
+372 participant11 block31 trial372               19          6
+373 participant11 block32 trial373               39          9
+374 participant11 block32 trial374               39          6
+375 participant11 block32 trial375               19          4
+376 participant11 block32 trial376               19          9
+377 participant11 block32 trial377               19          6
+378 participant11 block32 trial378               39          0
+379 participant11 block32 trial379                9          9
+380 participant11 block32 trial380               19          0
+381 participant11 block32 trial381                9          4
+382 participant11 block32 trial382                9          0
+383 participant11 block32 trial383                9          6
+384 participant11 block32 trial384               39          4
+385 participant11 block33 trial385               19          4
+386 participant11 block33 trial386                9          6
+387 participant11 block33 trial387               39          4
+388 participant11 block33 trial388               19          9
+389 participant11 block33 trial389               19          6
+390 participant11 block33 trial390                9          4
+391 participant11 block33 trial391               39          0
+392 participant11 block33 trial392               19          0
+393 participant11 block33 trial393               39          6
+394 participant11 block33 trial394                9          9
+395 participant11 block33 trial395                9          0
+396 participant11 block33 trial396               39          9
+397 participant12 block34 trial397               39          9
+398 participant12 block34 trial398               19          9
+399 participant12 block34 trial399                9          9
+400 participant12 block34 trial400               19          0
+401 participant12 block34 trial401               19          6
+402 participant12 block34 trial402               39          4
+403 participant12 block34 trial403                9          6
+404 participant12 block34 trial404               39          0
+405 participant12 block34 trial405                9          0
+406 participant12 block34 trial406                9          4
+407 participant12 block34 trial407               19          4
+408 participant12 block34 trial408               39          6
+409 participant12 block35 trial409               19          6
+410 participant12 block35 trial410                9          0
+411 participant12 block35 trial411               39          9
+412 participant12 block35 trial412               39          6
+413 participant12 block35 trial413               19          0
+414 participant12 block35 trial414               19          9
+415 participant12 block35 trial415                9          9
+416 participant12 block35 trial416                9          6
+417 participant12 block35 trial417               19          4
+418 participant12 block35 trial418               39          4
+419 participant12 block35 trial419               39          0
+420 participant12 block35 trial420                9          4
+421 participant12 block36 trial421                9          0
+422 participant12 block36 trial422               39          0
+423 participant12 block36 trial423                9          6
+424 participant12 block36 trial424                9          9
+425 participant12 block36 trial425               19          6
+426 participant12 block36 trial426               19          0
+427 participant12 block36 trial427                9          4
+428 participant12 block36 trial428               39          6
+429 participant12 block36 trial429               39          4
+430 participant12 block36 trial430               19          4
+431 participant12 block36 trial431               39          9
+432 participant12 block36 trial432               19          9

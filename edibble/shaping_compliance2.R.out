@@ -1,0 +1,184 @@
+# An edibble: 180 x 4
+      participant   block    trial      shape
+          <U(12)> <U(36)> <U(180)>     <T(5)>
+            <chr>   <chr>    <chr>      <chr>
+  1 participant01 block01 trial001      large
+  2 participant01 block01 trial002 horizontal
+  3 participant01 block01 trial003   triangle
+  4 participant01 block01 trial004   vertical
+  5 participant01 block01 trial005      small
+  6 participant01 block02 trial006      large
+  7 participant01 block02 trial007   triangle
+  8 participant01 block02 trial008   vertical
+  9 participant01 block02 trial009      small
+ 10 participant01 block02 trial010 horizontal
+ 11 participant01 block03 trial011      small
+ 12 participant01 block03 trial012      large
+ 13 participant01 block03 trial013   triangle
+ 14 participant01 block03 trial014 horizontal
+ 15 participant01 block03 trial015   vertical
+ 16 participant02 block04 trial016   vertical
+ 17 participant02 block04 trial017      large
+ 18 participant02 block04 trial018   triangle
+ 19 participant02 block04 trial019 horizontal
+ 20 participant02 block04 trial020      small
+ 21 participant02 block05 trial021   triangle
+ 22 participant02 block05 trial022      small
+ 23 participant02 block05 trial023      large
+ 24 participant02 block05 trial024   vertical
+ 25 participant02 block05 trial025 horizontal
+ 26 participant02 block06 trial026   triangle
+ 27 participant02 block06 trial027      small
+ 28 participant02 block06 trial028 horizontal
+ 29 participant02 block06 trial029      large
+ 30 participant02 block06 trial030   vertical
+ 31 participant03 block07 trial031   vertical
+ 32 participant03 block07 trial032 horizontal
+ 33 participant03 block07 trial033      large
+ 34 participant03 block07 trial034      small
+ 35 participant03 block07 trial035   triangle
+ 36 participant03 block08 trial036      small
+ 37 participant03 block08 trial037 horizontal
+ 38 participant03 block08 trial038   vertical
+ 39 participant03 block08 trial039   triangle
+ 40 participant03 block08 trial040      large
+ 41 participant03 block09 trial041      large
+ 42 participant03 block09 trial042 horizontal
+ 43 participant03 block09 trial043      small
+ 44 participant03 block09 trial044   triangle
+ 45 participant03 block09 trial045   vertical
+ 46 participant04 block10 trial046   vertical
+ 47 participant04 block10 trial047      small
+ 48 participant04 block10 trial048      large
+ 49 participant04 block10 trial049 horizontal
+ 50 participant04 block10 trial050   triangle
+ 51 participant04 block11 trial051      large
+ 52 participant04 block11 trial052      small
+ 53 participant04 block11 trial053   triangle
+ 54 participant04 block11 trial054 horizontal
+ 55 participant04 block11 trial055   vertical
+ 56 participant04 block12 trial056   vertical
+ 57 participant04 block12 trial057 horizontal
+ 58 participant04 block12 trial058      small
+ 59 participant04 block12 trial059      large
+ 60 participant04 block12 trial060   triangle
+ 61 participant05 block13 trial061   triangle
+ 62 participant05 block13 trial062 horizontal
+ 63 participant05 block13 trial063   vertical
+ 64 participant05 block13 trial064      small
+ 65 participant05 block13 trial065      large
+ 66 participant05 block14 trial066   triangle
+ 67 participant05 block14 trial067      large
+ 68 participant05 block14 trial068      small
+ 69 participant05 block14 trial069 horizontal
+ 70 participant05 block14 trial070   vertical
+ 71 participant05 block15 trial071      small
+ 72 participant05 block15 trial072 horizontal
+ 73 participant05 block15 trial073   triangle
+ 74 participant05 block15 trial074      large
+ 75 participant05 block15 trial075   vertical
+ 76 participant06 block16 trial076      small
+ 77 participant06 block16 trial077   triangle
+ 78 participant06 block16 trial078 horizontal
+ 79 participant06 block16 trial079      large
+ 80 participant06 block16 trial080   vertical
+ 81 participant06 block17 trial081      large
+ 82 participant06 block17 trial082   triangle
+ 83 participant06 block17 trial083      small
+ 84 participant06 block17 trial084 horizontal
+ 85 participant06 block17 trial085   vertical
+ 86 participant06 block18 trial086   vertical
+ 87 participant06 block18 trial087      small
+ 88 participant06 block18 trial088      large
+ 89 participant06 block18 trial089 horizontal
+ 90 participant06 block18 trial090   triangle
+ 91 participant07 block19 trial091      small
+ 92 participant07 block19 trial092   vertical
+ 93 participant07 block19 trial093   triangle
+ 94 participant07 block19 trial094 horizontal
+ 95 participant07 block19 trial095      large
+ 96 participant07 block20 trial096   triangle
+ 97 participant07 block20 trial097 horizontal
+ 98 participant07 block20 trial098      large
+ 99 participant07 block20 trial099   vertical
+100 participant07 block20 trial100      small
+101 participant07 block21 trial101      small
+102 participant07 block21 trial102   triangle
+103 participant07 block21 trial103      large
+104 participant07 block21 trial104   vertical
+105 participant07 block21 trial105 horizontal
+106 participant08 block22 trial106      large
+107 participant08 block22 trial107   vertical
+108 participant08 block22 trial108   triangle
+109 participant08 block22 trial109 horizontal
+110 participant08 block22 trial110      small
+111 participant08 block23 trial111      small
+112 participant08 block23 trial112   vertical
+113 participant08 block23 trial113      large
+114 participant08 block23 trial114 horizontal
+115 participant08 block23 trial115   triangle
+116 participant08 block24 trial116   triangle
+117 participant08 block24 trial117 horizontal
+118 participant08 block24 trial118      large
+119 participant08 block24 trial119   vertical
+120 participant08 block24 trial120      small
+121 participant09 block25 trial121 horizontal
+122 participant09 block25 trial122      small
+123 participant09 block25 trial123   triangle
+124 participant09 block25 trial124   vertical
+125 participant09 block25 trial125      large
+126 participant09 block26 trial126   triangle
+127 participant09 block26 trial127      large
+128 participant09 block26 trial128 horizontal
+129 participant09 block26 trial129      small
+130 participant09 block26 trial130   vertical
+131 participant09 block27 trial131   vertical
+132 participant09 block27 trial132      small
+133 participant09 block27 trial133   triangle
+134 participant09 block27 trial134 horizontal
+135 participant09 block27 trial135      large
+136 participant10 block28 trial136   triangle
+137 participant10 block28 trial137   vertical
+138 participant10 block28 trial138 horizontal
+139 participant10 block28 trial139      large
+140 participant10 block28 trial140      small
+141 participant10 block29 trial141      small
+142 participant10 block29 trial142 horizontal
+143 participant10 block29 trial143   triangle
+144 participant10 block29 trial144      large
+145 participant10 block29 trial145   vertical
+146 participant10 block30 trial146   triangle
+147 participant10 block30 trial147      small
+148 participant10 block30 trial148 horizontal
+149 participant10 block30 trial149   vertical
+150 participant10 block30 trial150      large
+151 participant11 block31 trial151      small
+152 participant11 block31 trial152 horizontal
+153 participant11 block31 trial153      large
+154 participant11 block31 trial154   triangle
+155 participant11 block31 trial155   vertical
+156 participant11 block32 trial156   triangle
+157 participant11 block32 trial157      small
+158 participant11 block32 trial158   vertical
+159 participant11 block32 trial159 horizontal
+160 participant11 block32 trial160      large
+161 participant11 block33 trial161 horizontal
+162 participant11 block33 trial162      large
+163 participant11 block33 trial163   vertical
+164 participant11 block33 trial164   triangle
+165 participant11 block33 trial165      small
+166 participant12 block34 trial166   triangle
+167 participant12 block34 trial167      large
+168 participant12 block34 trial168 horizontal
+169 participant12 block34 trial169   vertical
+170 participant12 block34 trial170      small
+171 participant12 block35 trial171 horizontal
+172 participant12 block35 trial172      large
+173 participant12 block35 trial173      small
+174 participant12 block35 trial174   vertical
+175 participant12 block35 trial175   triangle
+176 participant12 block36 trial176   vertical
+177 participant12 block36 trial177 horizontal
+178 participant12 block36 trial178      large
+179 participant12 block36 trial179      small
+180 participant12 block36 trial180   triangle

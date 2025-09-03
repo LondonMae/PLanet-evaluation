@@ -1,0 +1,115 @@
+***EXPERIMENT PLANS***
+
+plan 1:
+	trial 1: footstep = full, posture = back
+	trial 2: footstep = full, posture = straight
+	trial 3: footstep = full, posture = desk
+	trial 4: footstep = rear, posture = back
+	trial 5: footstep = fore, posture = desk
+	trial 6: footstep = rear, posture = straight
+	trial 7: footstep = fore, posture = back
+	trial 8: footstep = rear, posture = desk
+	trial 9: footstep = fore, posture = straight
+plan 2:
+	trial 1: footstep = fore, posture = desk
+	trial 2: footstep = full, posture = back
+	trial 3: footstep = fore, posture = back
+	trial 4: footstep = rear, posture = desk
+	trial 5: footstep = rear, posture = straight
+	trial 6: footstep = full, posture = desk
+	trial 7: footstep = full, posture = straight
+	trial 8: footstep = fore, posture = straight
+	trial 9: footstep = rear, posture = back
+plan 3:
+	trial 1: footstep = rear, posture = straight
+	trial 2: footstep = fore, posture = desk
+	trial 3: footstep = full, posture = back
+	trial 4: footstep = full, posture = straight
+	trial 5: footstep = fore, posture = straight
+	trial 6: footstep = fore, posture = back
+	trial 7: footstep = rear, posture = back
+	trial 8: footstep = full, posture = desk
+	trial 9: footstep = rear, posture = desk
+plan 4:
+	trial 1: footstep = full, posture = straight
+	trial 2: footstep = rear, posture = back
+	trial 3: footstep = fore, posture = straight
+	trial 4: footstep = fore, posture = desk
+	trial 5: footstep = full, posture = desk
+	trial 6: footstep = full, posture = back
+	trial 7: footstep = rear, posture = desk
+	trial 8: footstep = fore, posture = back
+	trial 9: footstep = rear, posture = straight
+plan 5:
+	trial 1: footstep = full, posture = desk
+	trial 2: footstep = fore, posture = straight
+	trial 3: footstep = rear, posture = desk
+	trial 4: footstep = fore, posture = back
+	trial 5: footstep = full, posture = back
+	trial 6: footstep = rear, posture = back
+	trial 7: footstep = rear, posture = straight
+	trial 8: footstep = fore, posture = desk
+	trial 9: footstep = full, posture = straight
+plan 6:
+	trial 1: footstep = rear, posture = back
+	trial 2: footstep = full, posture = desk
+	trial 3: footstep = rear, posture = straight
+	trial 4: footstep = fore, posture = straight
+	trial 5: footstep = fore, posture = back
+	trial 6: footstep = rear, posture = desk
+	trial 7: footstep = fore, posture = desk
+	trial 8: footstep = full, posture = straight
+	trial 9: footstep = full, posture = back
+plan 7:
+	trial 1: footstep = fore, posture = straight
+	trial 2: footstep = fore, posture = back
+	trial 3: footstep = rear, posture = back
+	trial 4: footstep = full, posture = back
+	trial 5: footstep = rear, posture = desk
+	trial 6: footstep = full, posture = straight
+	trial 7: footstep = full, posture = desk
+	trial 8: footstep = rear, posture = straight
+	trial 9: footstep = fore, posture = desk
+plan 8:
+	trial 1: footstep = fore, posture = back
+	trial 2: footstep = rear, posture = desk
+	trial 3: footstep = fore, posture = desk
+	trial 4: footstep = rear, posture = straight
+	trial 5: footstep = full, posture = straight
+	trial 6: footstep = fore, posture = straight
+	trial 7: footstep = full, posture = back
+	trial 8: footstep = rear, posture = back
+	trial 9: footstep = full, posture = desk
+plan 9:
+	trial 1: footstep = rear, posture = desk
+	trial 2: footstep = rear, posture = straight
+	trial 3: footstep = full, posture = straight
+	trial 4: footstep = full, posture = desk
+	trial 5: footstep = rear, posture = back
+	trial 6: footstep = fore, posture = desk
+	trial 7: footstep = fore, posture = straight
+	trial 8: footstep = full, posture = back
+	trial 9: footstep = fore, posture = back
+ 
+
+***ASSIGNMENT***
+
+    pid  plan
+0     1     8
+1     2     3
+2     3     7
+3     4     2
+4     5     8
+5     6     6
+6     7     2
+7     8     7
+8     9     1
+9    10     5
+10   11     4
+11   12     1
+12   13     0
+13   14     6
+14   15     3
+15   16     4
+16   17     5
+17   18     0

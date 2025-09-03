@@ -1,0 +1,15 @@
+[
+  [ [ 'sensory', 'disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'sensory', 'no_disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'motor', 'disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'motor', 'no_disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'cognitive', 'disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'cognitive', 'no_disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'sensory', 'disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'sensory', 'no_disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'motor', 'disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'motor', 'no_disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'cognitive', 'disability', [length]: 2 ], [length]: 1 ],
+  [ [ 'cognitive', 'no_disability', [length]: 2 ], [length]: 1 ],
+  [length]: 12
+]

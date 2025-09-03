@@ -1,0 +1,127 @@
+***EXPERIMENT PLANS***
+
+plan 1:
+	trial 1: Gesture = Spread
+	trial 2: Gesture = Clockwise Swipe
+	trial 3: Gesture = Swipe Down
+	trial 4: Gesture = Swipe Left
+	trial 5: Gesture = Pinch
+	trial 6: Gesture = Tap
+	trial 7: Gesture = Swipe Up
+	trial 8: Gesture = Counterclockwise Swipe
+	trial 9: Gesture = Double Tap
+	trial 10: Gesture = Rest
+plan 2:
+	trial 1: Gesture = Rest
+	trial 2: Gesture = Clockwise Swipe
+	trial 3: Gesture = Swipe Up
+	trial 4: Gesture = Swipe Right
+	trial 5: Gesture = Spread
+	trial 6: Gesture = Pinch
+	trial 7: Gesture = Counterclockwise Swipe
+	trial 8: Gesture = Double Tap
+	trial 9: Gesture = Swipe Down
+	trial 10: Gesture = Swipe Left
+plan 3:
+	trial 1: Gesture = Swipe Up
+	trial 2: Gesture = Swipe Down
+	trial 3: Gesture = Swipe Right
+	trial 4: Gesture = Tap
+	trial 5: Gesture = Counterclockwise Swipe
+	trial 6: Gesture = Pinch
+	trial 7: Gesture = Swipe Left
+	trial 8: Gesture = Rest
+	trial 9: Gesture = Spread
+	trial 10: Gesture = Double Tap
+plan 4:
+	trial 1: Gesture = Clockwise Swipe
+	trial 2: Gesture = Counterclockwise Swipe
+	trial 3: Gesture = Tap
+	trial 4: Gesture = Swipe Left
+	trial 5: Gesture = Rest
+	trial 6: Gesture = Swipe Up
+	trial 7: Gesture = Spread
+	trial 8: Gesture = Swipe Down
+	trial 9: Gesture = Double Tap
+	trial 10: Gesture = Pinch
+plan 5:
+	trial 1: Gesture = Rest
+	trial 2: Gesture = Counterclockwise Swipe
+	trial 3: Gesture = Spread
+	trial 4: Gesture = Pinch
+	trial 5: Gesture = Swipe Right
+	trial 6: Gesture = Swipe Up
+	trial 7: Gesture = Swipe Left
+	trial 8: Gesture = Clockwise Swipe
+	trial 9: Gesture = Tap
+	trial 10: Gesture = Double Tap
+plan 6:
+	trial 1: Gesture = Counterclockwise Swipe
+	trial 2: Gesture = Clockwise Swipe
+	trial 3: Gesture = Swipe Up
+	trial 4: Gesture = Rest
+	trial 5: Gesture = Swipe Left
+	trial 6: Gesture = Tap
+	trial 7: Gesture = Spread
+	trial 8: Gesture = Pinch
+	trial 9: Gesture = Swipe Right
+	trial 10: Gesture = Swipe Down
+plan 7:
+	trial 1: Gesture = Swipe Up
+	trial 2: Gesture = Counterclockwise Swipe
+	trial 3: Gesture = Swipe Right
+	trial 4: Gesture = Swipe Down
+	trial 5: Gesture = Spread
+	trial 6: Gesture = Tap
+	trial 7: Gesture = Rest
+	trial 8: Gesture = Double Tap
+	trial 9: Gesture = Pinch
+	trial 10: Gesture = Clockwise Swipe
+plan 8:
+	trial 1: Gesture = Swipe Down
+	trial 2: Gesture = Spread
+	trial 3: Gesture = Swipe Right
+	trial 4: Gesture = Swipe Left
+	trial 5: Gesture = Swipe Up
+	trial 6: Gesture = Counterclockwise Swipe
+	trial 7: Gesture = Tap
+	trial 8: Gesture = Clockwise Swipe
+	trial 9: Gesture = Pinch
+	trial 10: Gesture = Rest
+plan 9:
+	trial 1: Gesture = Swipe Right
+	trial 2: Gesture = Pinch
+	trial 3: Gesture = Double Tap
+	trial 4: Gesture = Swipe Up
+	trial 5: Gesture = Rest
+	trial 6: Gesture = Swipe Left
+	trial 7: Gesture = Tap
+	trial 8: Gesture = Clockwise Swipe
+	trial 9: Gesture = Counterclockwise Swipe
+	trial 10: Gesture = Spread
+plan 10:
+	trial 1: Gesture = Tap
+	trial 2: Gesture = Rest
+	trial 3: Gesture = Swipe Right
+	trial 4: Gesture = Counterclockwise Swipe
+	trial 5: Gesture = Pinch
+	trial 6: Gesture = Spread
+	trial 7: Gesture = Swipe Left
+	trial 8: Gesture = Double Tap
+	trial 9: Gesture = Swipe Up
+	trial 10: Gesture = Swipe Down
+ 
+
+***ASSIGNMENT***
+
+   pid  plan
+0    1     0
+1    2     7
+2    3     5
+3    4     4
+4    5     1
+5    6     2
+6    7     6
+7    8     8
+8    9     3
+9   10     9

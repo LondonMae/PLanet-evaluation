@@ -1,0 +1,2044 @@
+# An edibble: 2,040 x 4
+        participant     trial intervention   statement
+           <U(204)>  <U(~2k)>       <T(3)>     <T(40)>
+              <chr>     <chr>        <chr>       <chr>
+   1 participant001 trial0001      control statement15
+   2 participant001 trial0002      control statement18
+   3 participant001 trial0003      control statement33
+   4 participant001 trial0004      control statement23
+   5 participant001 trial0005      control statement07
+   6 participant001 trial0006      control statement02
+   7 participant001 trial0007      control statement28
+   8 participant001 trial0008      control statement12
+   9 participant001 trial0009      control statement20
+  10 participant001 trial0010      control statement30
+  11 participant002 trial0011           ai statement04
+  12 participant002 trial0012           ai statement25
+  13 participant002 trial0013           ai statement27
+  14 participant002 trial0014           ai statement40
+  15 participant002 trial0015           ai statement23
+  16 participant002 trial0016           ai statement26
+  17 participant002 trial0017           ai statement22
+  18 participant002 trial0018           ai statement06
+  19 participant002 trial0019           ai statement13
+  20 participant002 trial0020           ai statement20
+  21 participant003 trial0021      control statement05
+  22 participant003 trial0022      control statement27
+  23 participant003 trial0023      control statement31
+  24 participant003 trial0024      control statement36
+  25 participant003 trial0025      control statement16
+  26 participant003 trial0026      control statement07
+  27 participant003 trial0027      control statement25
+  28 participant003 trial0028      control statement30
+  29 participant003 trial0029      control statement20
+  30 participant003 trial0030      control statement21
+  31 participant004 trial0031           ai statement39
+  32 participant004 trial0032           ai statement05
+  33 participant004 trial0033           ai statement22
+  34 participant004 trial0034           ai statement16
+  35 participant004 trial0035           ai statement24
+  36 participant004 trial0036           ai statement17
+  37 participant004 trial0037           ai statement23
+  38 participant004 trial0038           ai statement38
+  39 participant004 trial0039           ai statement25
+  40 participant004 trial0040           ai statement32
+  41 participant005 trial0041           ai statement20
+  42 participant005 trial0042           ai statement04
+  43 participant005 trial0043           ai statement36
+  44 participant005 trial0044           ai statement21
+  45 participant005 trial0045           ai statement35
+  46 participant005 trial0046           ai statement22
+  47 participant005 trial0047           ai statement07
+  48 participant005 trial0048           ai statement03
+  49 participant005 trial0049           ai statement28
+  50 participant005 trial0050           ai statement38
+  51 participant006 trial0051      control statement25
+  52 participant006 trial0052      control statement07
+  53 participant006 trial0053      control statement11
+  54 participant006 trial0054      control statement37
+  55 participant006 trial0055      control statement17
+  56 participant006 trial0056      control statement13
+  57 participant006 trial0057      control statement29
+  58 participant006 trial0058      control statement19
+  59 participant006 trial0059      control statement30
+  60 participant006 trial0060      control statement32
+  61 participant007 trial0061           ai statement32
+  62 participant007 trial0062           ai statement02
+  63 participant007 trial0063           ai statement11
+  64 participant007 trial0064           ai statement06
+  65 participant007 trial0065           ai statement15
+  66 participant007 trial0066           ai statement21
+  67 participant007 trial0067           ai statement07
+  68 participant007 trial0068           ai statement36
+  69 participant007 trial0069           ai statement16
+  70 participant007 trial0070           ai statement38
+  71 participant008 trial0071       causal statement30
+  72 participant008 trial0072       causal statement07
+  73 participant008 trial0073       causal statement14
+  74 participant008 trial0074       causal statement16
+  75 participant008 trial0075       causal statement13
+  76 participant008 trial0076       causal statement21
+  77 participant008 trial0077       causal statement06
+  78 participant008 trial0078       causal statement22
+  79 participant008 trial0079       causal statement19
+  80 participant008 trial0080       causal statement08
+  81 participant009 trial0081           ai statement04
+  82 participant009 trial0082           ai statement33
+  83 participant009 trial0083           ai statement22
+  84 participant009 trial0084           ai statement38
+  85 participant009 trial0085           ai statement34
+  86 participant009 trial0086           ai statement28
+  87 participant009 trial0087           ai statement36
+  88 participant009 trial0088           ai statement02
+  89 participant009 trial0089           ai statement11
+  90 participant009 trial0090           ai statement27
+  91 participant010 trial0091      control statement08
+  92 participant010 trial0092      control statement38
+  93 participant010 trial0093      control statement26
+  94 participant010 trial0094      control statement27
+  95 participant010 trial0095      control statement01
+  96 participant010 trial0096      control statement12
+  97 participant010 trial0097      control statement02
+  98 participant010 trial0098      control statement17
+  99 participant010 trial0099      control statement15
+ 100 participant010 trial0100      control statement23
+ 101 participant011 trial0101      control statement35
+ 102 participant011 trial0102      control statement07
+ 103 participant011 trial0103      control statement24
+ 104 participant011 trial0104      control statement36
+ 105 participant011 trial0105      control statement09
+ 106 participant011 trial0106      control statement23
+ 107 participant011 trial0107      control statement40
+ 108 participant011 trial0108      control statement32
+ 109 participant011 trial0109      control statement25
+ 110 participant011 trial0110      control statement39
+ 111 participant012 trial0111           ai statement30
+ 112 participant012 trial0112           ai statement13
+ 113 participant012 trial0113           ai statement16
+ 114 participant012 trial0114           ai statement37
+ 115 participant012 trial0115           ai statement33
+ 116 participant012 trial0116           ai statement20
+ 117 participant012 trial0117           ai statement31
+ 118 participant012 trial0118           ai statement08
+ 119 participant012 trial0119           ai statement26
+ 120 participant012 trial0120           ai statement24
+ 121 participant013 trial0121       causal statement04
+ 122 participant013 trial0122       causal statement26
+ 123 participant013 trial0123       causal statement18
+ 124 participant013 trial0124       causal statement20
+ 125 participant013 trial0125       causal statement33
+ 126 participant013 trial0126       causal statement40
+ 127 participant013 trial0127       causal statement12
+ 128 participant013 trial0128       causal statement30
+ 129 participant013 trial0129       causal statement01
+ 130 participant013 trial0130       causal statement19
+ 131 participant014 trial0131      control statement01
+ 132 participant014 trial0132      control statement12
+ 133 participant014 trial0133      control statement14
+ 134 participant014 trial0134      control statement19
+ 135 participant014 trial0135      control statement30
+ 136 participant014 trial0136      control statement26
+ 137 participant014 trial0137      control statement25
+ 138 participant014 trial0138      control statement22
+ 139 participant014 trial0139      control statement11
+ 140 participant014 trial0140      control statement38
+ 141 participant015 trial0141       causal statement12
+ 142 participant015 trial0142       causal statement21
+ 143 participant015 trial0143       causal statement19
+ 144 participant015 trial0144       causal statement35
+ 145 participant015 trial0145       causal statement27
+ 146 participant015 trial0146       causal statement31
+ 147 participant015 trial0147       causal statement04
+ 148 participant015 trial0148       causal statement11
+ 149 participant015 trial0149       causal statement08
+ 150 participant015 trial0150       causal statement05
+ 151 participant016 trial0151      control statement33
+ 152 participant016 trial0152      control statement26
+ 153 participant016 trial0153      control statement40
+ 154 participant016 trial0154      control statement24
+ 155 participant016 trial0155      control statement14
+ 156 participant016 trial0156      control statement19
+ 157 participant016 trial0157      control statement11
+ 158 participant016 trial0158      control statement32
+ 159 participant016 trial0159      control statement15
+ 160 participant016 trial0160      control statement20
+ 161 participant017 trial0161           ai statement05
+ 162 participant017 trial0162           ai statement11
+ 163 participant017 trial0163           ai statement14
+ 164 participant017 trial0164           ai statement34
+ 165 participant017 trial0165           ai statement07
+ 166 participant017 trial0166           ai statement03
+ 167 participant017 trial0167           ai statement12
+ 168 participant017 trial0168           ai statement39
+ 169 participant017 trial0169           ai statement15
+ 170 participant017 trial0170           ai statement24
+ 171 participant018 trial0171           ai statement14
+ 172 participant018 trial0172           ai statement02
+ 173 participant018 trial0173           ai statement36
+ 174 participant018 trial0174           ai statement29
+ 175 participant018 trial0175           ai statement34
+ 176 participant018 trial0176           ai statement09
+ 177 participant018 trial0177           ai statement31
+ 178 participant018 trial0178           ai statement17
+ 179 participant018 trial0179           ai statement25
+ 180 participant018 trial0180           ai statement16
+ 181 participant019 trial0181      control statement24
+ 182 participant019 trial0182      control statement18
+ 183 participant019 trial0183      control statement23
+ 184 participant019 trial0184      control statement21
+ 185 participant019 trial0185      control statement39
+ 186 participant019 trial0186      control statement33
+ 187 participant019 trial0187      control statement05
+ 188 participant019 trial0188      control statement07
+ 189 participant019 trial0189      control statement03
+ 190 participant019 trial0190      control statement19
+ 191 participant020 trial0191           ai statement27
+ 192 participant020 trial0192           ai statement34
+ 193 participant020 trial0193           ai statement10
+ 194 participant020 trial0194           ai statement32
+ 195 participant020 trial0195           ai statement35
+ 196 participant020 trial0196           ai statement07
+ 197 participant020 trial0197           ai statement20
+ 198 participant020 trial0198           ai statement28
+ 199 participant020 trial0199           ai statement04
+ 200 participant020 trial0200           ai statement26
+ 201 participant021 trial0201      control statement11
+ 202 participant021 trial0202      control statement30
+ 203 participant021 trial0203      control statement03
+ 204 participant021 trial0204      control statement37
+ 205 participant021 trial0205      control statement40
+ 206 participant021 trial0206      control statement04
+ 207 participant021 trial0207      control statement22
+ 208 participant021 trial0208      control statement10
+ 209 participant021 trial0209      control statement27
+ 210 participant021 trial0210      control statement09
+ 211 participant022 trial0211       causal statement22
+ 212 participant022 trial0212       causal statement13
+ 213 participant022 trial0213       causal statement04
+ 214 participant022 trial0214       causal statement01
+ 215 participant022 trial0215       causal statement18
+ 216 participant022 trial0216       causal statement12
+ 217 participant022 trial0217       causal statement39
+ 218 participant022 trial0218       causal statement15
+ 219 participant022 trial0219       causal statement20
+ 220 participant022 trial0220       causal statement29
+ 221 participant023 trial0221      control statement06
+ 222 participant023 trial0222      control statement20
+ 223 participant023 trial0223      control statement13
+ 224 participant023 trial0224      control statement17
+ 225 participant023 trial0225      control statement05
+ 226 participant023 trial0226      control statement40
+ 227 participant023 trial0227      control statement11
+ 228 participant023 trial0228      control statement28
+ 229 participant023 trial0229      control statement38
+ 230 participant023 trial0230      control statement32
+ 231 participant024 trial0231      control statement36
+ 232 participant024 trial0232      control statement28
+ 233 participant024 trial0233      control statement21
+ 234 participant024 trial0234      control statement31
+ 235 participant024 trial0235      control statement34
+ 236 participant024 trial0236      control statement39
+ 237 participant024 trial0237      control statement02
+ 238 participant024 trial0238      control statement01
+ 239 participant024 trial0239      control statement38
+ 240 participant024 trial0240      control statement05
+ 241 participant025 trial0241      control statement01
+ 242 participant025 trial0242      control statement11
+ 243 participant025 trial0243      control statement39
+ 244 participant025 trial0244      control statement31
+ 245 participant025 trial0245      control statement23
+ 246 participant025 trial0246      control statement13
+ 247 participant025 trial0247      control statement08
+ 248 participant025 trial0248      control statement32
+ 249 participant025 trial0249      control statement07
+ 250 participant025 trial0250      control statement04
+ 251 participant026 trial0251       causal statement22
+ 252 participant026 trial0252       causal statement21
+ 253 participant026 trial0253       causal statement01
+ 254 participant026 trial0254       causal statement09
+ 255 participant026 trial0255       causal statement04
+ 256 participant026 trial0256       causal statement39
+ 257 participant026 trial0257       causal statement40
+ 258 participant026 trial0258       causal statement23
+ 259 participant026 trial0259       causal statement33
+ 260 participant026 trial0260       causal statement16
+ 261 participant027 trial0261           ai statement12
+ 262 participant027 trial0262           ai statement09
+ 263 participant027 trial0263           ai statement02
+ 264 participant027 trial0264           ai statement19
+ 265 participant027 trial0265           ai statement32
+ 266 participant027 trial0266           ai statement07
+ 267 participant027 trial0267           ai statement27
+ 268 participant027 trial0268           ai statement06
+ 269 participant027 trial0269           ai statement39
+ 270 participant027 trial0270           ai statement29
+ 271 participant028 trial0271       causal statement31
+ 272 participant028 trial0272       causal statement17
+ 273 participant028 trial0273       causal statement18
+ 274 participant028 trial0274       causal statement38
+ 275 participant028 trial0275       causal statement07
+ 276 participant028 trial0276       causal statement33
+ 277 participant028 trial0277       causal statement25
+ 278 participant028 trial0278       causal statement28
+ 279 participant028 trial0279       causal statement30
+ 280 participant028 trial0280       causal statement11
+ 281 participant029 trial0281       causal statement16
+ 282 participant029 trial0282       causal statement15
+ 283 participant029 trial0283       causal statement34
+ 284 participant029 trial0284       causal statement19
+ 285 participant029 trial0285       causal statement27
+ 286 participant029 trial0286       causal statement28
+ 287 participant029 trial0287       causal statement06
+ 288 participant029 trial0288       causal statement20
+ 289 participant029 trial0289       causal statement01
+ 290 participant029 trial0290       causal statement35
+ 291 participant030 trial0291           ai statement20
+ 292 participant030 trial0292           ai statement01
+ 293 participant030 trial0293           ai statement16
+ 294 participant030 trial0294           ai statement29
+ 295 participant030 trial0295           ai statement10
+ 296 participant030 trial0296           ai statement36
+ 297 participant030 trial0297           ai statement05
+ 298 participant030 trial0298           ai statement19
+ 299 participant030 trial0299           ai statement32
+ 300 participant030 trial0300           ai statement38
+ 301 participant031 trial0301       causal statement06
+ 302 participant031 trial0302       causal statement20
+ 303 participant031 trial0303       causal statement39
+ 304 participant031 trial0304       causal statement04
+ 305 participant031 trial0305       causal statement21
+ 306 participant031 trial0306       causal statement19
+ 307 participant031 trial0307       causal statement31
+ 308 participant031 trial0308       causal statement03
+ 309 participant031 trial0309       causal statement17
+ 310 participant031 trial0310       causal statement27
+ 311 participant032 trial0311       causal statement21
+ 312 participant032 trial0312       causal statement26
+ 313 participant032 trial0313       causal statement09
+ 314 participant032 trial0314       causal statement08
+ 315 participant032 trial0315       causal statement28
+ 316 participant032 trial0316       causal statement39
+ 317 participant032 trial0317       causal statement40
+ 318 participant032 trial0318       causal statement37
+ 319 participant032 trial0319       causal statement38
+ 320 participant032 trial0320       causal statement12
+ 321 participant033 trial0321       causal statement01
+ 322 participant033 trial0322       causal statement03
+ 323 participant033 trial0323       causal statement24
+ 324 participant033 trial0324       causal statement07
+ 325 participant033 trial0325       causal statement13
+ 326 participant033 trial0326       causal statement05
+ 327 participant033 trial0327       causal statement12
+ 328 participant033 trial0328       causal statement28
+ 329 participant033 trial0329       causal statement17
+ 330 participant033 trial0330       causal statement10
+ 331 participant034 trial0331       causal statement35
+ 332 participant034 trial0332       causal statement30
+ 333 participant034 trial0333       causal statement16
+ 334 participant034 trial0334       causal statement31
+ 335 participant034 trial0335       causal statement29
+ 336 participant034 trial0336       causal statement33
+ 337 participant034 trial0337       causal statement06
+ 338 participant034 trial0338       causal statement38
+ 339 participant034 trial0339       causal statement28
+ 340 participant034 trial0340       causal statement37
+ 341 participant035 trial0341       causal statement09
+ 342 participant035 trial0342       causal statement37
+ 343 participant035 trial0343       causal statement06
+ 344 participant035 trial0344       causal statement32
+ 345 participant035 trial0345       causal statement13
+ 346 participant035 trial0346       causal statement03
+ 347 participant035 trial0347       causal statement21
+ 348 participant035 trial0348       causal statement22
+ 349 participant035 trial0349       causal statement14
+ 350 participant035 trial0350       causal statement31
+ 351 participant036 trial0351       causal statement05
+ 352 participant036 trial0352       causal statement29
+ 353 participant036 trial0353       causal statement04
+ 354 participant036 trial0354       causal statement20
+ 355 participant036 trial0355       causal statement08
+ 356 participant036 trial0356       causal statement35
+ 357 participant036 trial0357       causal statement15
+ 358 participant036 trial0358       causal statement16
+ 359 participant036 trial0359       causal statement11
+ 360 participant036 trial0360       causal statement19
+ 361 participant037 trial0361       causal statement30
+ 362 participant037 trial0362       causal statement09
+ 363 participant037 trial0363       causal statement02
+ 364 participant037 trial0364       causal statement08
+ 365 participant037 trial0365       causal statement34
+ 366 participant037 trial0366       causal statement19
+ 367 participant037 trial0367       causal statement36
+ 368 participant037 trial0368       causal statement14
+ 369 participant037 trial0369       causal statement39
+ 370 participant037 trial0370       causal statement10
+ 371 participant038 trial0371       causal statement38
+ 372 participant038 trial0372       causal statement39
+ 373 participant038 trial0373       causal statement13
+ 374 participant038 trial0374       causal statement37
+ 375 participant038 trial0375       causal statement03
+ 376 participant038 trial0376       causal statement18
+ 377 participant038 trial0377       causal statement22
+ 378 participant038 trial0378       causal statement35
+ 379 participant038 trial0379       causal statement20
+ 380 participant038 trial0380       causal statement31
+ 381 participant039 trial0381           ai statement14
+ 382 participant039 trial0382           ai statement11
+ 383 participant039 trial0383           ai statement32
+ 384 participant039 trial0384           ai statement29
+ 385 participant039 trial0385           ai statement18
+ 386 participant039 trial0386           ai statement40
+ 387 participant039 trial0387           ai statement13
+ 388 participant039 trial0388           ai statement28
+ 389 participant039 trial0389           ai statement27
+ 390 participant039 trial0390           ai statement05
+ 391 participant040 trial0391           ai statement19
+ 392 participant040 trial0392           ai statement31
+ 393 participant040 trial0393           ai statement15
+ 394 participant040 trial0394           ai statement08
+ 395 participant040 trial0395           ai statement06
+ 396 participant040 trial0396           ai statement17
+ 397 participant040 trial0397           ai statement36
+ 398 participant040 trial0398           ai statement26
+ 399 participant040 trial0399           ai statement12
+ 400 participant040 trial0400           ai statement20
+ 401 participant041 trial0401      control statement13
+ 402 participant041 trial0402      control statement15
+ 403 participant041 trial0403      control statement40
+ 404 participant041 trial0404      control statement34
+ 405 participant041 trial0405      control statement12
+ 406 participant041 trial0406      control statement03
+ 407 participant041 trial0407      control statement02
+ 408 participant041 trial0408      control statement25
+ 409 participant041 trial0409      control statement29
+ 410 participant041 trial0410      control statement21
+ 411 participant042 trial0411       causal statement33
+ 412 participant042 trial0412       causal statement08
+ 413 participant042 trial0413       causal statement34
+ 414 participant042 trial0414       causal statement14
+ 415 participant042 trial0415       causal statement06
+ 416 participant042 trial0416       causal statement21
+ 417 participant042 trial0417       causal statement22
+ 418 participant042 trial0418       causal statement10
+ 419 participant042 trial0419       causal statement28
+ 420 participant042 trial0420       causal statement11
+ 421 participant043 trial0421       causal statement07
+ 422 participant043 trial0422       causal statement01
+ 423 participant043 trial0423       causal statement02
+ 424 participant043 trial0424       causal statement37
+ 425 participant043 trial0425       causal statement23
+ 426 participant043 trial0426       causal statement06
+ 427 participant043 trial0427       causal statement26
+ 428 participant043 trial0428       causal statement19
+ 429 participant043 trial0429       causal statement18
+ 430 participant043 trial0430       causal statement35
+ 431 participant044 trial0431      control statement20
+ 432 participant044 trial0432      control statement17
+ 433 participant044 trial0433      control statement07
+ 434 participant044 trial0434      control statement05
+ 435 participant044 trial0435      control statement33
+ 436 participant044 trial0436      control statement14
+ 437 participant044 trial0437      control statement09
+ 438 participant044 trial0438      control statement18
+ 439 participant044 trial0439      control statement25
+ 440 participant044 trial0440      control statement19
+ 441 participant045 trial0441           ai statement39
+ 442 participant045 trial0442           ai statement31
+ 443 participant045 trial0443           ai statement10
+ 444 participant045 trial0444           ai statement16
+ 445 participant045 trial0445           ai statement17
+ 446 participant045 trial0446           ai statement24
+ 447 participant045 trial0447           ai statement14
+ 448 participant045 trial0448           ai statement35
+ 449 participant045 trial0449           ai statement40
+ 450 participant045 trial0450           ai statement38
+ 451 participant046 trial0451           ai statement36
+ 452 participant046 trial0452           ai statement18
+ 453 participant046 trial0453           ai statement28
+ 454 participant046 trial0454           ai statement16
+ 455 participant046 trial0455           ai statement23
+ 456 participant046 trial0456           ai statement19
+ 457 participant046 trial0457           ai statement30
+ 458 participant046 trial0458           ai statement39
+ 459 participant046 trial0459           ai statement15
+ 460 participant046 trial0460           ai statement06
+ 461 participant047 trial0461      control statement07
+ 462 participant047 trial0462      control statement32
+ 463 participant047 trial0463      control statement13
+ 464 participant047 trial0464      control statement09
+ 465 participant047 trial0465      control statement27
+ 466 participant047 trial0466      control statement36
+ 467 participant047 trial0467      control statement26
+ 468 participant047 trial0468      control statement28
+ 469 participant047 trial0469      control statement31
+ 470 participant047 trial0470      control statement12
+ 471 participant048 trial0471       causal statement37
+ 472 participant048 trial0472       causal statement32
+ 473 participant048 trial0473       causal statement01
+ 474 participant048 trial0474       causal statement29
+ 475 participant048 trial0475       causal statement33
+ 476 participant048 trial0476       causal statement20
+ 477 participant048 trial0477       causal statement02
+ 478 participant048 trial0478       causal statement03
+ 479 participant048 trial0479       causal statement21
+ 480 participant048 trial0480       causal statement24
+ 481 participant049 trial0481           ai statement08
+ 482 participant049 trial0482           ai statement17
+ 483 participant049 trial0483           ai statement28
+ 484 participant049 trial0484           ai statement04
+ 485 participant049 trial0485           ai statement35
+ 486 participant049 trial0486           ai statement18
+ 487 participant049 trial0487           ai statement10
+ 488 participant049 trial0488           ai statement39
+ 489 participant049 trial0489           ai statement34
+ 490 participant049 trial0490           ai statement29
+ 491 participant050 trial0491       causal statement29
+ 492 participant050 trial0492       causal statement37
+ 493 participant050 trial0493       causal statement30
+ 494 participant050 trial0494       causal statement13
+ 495 participant050 trial0495       causal statement34
+ 496 participant050 trial0496       causal statement15
+ 497 participant050 trial0497       causal statement22
+ 498 participant050 trial0498       causal statement01
+ 499 participant050 trial0499       causal statement32
+ 500 participant050 trial0500       causal statement05
+ 501 participant051 trial0501      control statement35
+ 502 participant051 trial0502      control statement34
+ 503 participant051 trial0503      control statement33
+ 504 participant051 trial0504      control statement12
+ 505 participant051 trial0505      control statement19
+ 506 participant051 trial0506      control statement28
+ 507 participant051 trial0507      control statement03
+ 508 participant051 trial0508      control statement07
+ 509 participant051 trial0509      control statement16
+ 510 participant051 trial0510      control statement32
+ 511 participant052 trial0511      control statement08
+ 512 participant052 trial0512      control statement09
+ 513 participant052 trial0513      control statement02
+ 514 participant052 trial0514      control statement31
+ 515 participant052 trial0515      control statement25
+ 516 participant052 trial0516      control statement40
+ 517 participant052 trial0517      control statement18
+ 518 participant052 trial0518      control statement06
+ 519 participant052 trial0519      control statement11
+ 520 participant052 trial0520      control statement24
+ 521 participant053 trial0521           ai statement23
+ 522 participant053 trial0522           ai statement09
+ 523 participant053 trial0523           ai statement15
+ 524 participant053 trial0524           ai statement30
+ 525 participant053 trial0525           ai statement20
+ 526 participant053 trial0526           ai statement38
+ 527 participant053 trial0527           ai statement19
+ 528 participant053 trial0528           ai statement08
+ 529 participant053 trial0529           ai statement22
+ 530 participant053 trial0530           ai statement34
+ 531 participant054 trial0531           ai statement27
+ 532 participant054 trial0532           ai statement24
+ 533 participant054 trial0533           ai statement08
+ 534 participant054 trial0534           ai statement11
+ 535 participant054 trial0535           ai statement13
+ 536 participant054 trial0536           ai statement02
+ 537 participant054 trial0537           ai statement36
+ 538 participant054 trial0538           ai statement18
+ 539 participant054 trial0539           ai statement37
+ 540 participant054 trial0540           ai statement17
+ 541 participant055 trial0541       causal statement05
+ 542 participant055 trial0542       causal statement12
+ 543 participant055 trial0543       causal statement27
+ 544 participant055 trial0544       causal statement34
+ 545 participant055 trial0545       causal statement37
+ 546 participant055 trial0546       causal statement08
+ 547 participant055 trial0547       causal statement21
+ 548 participant055 trial0548       causal statement16
+ 549 participant055 trial0549       causal statement13
+ 550 participant055 trial0550       causal statement26
+ 551 participant056 trial0551           ai statement26
+ 552 participant056 trial0552           ai statement25
+ 553 participant056 trial0553           ai statement33
+ 554 participant056 trial0554           ai statement32
+ 555 participant056 trial0555           ai statement27
+ 556 participant056 trial0556           ai statement14
+ 557 participant056 trial0557           ai statement30
+ 558 participant056 trial0558           ai statement02
+ 559 participant056 trial0559           ai statement15
+ 560 participant056 trial0560           ai statement03
+ 561 participant057 trial0561       causal statement34
+ 562 participant057 trial0562       causal statement31
+ 563 participant057 trial0563       causal statement38
+ 564 participant057 trial0564       causal statement32
+ 565 participant057 trial0565       causal statement02
+ 566 participant057 trial0566       causal statement17
+ 567 participant057 trial0567       causal statement18
+ 568 participant057 trial0568       causal statement16
+ 569 participant057 trial0569       causal statement20
+ 570 participant057 trial0570       causal statement07
+ 571 participant058 trial0571           ai statement27
+ 572 participant058 trial0572           ai statement24
+ 573 participant058 trial0573           ai statement12
+ 574 participant058 trial0574           ai statement14
+ 575 participant058 trial0575           ai statement10
+ 576 participant058 trial0576           ai statement18
+ 577 participant058 trial0577           ai statement05
+ 578 participant058 trial0578           ai statement20
+ 579 participant058 trial0579           ai statement09
+ 580 participant058 trial0580           ai statement37
+ 581 participant059 trial0581       causal statement12
+ 582 participant059 trial0582       causal statement32
+ 583 participant059 trial0583       causal statement08
+ 584 participant059 trial0584       causal statement29
+ 585 participant059 trial0585       causal statement20
+ 586 participant059 trial0586       causal statement03
+ 587 participant059 trial0587       causal statement14
+ 588 participant059 trial0588       causal statement27
+ 589 participant059 trial0589       causal statement07
+ 590 participant059 trial0590       causal statement25
+ 591 participant060 trial0591           ai statement36
+ 592 participant060 trial0592           ai statement32
+ 593 participant060 trial0593           ai statement35
+ 594 participant060 trial0594           ai statement40
+ 595 participant060 trial0595           ai statement26
+ 596 participant060 trial0596           ai statement39
+ 597 participant060 trial0597           ai statement33
+ 598 participant060 trial0598           ai statement06
+ 599 participant060 trial0599           ai statement03
+ 600 participant060 trial0600           ai statement10
+ 601 participant061 trial0601           ai statement38
+ 602 participant061 trial0602           ai statement25
+ 603 participant061 trial0603           ai statement05
+ 604 participant061 trial0604           ai statement37
+ 605 participant061 trial0605           ai statement27
+ 606 participant061 trial0606           ai statement36
+ 607 participant061 trial0607           ai statement24
+ 608 participant061 trial0608           ai statement34
+ 609 participant061 trial0609           ai statement40
+ 610 participant061 trial0610           ai statement30
+ 611 participant062 trial0611      control statement28
+ 612 participant062 trial0612      control statement35
+ 613 participant062 trial0613      control statement08
+ 614 participant062 trial0614      control statement05
+ 615 participant062 trial0615      control statement01
+ 616 participant062 trial0616      control statement02
+ 617 participant062 trial0617      control statement34
+ 618 participant062 trial0618      control statement06
+ 619 participant062 trial0619      control statement23
+ 620 participant062 trial0620      control statement04
+ 621 participant063 trial0621      control statement31
+ 622 participant063 trial0622      control statement02
+ 623 participant063 trial0623      control statement28
+ 624 participant063 trial0624      control statement39
+ 625 participant063 trial0625      control statement03
+ 626 participant063 trial0626      control statement20
+ 627 participant063 trial0627      control statement40
+ 628 participant063 trial0628      control statement26
+ 629 participant063 trial0629      control statement07
+ 630 participant063 trial0630      control statement37
+ 631 participant064 trial0631       causal statement16
+ 632 participant064 trial0632       causal statement26
+ 633 participant064 trial0633       causal statement14
+ 634 participant064 trial0634       causal statement33
+ 635 participant064 trial0635       causal statement15
+ 636 participant064 trial0636       causal statement10
+ 637 participant064 trial0637       causal statement13
+ 638 participant064 trial0638       causal statement09
+ 639 participant064 trial0639       causal statement35
+ 640 participant064 trial0640       causal statement18
+ 641 participant065 trial0641           ai statement15
+ 642 participant065 trial0642           ai statement20
+ 643 participant065 trial0643           ai statement25
+ 644 participant065 trial0644           ai statement37
+ 645 participant065 trial0645           ai statement30
+ 646 participant065 trial0646           ai statement34
+ 647 participant065 trial0647           ai statement08
+ 648 participant065 trial0648           ai statement31
+ 649 participant065 trial0649           ai statement03
+ 650 participant065 trial0650           ai statement04
+ 651 participant066 trial0651      control statement18
+ 652 participant066 trial0652      control statement39
+ 653 participant066 trial0653      control statement11
+ 654 participant066 trial0654      control statement26
+ 655 participant066 trial0655      control statement19
+ 656 participant066 trial0656      control statement29
+ 657 participant066 trial0657      control statement21
+ 658 participant066 trial0658      control statement01
+ 659 participant066 trial0659      control statement03
+ 660 participant066 trial0660      control statement31
+ 661 participant067 trial0661           ai statement06
+ 662 participant067 trial0662           ai statement15
+ 663 participant067 trial0663           ai statement10
+ 664 participant067 trial0664           ai statement37
+ 665 participant067 trial0665           ai statement02
+ 666 participant067 trial0666           ai statement12
+ 667 participant067 trial0667           ai statement40
+ 668 participant067 trial0668           ai statement07
+ 669 participant067 trial0669           ai statement35
+ 670 participant067 trial0670           ai statement17
+ 671 participant068 trial0671       causal statement09
+ 672 participant068 trial0672       causal statement32
+ 673 participant068 trial0673       causal statement24
+ 674 participant068 trial0674       causal statement29
+ 675 participant068 trial0675       causal statement22
+ 676 participant068 trial0676       causal statement33
+ 677 participant068 trial0677       causal statement31
+ 678 participant068 trial0678       causal statement06
+ 679 participant068 trial0679       causal statement14
+ 680 participant068 trial0680       causal statement04
+ 681 participant069 trial0681      control statement12
+ 682 participant069 trial0682      control statement27
+ 683 participant069 trial0683      control statement21
+ 684 participant069 trial0684      control statement28
+ 685 participant069 trial0685      control statement20
+ 686 participant069 trial0686      control statement10
+ 687 participant069 trial0687      control statement09
+ 688 participant069 trial0688      control statement02
+ 689 participant069 trial0689      control statement16
+ 690 participant069 trial0690      control statement39
+ 691 participant070 trial0691           ai statement40
+ 692 participant070 trial0692           ai statement14
+ 693 participant070 trial0693           ai statement17
+ 694 participant070 trial0694           ai statement23
+ 695 participant070 trial0695           ai statement38
+ 696 participant070 trial0696           ai statement05
+ 697 participant070 trial0697           ai statement15
+ 698 participant070 trial0698           ai statement13
+ 699 participant070 trial0699           ai statement21
+ 700 participant070 trial0700           ai statement16
+ 701 participant071 trial0701       causal statement24
+ 702 participant071 trial0702       causal statement26
+ 703 participant071 trial0703       causal statement28
+ 704 participant071 trial0704       causal statement08
+ 705 participant071 trial0705       causal statement33
+ 706 participant071 trial0706       causal statement21
+ 707 participant071 trial0707       causal statement36
+ 708 participant071 trial0708       causal statement37
+ 709 participant071 trial0709       causal statement05
+ 710 participant071 trial0710       causal statement01
+ 711 participant072 trial0711       causal statement39
+ 712 participant072 trial0712       causal statement27
+ 713 participant072 trial0713       causal statement24
+ 714 participant072 trial0714       causal statement04
+ 715 participant072 trial0715       causal statement07
+ 716 participant072 trial0716       causal statement31
+ 717 participant072 trial0717       causal statement02
+ 718 participant072 trial0718       causal statement35
+ 719 participant072 trial0719       causal statement15
+ 720 participant072 trial0720       causal statement22
+ 721 participant073 trial0721       causal statement32
+ 722 participant073 trial0722       causal statement01
+ 723 participant073 trial0723       causal statement18
+ 724 participant073 trial0724       causal statement17
+ 725 participant073 trial0725       causal statement34
+ 726 participant073 trial0726       causal statement26
+ 727 participant073 trial0727       causal statement24
+ 728 participant073 trial0728       causal statement38
+ 729 participant073 trial0729       causal statement27
+ 730 participant073 trial0730       causal statement29
+ 731 participant074 trial0731      control statement10
+ 732 participant074 trial0732      control statement21
+ 733 participant074 trial0733      control statement39
+ 734 participant074 trial0734      control statement26
+ 735 participant074 trial0735      control statement20
+ 736 participant074 trial0736      control statement29
+ 737 participant074 trial0737      control statement38
+ 738 participant074 trial0738      control statement05
+ 739 participant074 trial0739      control statement31
+ 740 participant074 trial0740      control statement22
+ 741 participant075 trial0741           ai statement33
+ 742 participant075 trial0742           ai statement04
+ 743 participant075 trial0743           ai statement14
+ 744 participant075 trial0744           ai statement13
+ 745 participant075 trial0745           ai statement28
+ 746 participant075 trial0746           ai statement19
+ 747 participant075 trial0747           ai statement11
+ 748 participant075 trial0748           ai statement07
+ 749 participant075 trial0749           ai statement02
+ 750 participant075 trial0750           ai statement25
+ 751 participant076 trial0751      control statement03
+ 752 participant076 trial0752      control statement37
+ 753 participant076 trial0753      control statement30
+ 754 participant076 trial0754      control statement16
+ 755 participant076 trial0755      control statement12
+ 756 participant076 trial0756      control statement40
+ 757 participant076 trial0757      control statement23
+ 758 participant076 trial0758      control statement36
+ 759 participant076 trial0759      control statement06
+ 760 participant076 trial0760      control statement15
+ 761 participant077 trial0761      control statement32
+ 762 participant077 trial0762      control statement35
+ 763 participant077 trial0763      control statement14
+ 764 participant077 trial0764      control statement24
+ 765 participant077 trial0765      control statement08
+ 766 participant077 trial0766      control statement37
+ 767 participant077 trial0767      control statement19
+ 768 participant077 trial0768      control statement27
+ 769 participant077 trial0769      control statement05
+ 770 participant077 trial0770      control statement39
+ 771 participant078 trial0771       causal statement02
+ 772 participant078 trial0772       causal statement28
+ 773 participant078 trial0773       causal statement14
+ 774 participant078 trial0774       causal statement26
+ 775 participant078 trial0775       causal statement17
+ 776 participant078 trial0776       causal statement34
+ 777 participant078 trial0777       causal statement40
+ 778 participant078 trial0778       causal statement29
+ 779 participant078 trial0779       causal statement23
+ 780 participant078 trial0780       causal statement06
+ 781 participant079 trial0781       causal statement31
+ 782 participant079 trial0782       causal statement18
+ 783 participant079 trial0783       causal statement36
+ 784 participant079 trial0784       causal statement07
+ 785 participant079 trial0785       causal statement25
+ 786 participant079 trial0786       causal statement09
+ 787 participant079 trial0787       causal statement08
+ 788 participant079 trial0788       causal statement10
+ 789 participant079 trial0789       causal statement21
+ 790 participant079 trial0790       causal statement01
+ 791 participant080 trial0791      control statement12
+ 792 participant080 trial0792      control statement10
+ 793 participant080 trial0793      control statement26
+ 794 participant080 trial0794      control statement04
+ 795 participant080 trial0795      control statement30
+ 796 participant080 trial0796      control statement05
+ 797 participant080 trial0797      control statement24
+ 798 participant080 trial0798      control statement23
+ 799 participant080 trial0799      control statement11
+ 800 participant080 trial0800      control statement27
+ 801 participant081 trial0801      control statement17
+ 802 participant081 trial0802      control statement31
+ 803 participant081 trial0803      control statement11
+ 804 participant081 trial0804      control statement29
+ 805 participant081 trial0805      control statement03
+ 806 participant081 trial0806      control statement36
+ 807 participant081 trial0807      control statement12
+ 808 participant081 trial0808      control statement38
+ 809 participant081 trial0809      control statement23
+ 810 participant081 trial0810      control statement37
+ 811 participant082 trial0811       causal statement20
+ 812 participant082 trial0812       causal statement09
+ 813 participant082 trial0813       causal statement08
+ 814 participant082 trial0814       causal statement40
+ 815 participant082 trial0815       causal statement16
+ 816 participant082 trial0816       causal statement05
+ 817 participant082 trial0817       causal statement06
+ 818 participant082 trial0818       causal statement10
+ 819 participant082 trial0819       causal statement15
+ 820 participant082 trial0820       causal statement39
+ 821 participant083 trial0821       causal statement33
+ 822 participant083 trial0822       causal statement29
+ 823 participant083 trial0823       causal statement34
+ 824 participant083 trial0824       causal statement10
+ 825 participant083 trial0825       causal statement09
+ 826 participant083 trial0826       causal statement39
+ 827 participant083 trial0827       causal statement07
+ 828 participant083 trial0828       causal statement30
+ 829 participant083 trial0829       causal statement04
+ 830 participant083 trial0830       causal statement18
+ 831 participant084 trial0831       causal statement35
+ 832 participant084 trial0832       causal statement27
+ 833 participant084 trial0833       causal statement02
+ 834 participant084 trial0834       causal statement37
+ 835 participant084 trial0835       causal statement21
+ 836 participant084 trial0836       causal statement10
+ 837 participant084 trial0837       causal statement25
+ 838 participant084 trial0838       causal statement36
+ 839 participant084 trial0839       causal statement13
+ 840 participant084 trial0840       causal statement19
+ 841 participant085 trial0841       causal statement27
+ 842 participant085 trial0842       causal statement04
+ 843 participant085 trial0843       causal statement30
+ 844 participant085 trial0844       causal statement21
+ 845 participant085 trial0845       causal statement17
+ 846 participant085 trial0846       causal statement18
+ 847 participant085 trial0847       causal statement32
+ 848 participant085 trial0848       causal statement16
+ 849 participant085 trial0849       causal statement34
+ 850 participant085 trial0850       causal statement15
+ 851 participant086 trial0851      control statement28
+ 852 participant086 trial0852      control statement24
+ 853 participant086 trial0853      control statement39
+ 854 participant086 trial0854      control statement11
+ 855 participant086 trial0855      control statement26
+ 856 participant086 trial0856      control statement21
+ 857 participant086 trial0857      control statement25
+ 858 participant086 trial0858      control statement23
+ 859 participant086 trial0859      control statement08
+ 860 participant086 trial0860      control statement14
+ 861 participant087 trial0861           ai statement24
+ 862 participant087 trial0862           ai statement05
+ 863 participant087 trial0863           ai statement02
+ 864 participant087 trial0864           ai statement34
+ 865 participant087 trial0865           ai statement38
+ 866 participant087 trial0866           ai statement12
+ 867 participant087 trial0867           ai statement40
+ 868 participant087 trial0868           ai statement04
+ 869 participant087 trial0869           ai statement03
+ 870 participant087 trial0870           ai statement14
+ 871 participant088 trial0871      control statement07
+ 872 participant088 trial0872      control statement23
+ 873 participant088 trial0873      control statement02
+ 874 participant088 trial0874      control statement10
+ 875 participant088 trial0875      control statement09
+ 876 participant088 trial0876      control statement03
+ 877 participant088 trial0877      control statement26
+ 878 participant088 trial0878      control statement01
+ 879 participant088 trial0879      control statement30
+ 880 participant088 trial0880      control statement16
+ 881 participant089 trial0881      control statement30
+ 882 participant089 trial0882      control statement20
+ 883 participant089 trial0883      control statement04
+ 884 participant089 trial0884      control statement09
+ 885 participant089 trial0885      control statement02
+ 886 participant089 trial0886      control statement37
+ 887 participant089 trial0887      control statement25
+ 888 participant089 trial0888      control statement38
+ 889 participant089 trial0889      control statement19
+ 890 participant089 trial0890      control statement28
+ 891 participant090 trial0891           ai statement08
+ 892 participant090 trial0892           ai statement29
+ 893 participant090 trial0893           ai statement23
+ 894 participant090 trial0894           ai statement07
+ 895 participant090 trial0895           ai statement16
+ 896 participant090 trial0896           ai statement38
+ 897 participant090 trial0897           ai statement35
+ 898 participant090 trial0898           ai statement03
+ 899 participant090 trial0899           ai statement11
+ 900 participant090 trial0900           ai statement21
+ 901 participant091 trial0901           ai statement33
+ 902 participant091 trial0902           ai statement10
+ 903 participant091 trial0903           ai statement23
+ 904 participant091 trial0904           ai statement27
+ 905 participant091 trial0905           ai statement03
+ 906 participant091 trial0906           ai statement17
+ 907 participant091 trial0907           ai statement15
+ 908 participant091 trial0908           ai statement13
+ 909 participant091 trial0909           ai statement36
+ 910 participant091 trial0910           ai statement39
+ 911 participant092 trial0911       causal statement31
+ 912 participant092 trial0912       causal statement17
+ 913 participant092 trial0913       causal statement26
+ 914 participant092 trial0914       causal statement08
+ 915 participant092 trial0915       causal statement12
+ 916 participant092 trial0916       causal statement06
+ 917 participant092 trial0917       causal statement34
+ 918 participant092 trial0918       causal statement35
+ 919 participant092 trial0919       causal statement18
+ 920 participant092 trial0920       causal statement22
+ 921 participant093 trial0921           ai statement40
+ 922 participant093 trial0922           ai statement31
+ 923 participant093 trial0923           ai statement01
+ 924 participant093 trial0924           ai statement10
+ 925 participant093 trial0925           ai statement04
+ 926 participant093 trial0926           ai statement19
+ 927 participant093 trial0927           ai statement25
+ 928 participant093 trial0928           ai statement14
+ 929 participant093 trial0929           ai statement27
+ 930 participant093 trial0930           ai statement16
+ 931 participant094 trial0931      control statement38
+ 932 participant094 trial0932      control statement32
+ 933 participant094 trial0933      control statement36
+ 934 participant094 trial0934      control statement13
+ 935 participant094 trial0935      control statement33
+ 936 participant094 trial0936      control statement23
+ 937 participant094 trial0937      control statement39
+ 938 participant094 trial0938      control statement21
+ 939 participant094 trial0939      control statement12
+ 940 participant094 trial0940      control statement28
+ 941 participant095 trial0941       causal statement07
+ 942 participant095 trial0942       causal statement28
+ 943 participant095 trial0943       causal statement35
+ 944 participant095 trial0944       causal statement15
+ 945 participant095 trial0945       causal statement34
+ 946 participant095 trial0946       causal statement05
+ 947 participant095 trial0947       causal statement22
+ 948 participant095 trial0948       causal statement09
+ 949 participant095 trial0949       causal statement37
+ 950 participant095 trial0950       causal statement11
+ 951 participant096 trial0951           ai statement24
+ 952 participant096 trial0952           ai statement03
+ 953 participant096 trial0953           ai statement28
+ 954 participant096 trial0954           ai statement20
+ 955 participant096 trial0955           ai statement29
+ 956 participant096 trial0956           ai statement09
+ 957 participant096 trial0957           ai statement22
+ 958 participant096 trial0958           ai statement06
+ 959 participant096 trial0959           ai statement05
+ 960 participant096 trial0960           ai statement17
+ 961 participant097 trial0961       causal statement13
+ 962 participant097 trial0962       causal statement05
+ 963 participant097 trial0963       causal statement35
+ 964 participant097 trial0964       causal statement11
+ 965 participant097 trial0965       causal statement30
+ 966 participant097 trial0966       causal statement03
+ 967 participant097 trial0967       causal statement36
+ 968 participant097 trial0968       causal statement34
+ 969 participant097 trial0969       causal statement09
+ 970 participant097 trial0970       causal statement16
+ 971 participant098 trial0971      control statement25
+ 972 participant098 trial0972      control statement26
+ 973 participant098 trial0973      control statement29
+ 974 participant098 trial0974      control statement11
+ 975 participant098 trial0975      control statement12
+ 976 participant098 trial0976      control statement06
+ 977 participant098 trial0977      control statement36
+ 978 participant098 trial0978      control statement04
+ 979 participant098 trial0979      control statement21
+ 980 participant098 trial0980      control statement07
+ 981 participant099 trial0981           ai statement01
+ 982 participant099 trial0982           ai statement40
+ 983 participant099 trial0983           ai statement33
+ 984 participant099 trial0984           ai statement28
+ 985 participant099 trial0985           ai statement02
+ 986 participant099 trial0986           ai statement31
+ 987 participant099 trial0987           ai statement27
+ 988 participant099 trial0988           ai statement15
+ 989 participant099 trial0989           ai statement08
+ 990 participant099 trial0990           ai statement14
+ 991 participant100 trial0991           ai statement20
+ 992 participant100 trial0992           ai statement37
+ 993 participant100 trial0993           ai statement16
+ 994 participant100 trial0994           ai statement39
+ 995 participant100 trial0995           ai statement23
+ 996 participant100 trial0996           ai statement35
+ 997 participant100 trial0997           ai statement25
+ 998 participant100 trial0998           ai statement05
+ 999 participant100 trial0999           ai statement12
+1000 participant100 trial1000           ai statement14
+1001 participant101 trial1001           ai statement13
+1002 participant101 trial1002           ai statement21
+1003 participant101 trial1003           ai statement19
+1004 participant101 trial1004           ai statement10
+1005 participant101 trial1005           ai statement22
+1006 participant101 trial1006           ai statement03
+1007 participant101 trial1007           ai statement18
+1008 participant101 trial1008           ai statement24
+1009 participant101 trial1009           ai statement30
+1010 participant101 trial1010           ai statement28
+1011 participant102 trial1011      control statement02
+1012 participant102 trial1012      control statement36
+1013 participant102 trial1013      control statement04
+1014 participant102 trial1014      control statement26
+1015 participant102 trial1015      control statement18
+1016 participant102 trial1016      control statement15
+1017 participant102 trial1017      control statement13
+1018 participant102 trial1018      control statement07
+1019 participant102 trial1019      control statement05
+1020 participant102 trial1020      control statement08
+1021 participant103 trial1021       causal statement17
+1022 participant103 trial1022       causal statement31
+1023 participant103 trial1023       causal statement03
+1024 participant103 trial1024       causal statement30
+1025 participant103 trial1025       causal statement36
+1026 participant103 trial1026       causal statement12
+1027 participant103 trial1027       causal statement02
+1028 participant103 trial1028       causal statement10
+1029 participant103 trial1029       causal statement21
+1030 participant103 trial1030       causal statement32
+1031 participant104 trial1031      control statement20
+1032 participant104 trial1032      control statement22
+1033 participant104 trial1033      control statement14
+1034 participant104 trial1034      control statement27
+1035 participant104 trial1035      control statement36
+1036 participant104 trial1036      control statement09
+1037 participant104 trial1037      control statement01
+1038 participant104 trial1038      control statement23
+1039 participant104 trial1039      control statement35
+1040 participant104 trial1040      control statement33
+1041 participant105 trial1041      control statement28
+1042 participant105 trial1042      control statement08
+1043 participant105 trial1043      control statement18
+1044 participant105 trial1044      control statement19
+1045 participant105 trial1045      control statement05
+1046 participant105 trial1046      control statement12
+1047 participant105 trial1047      control statement40
+1048 participant105 trial1048      control statement32
+1049 participant105 trial1049      control statement22
+1050 participant105 trial1050      control statement30
+1051 participant106 trial1051           ai statement13
+1052 participant106 trial1052           ai statement31
+1053 participant106 trial1053           ai statement23
+1054 participant106 trial1054           ai statement11
+1055 participant106 trial1055           ai statement28
+1056 participant106 trial1056           ai statement26
+1057 participant106 trial1057           ai statement15
+1058 participant106 trial1058           ai statement03
+1059 participant106 trial1059           ai statement10
+1060 participant106 trial1060           ai statement29
+1061 participant107 trial1061           ai statement13
+1062 participant107 trial1062           ai statement04
+1063 participant107 trial1063           ai statement06
+1064 participant107 trial1064           ai statement14
+1065 participant107 trial1065           ai statement25
+1066 participant107 trial1066           ai statement36
+1067 participant107 trial1067           ai statement20
+1068 participant107 trial1068           ai statement39
+1069 participant107 trial1069           ai statement38
+1070 participant107 trial1070           ai statement24
+1071 participant108 trial1071      control statement11
+1072 participant108 trial1072      control statement17
+1073 participant108 trial1073      control statement27
+1074 participant108 trial1074      control statement40
+1075 participant108 trial1075      control statement09
+1076 participant108 trial1076      control statement33
+1077 participant108 trial1077      control statement07
+1078 participant108 trial1078      control statement21
+1079 participant108 trial1079      control statement16
+1080 participant108 trial1080      control statement34
+1081 participant109 trial1081      control statement19
+1082 participant109 trial1082      control statement36
+1083 participant109 trial1083      control statement26
+1084 participant109 trial1084      control statement34
+1085 participant109 trial1085      control statement22
+1086 participant109 trial1086      control statement33
+1087 participant109 trial1087      control statement40
+1088 participant109 trial1088      control statement09
+1089 participant109 trial1089      control statement11
+1090 participant109 trial1090      control statement24
+1091 participant110 trial1091       causal statement25
+1092 participant110 trial1092       causal statement12
+1093 participant110 trial1093       causal statement10
+1094 participant110 trial1094       causal statement34
+1095 participant110 trial1095       causal statement29
+1096 participant110 trial1096       causal statement13
+1097 participant110 trial1097       causal statement21
+1098 participant110 trial1098       causal statement33
+1099 participant110 trial1099       causal statement06
+1100 participant110 trial1100       causal statement35
+1101 participant111 trial1101           ai statement40
+1102 participant111 trial1102           ai statement31
+1103 participant111 trial1103           ai statement37
+1104 participant111 trial1104           ai statement38
+1105 participant111 trial1105           ai statement29
+1106 participant111 trial1106           ai statement23
+1107 participant111 trial1107           ai statement27
+1108 participant111 trial1108           ai statement19
+1109 participant111 trial1109           ai statement07
+1110 participant111 trial1110           ai statement08
+1111 participant112 trial1111           ai statement26
+1112 participant112 trial1112           ai statement05
+1113 participant112 trial1113           ai statement23
+1114 participant112 trial1114           ai statement10
+1115 participant112 trial1115           ai statement14
+1116 participant112 trial1116           ai statement17
+1117 participant112 trial1117           ai statement32
+1118 participant112 trial1118           ai statement02
+1119 participant112 trial1119           ai statement22
+1120 participant112 trial1120           ai statement04
+1121 participant113 trial1121       causal statement28
+1122 participant113 trial1122       causal statement01
+1123 participant113 trial1123       causal statement31
+1124 participant113 trial1124       causal statement19
+1125 participant113 trial1125       causal statement14
+1126 participant113 trial1126       causal statement05
+1127 participant113 trial1127       causal statement13
+1128 participant113 trial1128       causal statement33
+1129 participant113 trial1129       causal statement35
+1130 participant113 trial1130       causal statement02
+1131 participant114 trial1131           ai statement23
+1132 participant114 trial1132           ai statement29
+1133 participant114 trial1133           ai statement36
+1134 participant114 trial1134           ai statement35
+1135 participant114 trial1135           ai statement11
+1136 participant114 trial1136           ai statement19
+1137 participant114 trial1137           ai statement27
+1138 participant114 trial1138           ai statement18
+1139 participant114 trial1139           ai statement40
+1140 participant114 trial1140           ai statement13
+1141 participant115 trial1141       causal statement30
+1142 participant115 trial1142       causal statement06
+1143 participant115 trial1143       causal statement03
+1144 participant115 trial1144       causal statement01
+1145 participant115 trial1145       causal statement11
+1146 participant115 trial1146       causal statement08
+1147 participant115 trial1147       causal statement10
+1148 participant115 trial1148       causal statement09
+1149 participant115 trial1149       causal statement38
+1150 participant115 trial1150       causal statement12
+1151 participant116 trial1151       causal statement04
+1152 participant116 trial1152       causal statement17
+1153 participant116 trial1153       causal statement24
+1154 participant116 trial1154       causal statement15
+1155 participant116 trial1155       causal statement07
+1156 participant116 trial1156       causal statement21
+1157 participant116 trial1157       causal statement23
+1158 participant116 trial1158       causal statement01
+1159 participant116 trial1159       causal statement40
+1160 participant116 trial1160       causal statement34
+1161 participant117 trial1161      control statement05
+1162 participant117 trial1162      control statement15
+1163 participant117 trial1163      control statement17
+1164 participant117 trial1164      control statement21
+1165 participant117 trial1165      control statement14
+1166 participant117 trial1166      control statement01
+1167 participant117 trial1167      control statement30
+1168 participant117 trial1168      control statement31
+1169 participant117 trial1169      control statement04
+1170 participant117 trial1170      control statement35
+1171 participant118 trial1171      control statement24
+1172 participant118 trial1172      control statement08
+1173 participant118 trial1173      control statement26
+1174 participant118 trial1174      control statement16
+1175 participant118 trial1175      control statement34
+1176 participant118 trial1176      control statement29
+1177 participant118 trial1177      control statement28
+1178 participant118 trial1178      control statement07
+1179 participant118 trial1179      control statement13
+1180 participant118 trial1180      control statement06
+1181 participant119 trial1181       causal statement34
+1182 participant119 trial1182       causal statement14
+1183 participant119 trial1183       causal statement23
+1184 participant119 trial1184       causal statement19
+1185 participant119 trial1185       causal statement12
+1186 participant119 trial1186       causal statement09
+1187 participant119 trial1187       causal statement25
+1188 participant119 trial1188       causal statement02
+1189 participant119 trial1189       causal statement38
+1190 participant119 trial1190       causal statement18
+1191 participant120 trial1191           ai statement26
+1192 participant120 trial1192           ai statement39
+1193 participant120 trial1193           ai statement40
+1194 participant120 trial1194           ai statement36
+1195 participant120 trial1195           ai statement15
+1196 participant120 trial1196           ai statement01
+1197 participant120 trial1197           ai statement33
+1198 participant120 trial1198           ai statement37
+1199 participant120 trial1199           ai statement29
+1200 participant120 trial1200           ai statement30
+1201 participant121 trial1201      control statement39
+1202 participant121 trial1202      control statement04
+1203 participant121 trial1203      control statement06
+1204 participant121 trial1204      control statement33
+1205 participant121 trial1205      control statement13
+1206 participant121 trial1206      control statement37
+1207 participant121 trial1207      control statement32
+1208 participant121 trial1208      control statement38
+1209 participant121 trial1209      control statement05
+1210 participant121 trial1210      control statement18
+1211 participant122 trial1211       causal statement14
+1212 participant122 trial1212       causal statement36
+1213 participant122 trial1213       causal statement30
+1214 participant122 trial1214       causal statement22
+1215 participant122 trial1215       causal statement35
+1216 participant122 trial1216       causal statement40
+1217 participant122 trial1217       causal statement29
+1218 participant122 trial1218       causal statement08
+1219 participant122 trial1219       causal statement03
+1220 participant122 trial1220       causal statement25
+1221 participant123 trial1221      control statement11
+1222 participant123 trial1222      control statement25
+1223 participant123 trial1223      control statement02
+1224 participant123 trial1224      control statement22
+1225 participant123 trial1225      control statement24
+1226 participant123 trial1226      control statement35
+1227 participant123 trial1227      control statement20
+1228 participant123 trial1228      control statement17
+1229 participant123 trial1229      control statement26
+1230 participant123 trial1230      control statement21
+1231 participant124 trial1231           ai statement24
+1232 participant124 trial1232           ai statement12
+1233 participant124 trial1233           ai statement30
+1234 participant124 trial1234           ai statement23
+1235 participant124 trial1235           ai statement10
+1236 participant124 trial1236           ai statement16
+1237 participant124 trial1237           ai statement31
+1238 participant124 trial1238           ai statement19
+1239 participant124 trial1239           ai statement07
+1240 participant124 trial1240           ai statement01
+1241 participant125 trial1241      control statement38
+1242 participant125 trial1242      control statement35
+1243 participant125 trial1243      control statement37
+1244 participant125 trial1244      control statement24
+1245 participant125 trial1245      control statement04
+1246 participant125 trial1246      control statement21
+1247 participant125 trial1247      control statement19
+1248 participant125 trial1248      control statement09
+1249 participant125 trial1249      control statement26
+1250 participant125 trial1250      control statement15
+1251 participant126 trial1251      control statement02
+1252 participant126 trial1252      control statement08
+1253 participant126 trial1253      control statement19
+1254 participant126 trial1254      control statement16
+1255 participant126 trial1255      control statement22
+1256 participant126 trial1256      control statement04
+1257 participant126 trial1257      control statement32
+1258 participant126 trial1258      control statement23
+1259 participant126 trial1259      control statement03
+1260 participant126 trial1260      control statement29
+1261 participant127 trial1261           ai statement13
+1262 participant127 trial1262           ai statement25
+1263 participant127 trial1263           ai statement31
+1264 participant127 trial1264           ai statement03
+1265 participant127 trial1265           ai statement39
+1266 participant127 trial1266           ai statement12
+1267 participant127 trial1267           ai statement34
+1268 participant127 trial1268           ai statement22
+1269 participant127 trial1269           ai statement33
+1270 participant127 trial1270           ai statement15
+1271 participant128 trial1271       causal statement02
+1272 participant128 trial1272       causal statement03
+1273 participant128 trial1273       causal statement30
+1274 participant128 trial1274       causal statement11
+1275 participant128 trial1275       causal statement06
+1276 participant128 trial1276       causal statement21
+1277 participant128 trial1277       causal statement24
+1278 participant128 trial1278       causal statement39
+1279 participant128 trial1279       causal statement18
+1280 participant128 trial1280       causal statement14
+1281 participant129 trial1281      control statement22
+1282 participant129 trial1282      control statement14
+1283 participant129 trial1283      control statement28
+1284 participant129 trial1284      control statement11
+1285 participant129 trial1285      control statement37
+1286 participant129 trial1286      control statement12
+1287 participant129 trial1287      control statement01
+1288 participant129 trial1288      control statement39
+1289 participant129 trial1289      control statement15
+1290 participant129 trial1290      control statement16
+1291 participant130 trial1291           ai statement10
+1292 participant130 trial1292           ai statement40
+1293 participant130 trial1293           ai statement11
+1294 participant130 trial1294           ai statement29
+1295 participant130 trial1295           ai statement34
+1296 participant130 trial1296           ai statement37
+1297 participant130 trial1297           ai statement07
+1298 participant130 trial1298           ai statement17
+1299 participant130 trial1299           ai statement22
+1300 participant130 trial1300           ai statement06
+1301 participant131 trial1301       causal statement24
+1302 participant131 trial1302       causal statement20
+1303 participant131 trial1303       causal statement16
+1304 participant131 trial1304       causal statement08
+1305 participant131 trial1305       causal statement18
+1306 participant131 trial1306       causal statement09
+1307 participant131 trial1307       causal statement21
+1308 participant131 trial1308       causal statement33
+1309 participant131 trial1309       causal statement03
+1310 participant131 trial1310       causal statement17
+1311 participant132 trial1311       causal statement03
+1312 participant132 trial1312       causal statement38
+1313 participant132 trial1313       causal statement34
+1314 participant132 trial1314       causal statement32
+1315 participant132 trial1315       causal statement26
+1316 participant132 trial1316       causal statement19
+1317 participant132 trial1317       causal statement27
+1318 participant132 trial1318       causal statement23
+1319 participant132 trial1319       causal statement20
+1320 participant132 trial1320       causal statement31
+1321 participant133 trial1321       causal statement17
+1322 participant133 trial1322       causal statement38
+1323 participant133 trial1323       causal statement39
+1324 participant133 trial1324       causal statement01
+1325 participant133 trial1325       causal statement34
+1326 participant133 trial1326       causal statement13
+1327 participant133 trial1327       causal statement19
+1328 participant133 trial1328       causal statement11
+1329 participant133 trial1329       causal statement26
+1330 participant133 trial1330       causal statement09
+1331 participant134 trial1331       causal statement14
+1332 participant134 trial1332       causal statement07
+1333 participant134 trial1333       causal statement17
+1334 participant134 trial1334       causal statement30
+1335 participant134 trial1335       causal statement33
+1336 participant134 trial1336       causal statement37
+1337 participant134 trial1337       causal statement27
+1338 participant134 trial1338       causal statement21
+1339 participant134 trial1339       causal statement06
+1340 participant134 trial1340       causal statement32
+1341 participant135 trial1341           ai statement15
+1342 participant135 trial1342           ai statement25
+1343 participant135 trial1343           ai statement28
+1344 participant135 trial1344           ai statement24
+1345 participant135 trial1345           ai statement29
+1346 participant135 trial1346           ai statement10
+1347 participant135 trial1347           ai statement38
+1348 participant135 trial1348           ai statement35
+1349 participant135 trial1349           ai statement32
+1350 participant135 trial1350           ai statement18
+1351 participant136 trial1351           ai statement31
+1352 participant136 trial1352           ai statement22
+1353 participant136 trial1353           ai statement33
+1354 participant136 trial1354           ai statement12
+1355 participant136 trial1355           ai statement07
+1356 participant136 trial1356           ai statement40
+1357 participant136 trial1357           ai statement18
+1358 participant136 trial1358           ai statement23
+1359 participant136 trial1359           ai statement38
+1360 participant136 trial1360           ai statement05
+1361 participant137 trial1361           ai statement39
+1362 participant137 trial1362           ai statement15
+1363 participant137 trial1363           ai statement01
+1364 participant137 trial1364           ai statement07
+1365 participant137 trial1365           ai statement32
+1366 participant137 trial1366           ai statement37
+1367 participant137 trial1367           ai statement08
+1368 participant137 trial1368           ai statement18
+1369 participant137 trial1369           ai statement14
+1370 participant137 trial1370           ai statement22
+1371 participant138 trial1371      control statement21
+1372 participant138 trial1372      control statement16
+1373 participant138 trial1373      control statement13
+1374 participant138 trial1374      control statement22
+1375 participant138 trial1375      control statement18
+1376 participant138 trial1376      control statement17
+1377 participant138 trial1377      control statement40
+1378 participant138 trial1378      control statement02
+1379 participant138 trial1379      control statement12
+1380 participant138 trial1380      control statement09
+1381 participant139 trial1381           ai statement33
+1382 participant139 trial1382           ai statement27
+1383 participant139 trial1383           ai statement35
+1384 participant139 trial1384           ai statement38
+1385 participant139 trial1385           ai statement24
+1386 participant139 trial1386           ai statement29
+1387 participant139 trial1387           ai statement30
+1388 participant139 trial1388           ai statement21
+1389 participant139 trial1389           ai statement12
+1390 participant139 trial1390           ai statement37
+1391 participant140 trial1391           ai statement25
+1392 participant140 trial1392           ai statement09
+1393 participant140 trial1393           ai statement19
+1394 participant140 trial1394           ai statement05
+1395 participant140 trial1395           ai statement17
+1396 participant140 trial1396           ai statement06
+1397 participant140 trial1397           ai statement04
+1398 participant140 trial1398           ai statement33
+1399 participant140 trial1399           ai statement10
+1400 participant140 trial1400           ai statement21
+1401 participant141 trial1401      control statement28
+1402 participant141 trial1402      control statement18
+1403 participant141 trial1403      control statement29
+1404 participant141 trial1404      control statement21
+1405 participant141 trial1405      control statement40
+1406 participant141 trial1406      control statement31
+1407 participant141 trial1407      control statement09
+1408 participant141 trial1408      control statement05
+1409 participant141 trial1409      control statement15
+1410 participant141 trial1410      control statement27
+1411 participant142 trial1411       causal statement36
+1412 participant142 trial1412       causal statement08
+1413 participant142 trial1413       causal statement01
+1414 participant142 trial1414       causal statement17
+1415 participant142 trial1415       causal statement10
+1416 participant142 trial1416       causal statement14
+1417 participant142 trial1417       causal statement20
+1418 participant142 trial1418       causal statement22
+1419 participant142 trial1419       causal statement38
+1420 participant142 trial1420       causal statement07
+1421 participant143 trial1421      control statement03
+1422 participant143 trial1422      control statement19
+1423 participant143 trial1423      control statement24
+1424 participant143 trial1424      control statement17
+1425 participant143 trial1425      control statement04
+1426 participant143 trial1426      control statement37
+1427 participant143 trial1427      control statement28
+1428 participant143 trial1428      control statement01
+1429 participant143 trial1429      control statement36
+1430 participant143 trial1430      control statement16
+1431 participant144 trial1431       causal statement24
+1432 participant144 trial1432       causal statement09
+1433 participant144 trial1433       causal statement13
+1434 participant144 trial1434       causal statement23
+1435 participant144 trial1435       causal statement32
+1436 participant144 trial1436       causal statement31
+1437 participant144 trial1437       causal statement30
+1438 participant144 trial1438       causal statement35
+1439 participant144 trial1439       causal statement34
+1440 participant144 trial1440       causal statement08
+1441 participant145 trial1441      control statement20
+1442 participant145 trial1442      control statement06
+1443 participant145 trial1443      control statement16
+1444 participant145 trial1444      control statement03
+1445 participant145 trial1445      control statement36
+1446 participant145 trial1446      control statement05
+1447 participant145 trial1447      control statement02
+1448 participant145 trial1448      control statement18
+1449 participant145 trial1449      control statement22
+1450 participant145 trial1450      control statement27
+1451 participant146 trial1451       causal statement11
+1452 participant146 trial1452       causal statement14
+1453 participant146 trial1453       causal statement16
+1454 participant146 trial1454       causal statement12
+1455 participant146 trial1455       causal statement37
+1456 participant146 trial1456       causal statement35
+1457 participant146 trial1457       causal statement01
+1458 participant146 trial1458       causal statement13
+1459 participant146 trial1459       causal statement17
+1460 participant146 trial1460       causal statement04
+1461 participant147 trial1461      control statement17
+1462 participant147 trial1462      control statement08
+1463 participant147 trial1463      control statement15
+1464 participant147 trial1464      control statement09
+1465 participant147 trial1465      control statement29
+1466 participant147 trial1466      control statement38
+1467 participant147 trial1467      control statement07
+1468 participant147 trial1468      control statement33
+1469 participant147 trial1469      control statement24
+1470 participant147 trial1470      control statement30
+1471 participant148 trial1471       causal statement25
+1472 participant148 trial1472       causal statement21
+1473 participant148 trial1473       causal statement34
+1474 participant148 trial1474       causal statement28
+1475 participant148 trial1475       causal statement02
+1476 participant148 trial1476       causal statement35
+1477 participant148 trial1477       causal statement32
+1478 participant148 trial1478       causal statement30
+1479 participant148 trial1479       causal statement40
+1480 participant148 trial1480       causal statement39
+1481 participant149 trial1481       causal statement05
+1482 participant149 trial1482       causal statement37
+1483 participant149 trial1483       causal statement01
+1484 participant149 trial1484       causal statement25
+1485 participant149 trial1485       causal statement06
+1486 participant149 trial1486       causal statement34
+1487 participant149 trial1487       causal statement26
+1488 participant149 trial1488       causal statement27
+1489 participant149 trial1489       causal statement07
+1490 participant149 trial1490       causal statement03
+1491 participant150 trial1491      control statement01
+1492 participant150 trial1492      control statement24
+1493 participant150 trial1493      control statement22
+1494 participant150 trial1494      control statement28
+1495 participant150 trial1495      control statement30
+1496 participant150 trial1496      control statement36
+1497 participant150 trial1497      control statement23
+1498 participant150 trial1498      control statement17
+1499 participant150 trial1499      control statement27
+1500 participant150 trial1500      control statement29
+1501 participant151 trial1501           ai statement08
+1502 participant151 trial1502           ai statement11
+1503 participant151 trial1503           ai statement02
+1504 participant151 trial1504           ai statement20
+1505 participant151 trial1505           ai statement23
+1506 participant151 trial1506           ai statement15
+1507 participant151 trial1507           ai statement32
+1508 participant151 trial1508           ai statement21
+1509 participant151 trial1509           ai statement13
+1510 participant151 trial1510           ai statement10
+1511 participant152 trial1511           ai statement12
+1512 participant152 trial1512           ai statement27
+1513 participant152 trial1513           ai statement22
+1514 participant152 trial1514           ai statement35
+1515 participant152 trial1515           ai statement33
+1516 participant152 trial1516           ai statement10
+1517 participant152 trial1517           ai statement16
+1518 participant152 trial1518           ai statement02
+1519 participant152 trial1519           ai statement29
+1520 participant152 trial1520           ai statement32
+1521 participant153 trial1521       causal statement26
+1522 participant153 trial1522       causal statement22
+1523 participant153 trial1523       causal statement40
+1524 participant153 trial1524       causal statement15
+1525 participant153 trial1525       causal statement17
+1526 participant153 trial1526       causal statement31
+1527 participant153 trial1527       causal statement19
+1528 participant153 trial1528       causal statement35
+1529 participant153 trial1529       causal statement32
+1530 participant153 trial1530       causal statement36
+1531 participant154 trial1531           ai statement08
+1532 participant154 trial1532           ai statement04
+1533 participant154 trial1533           ai statement32
+1534 participant154 trial1534           ai statement36
+1535 participant154 trial1535           ai statement02
+1536 participant154 trial1536           ai statement06
+1537 participant154 trial1537           ai statement01
+1538 participant154 trial1538           ai statement37
+1539 participant154 trial1539           ai statement09
+1540 participant154 trial1540           ai statement03
+1541 participant155 trial1541      control statement37
+1542 participant155 trial1542      control statement18
+1543 participant155 trial1543      control statement15
+1544 participant155 trial1544      control statement11
+1545 participant155 trial1545      control statement21
+1546 participant155 trial1546      control statement05
+1547 participant155 trial1547      control statement19
+1548 participant155 trial1548      control statement10
+1549 participant155 trial1549      control statement06
+1550 participant155 trial1550      control statement23
+1551 participant156 trial1551           ai statement20
+1552 participant156 trial1552           ai statement29
+1553 participant156 trial1553           ai statement05
+1554 participant156 trial1554           ai statement34
+1555 participant156 trial1555           ai statement12
+1556 participant156 trial1556           ai statement25
+1557 participant156 trial1557           ai statement23
+1558 participant156 trial1558           ai statement39
+1559 participant156 trial1559           ai statement30
+1560 participant156 trial1560           ai statement06
+1561 participant157 trial1561      control statement07
+1562 participant157 trial1562      control statement20
+1563 participant157 trial1563      control statement16
+1564 participant157 trial1564      control statement10
+1565 participant157 trial1565      control statement24
+1566 participant157 trial1566      control statement39
+1567 participant157 trial1567      control statement11
+1568 participant157 trial1568      control statement34
+1569 participant157 trial1569      control statement01
+1570 participant157 trial1570      control statement40
+1571 participant158 trial1571       causal statement16
+1572 participant158 trial1572       causal statement37
+1573 participant158 trial1573       causal statement04
+1574 participant158 trial1574       causal statement29
+1575 participant158 trial1575       causal statement33
+1576 participant158 trial1576       causal statement38
+1577 participant158 trial1577       causal statement18
+1578 participant158 trial1578       causal statement39
+1579 participant158 trial1579       causal statement02
+1580 participant158 trial1580       causal statement26
+1581 participant159 trial1581       causal statement18
+1582 participant159 trial1582       causal statement13
+1583 participant159 trial1583       causal statement24
+1584 participant159 trial1584       causal statement04
+1585 participant159 trial1585       causal statement27
+1586 participant159 trial1586       causal statement34
+1587 participant159 trial1587       causal statement06
+1588 participant159 trial1588       causal statement14
+1589 participant159 trial1589       causal statement03
+1590 participant159 trial1590       causal statement23
+1591 participant160 trial1591      control statement17
+1592 participant160 trial1592      control statement36
+1593 participant160 trial1593      control statement22
+1594 participant160 trial1594      control statement04
+1595 participant160 trial1595      control statement28
+1596 participant160 trial1596      control statement37
+1597 participant160 trial1597      control statement25
+1598 participant160 trial1598      control statement23
+1599 participant160 trial1599      control statement10
+1600 participant160 trial1600      control statement18
+1601 participant161 trial1601      control statement29
+1602 participant161 trial1602      control statement19
+1603 participant161 trial1603      control statement11
+1604 participant161 trial1604      control statement05
+1605 participant161 trial1605      control statement17
+1606 participant161 trial1606      control statement02
+1607 participant161 trial1607      control statement30
+1608 participant161 trial1608      control statement27
+1609 participant161 trial1609      control statement22
+1610 participant161 trial1610      control statement39
+1611 participant162 trial1611      control statement20
+1612 participant162 trial1612      control statement29
+1613 participant162 trial1613      control statement15
+1614 participant162 trial1614      control statement21
+1615 participant162 trial1615      control statement14
+1616 participant162 trial1616      control statement36
+1617 participant162 trial1617      control statement18
+1618 participant162 trial1618      control statement34
+1619 participant162 trial1619      control statement26
+1620 participant162 trial1620      control statement37
+1621 participant163 trial1621       causal statement11
+1622 participant163 trial1622       causal statement33
+1623 participant163 trial1623       causal statement38
+1624 participant163 trial1624       causal statement03
+1625 participant163 trial1625       causal statement10
+1626 participant163 trial1626       causal statement25
+1627 participant163 trial1627       causal statement26
+1628 participant163 trial1628       causal statement16
+1629 participant163 trial1629       causal statement40
+1630 participant163 trial1630       causal statement04
+1631 participant164 trial1631       causal statement15
+1632 participant164 trial1632       causal statement32
+1633 participant164 trial1633       causal statement12
+1634 participant164 trial1634       causal statement06
+1635 participant164 trial1635       causal statement01
+1636 participant164 trial1636       causal statement24
+1637 participant164 trial1637       causal statement28
+1638 participant164 trial1638       causal statement16
+1639 participant164 trial1639       causal statement25
+1640 participant164 trial1640       causal statement09
+1641 participant165 trial1641      control statement18
+1642 participant165 trial1642      control statement02
+1643 participant165 trial1643      control statement05
+1644 participant165 trial1644      control statement01
+1645 participant165 trial1645      control statement40
+1646 participant165 trial1646      control statement35
+1647 participant165 trial1647      control statement06
+1648 participant165 trial1648      control statement24
+1649 participant165 trial1649      control statement30
+1650 participant165 trial1650      control statement31
+1651 participant166 trial1651           ai statement08
+1652 participant166 trial1652           ai statement37
+1653 participant166 trial1653           ai statement25
+1654 participant166 trial1654           ai statement13
+1655 participant166 trial1655           ai statement40
+1656 participant166 trial1656           ai statement17
+1657 participant166 trial1657           ai statement28
+1658 participant166 trial1658           ai statement09
+1659 participant166 trial1659           ai statement23
+1660 participant166 trial1660           ai statement20
+1661 participant167 trial1661           ai statement19
+1662 participant167 trial1662           ai statement37
+1663 participant167 trial1663           ai statement26
+1664 participant167 trial1664           ai statement10
+1665 participant167 trial1665           ai statement21
+1666 participant167 trial1666           ai statement34
+1667 participant167 trial1667           ai statement32
+1668 participant167 trial1668           ai statement22
+1669 participant167 trial1669           ai statement25
+1670 participant167 trial1670           ai statement23
+1671 participant168 trial1671           ai statement09
+1672 participant168 trial1672           ai statement31
+1673 participant168 trial1673           ai statement24
+1674 participant168 trial1674           ai statement36
+1675 participant168 trial1675           ai statement02
+1676 participant168 trial1676           ai statement29
+1677 participant168 trial1677           ai statement15
+1678 participant168 trial1678           ai statement12
+1679 participant168 trial1679           ai statement04
+1680 participant168 trial1680           ai statement11
+1681 participant169 trial1681           ai statement13
+1682 participant169 trial1682           ai statement22
+1683 participant169 trial1683           ai statement19
+1684 participant169 trial1684           ai statement07
+1685 participant169 trial1685           ai statement31
+1686 participant169 trial1686           ai statement06
+1687 participant169 trial1687           ai statement25
+1688 participant169 trial1688           ai statement39
+1689 participant169 trial1689           ai statement24
+1690 participant169 trial1690           ai statement15
+1691 participant170 trial1691       causal statement17
+1692 participant170 trial1692       causal statement20
+1693 participant170 trial1693       causal statement09
+1694 participant170 trial1694       causal statement28
+1695 participant170 trial1695       causal statement03
+1696 participant170 trial1696       causal statement26
+1697 participant170 trial1697       causal statement35
+1698 participant170 trial1698       causal statement13
+1699 participant170 trial1699       causal statement14
+1700 participant170 trial1700       causal statement30
+1701 participant171 trial1701       causal statement29
+1702 participant171 trial1702       causal statement21
+1703 participant171 trial1703       causal statement20
+1704 participant171 trial1704       causal statement13
+1705 participant171 trial1705       causal statement23
+1706 participant171 trial1706       causal statement01
+1707 participant171 trial1707       causal statement33
+1708 participant171 trial1708       causal statement02
+1709 participant171 trial1709       causal statement30
+1710 participant171 trial1710       causal statement22
+1711 participant172 trial1711           ai statement04
+1712 participant172 trial1712           ai statement16
+1713 participant172 trial1713           ai statement32
+1714 participant172 trial1714           ai statement12
+1715 participant172 trial1715           ai statement18
+1716 participant172 trial1716           ai statement36
+1717 participant172 trial1717           ai statement08
+1718 participant172 trial1718           ai statement40
+1719 participant172 trial1719           ai statement24
+1720 participant172 trial1720           ai statement13
+1721 participant173 trial1721           ai statement14
+1722 participant173 trial1722           ai statement10
+1723 participant173 trial1723           ai statement19
+1724 participant173 trial1724           ai statement15
+1725 participant173 trial1725           ai statement28
+1726 participant173 trial1726           ai statement06
+1727 participant173 trial1727           ai statement38
+1728 participant173 trial1728           ai statement24
+1729 participant173 trial1729           ai statement29
+1730 participant173 trial1730           ai statement36
+1731 participant174 trial1731           ai statement38
+1732 participant174 trial1732           ai statement40
+1733 participant174 trial1733           ai statement35
+1734 participant174 trial1734           ai statement07
+1735 participant174 trial1735           ai statement10
+1736 participant174 trial1736           ai statement30
+1737 participant174 trial1737           ai statement13
+1738 participant174 trial1738           ai statement08
+1739 participant174 trial1739           ai statement39
+1740 participant174 trial1740           ai statement27
+1741 participant175 trial1741      control statement37
+1742 participant175 trial1742      control statement36
+1743 participant175 trial1743      control statement31
+1744 participant175 trial1744      control statement16
+1745 participant175 trial1745      control statement14
+1746 participant175 trial1746      control statement18
+1747 participant175 trial1747      control statement33
+1748 participant175 trial1748      control statement23
+1749 participant175 trial1749      control statement34
+1750 participant175 trial1750      control statement11
+1751 participant176 trial1751       causal statement18
+1752 participant176 trial1752       causal statement26
+1753 participant176 trial1753       causal statement01
+1754 participant176 trial1754       causal statement22
+1755 participant176 trial1755       causal statement32
+1756 participant176 trial1756       causal statement12
+1757 participant176 trial1757       causal statement09
+1758 participant176 trial1758       causal statement35
+1759 participant176 trial1759       causal statement21
+1760 participant176 trial1760       causal statement25
+1761 participant177 trial1761      control statement39
+1762 participant177 trial1762      control statement20
+1763 participant177 trial1763      control statement35
+1764 participant177 trial1764      control statement11
+1765 participant177 trial1765      control statement36
+1766 participant177 trial1766      control statement32
+1767 participant177 trial1767      control statement12
+1768 participant177 trial1768      control statement30
+1769 participant177 trial1769      control statement17
+1770 participant177 trial1770      control statement14
+1771 participant178 trial1771      control statement23
+1772 participant178 trial1772      control statement38
+1773 participant178 trial1773      control statement35
+1774 participant178 trial1774      control statement20
+1775 participant178 trial1775      control statement15
+1776 participant178 trial1776      control statement09
+1777 participant178 trial1777      control statement11
+1778 participant178 trial1778      control statement33
+1779 participant178 trial1779      control statement06
+1780 participant178 trial1780      control statement27
+1781 participant179 trial1781           ai statement15
+1782 participant179 trial1782           ai statement30
+1783 participant179 trial1783           ai statement10
+1784 participant179 trial1784           ai statement36
+1785 participant179 trial1785           ai statement04
+1786 participant179 trial1786           ai statement26
+1787 participant179 trial1787           ai statement07
+1788 participant179 trial1788           ai statement25
+1789 participant179 trial1789           ai statement05
+1790 participant179 trial1790           ai statement13
+1791 participant180 trial1791      control statement03
+1792 participant180 trial1792      control statement25
+1793 participant180 trial1793      control statement19
+1794 participant180 trial1794      control statement40
+1795 participant180 trial1795      control statement35
+1796 participant180 trial1796      control statement18
+1797 participant180 trial1797      control statement08
+1798 participant180 trial1798      control statement29
+1799 participant180 trial1799      control statement16
+1800 participant180 trial1800      control statement04
+1801 participant181 trial1801           ai statement19
+1802 participant181 trial1802           ai statement37
+1803 participant181 trial1803           ai statement04
+1804 participant181 trial1804           ai statement32
+1805 participant181 trial1805           ai statement09
+1806 participant181 trial1806           ai statement34
+1807 participant181 trial1807           ai statement03
+1808 participant181 trial1808           ai statement39
+1809 participant181 trial1809           ai statement17
+1810 participant181 trial1810           ai statement15
+1811 participant182 trial1811           ai statement23
+1812 participant182 trial1812           ai statement02
+1813 participant182 trial1813           ai statement20
+1814 participant182 trial1814           ai statement10
+1815 participant182 trial1815           ai statement24
+1816 participant182 trial1816           ai statement33
+1817 participant182 trial1817           ai statement37
+1818 participant182 trial1818           ai statement11
+1819 participant182 trial1819           ai statement35
+1820 participant182 trial1820           ai statement08
+1821 participant183 trial1821      control statement14
+1822 participant183 trial1822      control statement26
+1823 participant183 trial1823      control statement07
+1824 participant183 trial1824      control statement18
+1825 participant183 trial1825      control statement22
+1826 participant183 trial1826      control statement38
+1827 participant183 trial1827      control statement16
+1828 participant183 trial1828      control statement03
+1829 participant183 trial1829      control statement27
+1830 participant183 trial1830      control statement28
+1831 participant184 trial1831      control statement25
+1832 participant184 trial1832      control statement29
+1833 participant184 trial1833      control statement01
+1834 participant184 trial1834      control statement31
+1835 participant184 trial1835      control statement13
+1836 participant184 trial1836      control statement39
+1837 participant184 trial1837      control statement27
+1838 participant184 trial1838      control statement16
+1839 participant184 trial1839      control statement06
+1840 participant184 trial1840      control statement09
+1841 participant185 trial1841       causal statement31
+1842 participant185 trial1842       causal statement06
+1843 participant185 trial1843       causal statement40
+1844 participant185 trial1844       causal statement14
+1845 participant185 trial1845       causal statement23
+1846 participant185 trial1846       causal statement38
+1847 participant185 trial1847       causal statement21
+1848 participant185 trial1848       causal statement30
+1849 participant185 trial1849       causal statement04
+1850 participant185 trial1850       causal statement32
+1851 participant186 trial1851      control statement27
+1852 participant186 trial1852      control statement11
+1853 participant186 trial1853      control statement01
+1854 participant186 trial1854      control statement38
+1855 participant186 trial1855      control statement03
+1856 participant186 trial1856      control statement25
+1857 participant186 trial1857      control statement09
+1858 participant186 trial1858      control statement18
+1859 participant186 trial1859      control statement35
+1860 participant186 trial1860      control statement15
+1861 participant187 trial1861       causal statement12
+1862 participant187 trial1862       causal statement19
+1863 participant187 trial1863       causal statement36
+1864 participant187 trial1864       causal statement10
+1865 participant187 trial1865       causal statement31
+1866 participant187 trial1866       causal statement13
+1867 participant187 trial1867       causal statement20
+1868 participant187 trial1868       causal statement34
+1869 participant187 trial1869       causal statement24
+1870 participant187 trial1870       causal statement33
+1871 participant188 trial1871       causal statement26
+1872 participant188 trial1872       causal statement17
+1873 participant188 trial1873       causal statement39
+1874 participant188 trial1874       causal statement05
+1875 participant188 trial1875       causal statement25
+1876 participant188 trial1876       causal statement02
+1877 participant188 trial1877       causal statement33
+1878 participant188 trial1878       causal statement29
+1879 participant188 trial1879       causal statement08
+1880 participant188 trial1880       causal statement16
+1881 participant189 trial1881       causal statement07
+1882 participant189 trial1882       causal statement14
+1883 participant189 trial1883       causal statement29
+1884 participant189 trial1884       causal statement05
+1885 participant189 trial1885       causal statement36
+1886 participant189 trial1886       causal statement23
+1887 participant189 trial1887       causal statement26
+1888 participant189 trial1888       causal statement03
+1889 participant189 trial1889       causal statement09
+1890 participant189 trial1890       causal statement35
+1891 participant190 trial1891       causal statement15
+1892 participant190 trial1892       causal statement16
+1893 participant190 trial1893       causal statement37
+1894 participant190 trial1894       causal statement27
+1895 participant190 trial1895       causal statement25
+1896 participant190 trial1896       causal statement22
+1897 participant190 trial1897       causal statement28
+1898 participant190 trial1898       causal statement10
+1899 participant190 trial1899       causal statement31
+1900 participant190 trial1900       causal statement24
+1901 participant191 trial1901       causal statement32
+1902 participant191 trial1902       causal statement01
+1903 participant191 trial1903       causal statement06
+1904 participant191 trial1904       causal statement11
+1905 participant191 trial1905       causal statement36
+1906 participant191 trial1906       causal statement28
+1907 participant191 trial1907       causal statement25
+1908 participant191 trial1908       causal statement18
+1909 participant191 trial1909       causal statement40
+1910 participant191 trial1910       causal statement20
+1911 participant192 trial1911      control statement33
+1912 participant192 trial1912      control statement08
+1913 participant192 trial1913      control statement12
+1914 participant192 trial1914      control statement05
+1915 participant192 trial1915      control statement06
+1916 participant192 trial1916      control statement22
+1917 participant192 trial1917      control statement36
+1918 participant192 trial1918      control statement04
+1919 participant192 trial1919      control statement34
+1920 participant192 trial1920      control statement38
+1921 participant193 trial1921       causal statement03
+1922 participant193 trial1922       causal statement10
+1923 participant193 trial1923       causal statement25
+1924 participant193 trial1924       causal statement38
+1925 participant193 trial1925       causal statement05
+1926 participant193 trial1926       causal statement01
+1927 participant193 trial1927       causal statement32
+1928 participant193 trial1928       causal statement15
+1929 participant193 trial1929       causal statement08
+1930 participant193 trial1930       causal statement33
+1931 participant194 trial1931           ai statement05
+1932 participant194 trial1932           ai statement22
+1933 participant194 trial1933           ai statement09
+1934 participant194 trial1934           ai statement37
+1935 participant194 trial1935           ai statement02
+1936 participant194 trial1936           ai statement07
+1937 participant194 trial1937           ai statement40
+1938 participant194 trial1938           ai statement19
+1939 participant194 trial1939           ai statement13
+1940 participant194 trial1940           ai statement38
+1941 participant195 trial1941      control statement10
+1942 participant195 trial1942      control statement14
+1943 participant195 trial1943      control statement04
+1944 participant195 trial1944      control statement37
+1945 participant195 trial1945      control statement29
+1946 participant195 trial1946      control statement28
+1947 participant195 trial1947      control statement31
+1948 participant195 trial1948      control statement09
+1949 participant195 trial1949      control statement23
+1950 participant195 trial1950      control statement12
+1951 participant196 trial1951           ai statement18
+1952 participant196 trial1952           ai statement06
+1953 participant196 trial1953           ai statement27
+1954 participant196 trial1954           ai statement30
+1955 participant196 trial1955           ai statement08
+1956 participant196 trial1956           ai statement17
+1957 participant196 trial1957           ai statement14
+1958 participant196 trial1958           ai statement10
+1959 participant196 trial1959           ai statement39
+1960 participant196 trial1960           ai statement26
+1961 participant197 trial1961           ai statement08
+1962 participant197 trial1962           ai statement22
+1963 participant197 trial1963           ai statement39
+1964 participant197 trial1964           ai statement34
+1965 participant197 trial1965           ai statement11
+1966 participant197 trial1966           ai statement33
+1967 participant197 trial1967           ai statement01
+1968 participant197 trial1968           ai statement27
+1969 participant197 trial1969           ai statement25
+1970 participant197 trial1970           ai statement36
+1971 participant198 trial1971      control statement19
+1972 participant198 trial1972      control statement03
+1973 participant198 trial1973      control statement13
+1974 participant198 trial1974      control statement02
+1975 participant198 trial1975      control statement10
+1976 participant198 trial1976      control statement38
+1977 participant198 trial1977      control statement40
+1978 participant198 trial1978      control statement34
+1979 participant198 trial1979      control statement14
+1980 participant198 trial1980      control statement01
+1981 participant199 trial1981           ai statement12
+1982 participant199 trial1982           ai statement40
+1983 participant199 trial1983           ai statement01
+1984 participant199 trial1984           ai statement20
+1985 participant199 trial1985           ai statement21
+1986 participant199 trial1986           ai statement07
+1987 participant199 trial1987           ai statement14
+1988 participant199 trial1988           ai statement04
+1989 participant199 trial1989           ai statement24
+1990 participant199 trial1990           ai statement29
+1991 participant200 trial1991      control statement09
+1992 participant200 trial1992      control statement30
+1993 participant200 trial1993      control statement26
+1994 participant200 trial1994      control statement04
+1995 participant200 trial1995      control statement32
+1996 participant200 trial1996      control statement31
+1997 participant200 trial1997      control statement16
+1998 participant200 trial1998      control statement28
+1999 participant200 trial1999      control statement11
+2000 participant200 trial2000      control statement05
+2001 participant201 trial2001           ai statement01
+2002 participant201 trial2002           ai statement18
+2003 participant201 trial2003           ai statement31
+2004 participant201 trial2004           ai statement20
+2005 participant201 trial2005           ai statement37
+2006 participant201 trial2006           ai statement40
+2007 participant201 trial2007           ai statement34
+2008 participant201 trial2008           ai statement11
+2009 participant201 trial2009           ai statement32
+2010 participant201 trial2010           ai statement10
+2011 participant202 trial2011           ai statement08
+2012 participant202 trial2012           ai statement40
+2013 participant202 trial2013           ai statement03
+2014 participant202 trial2014           ai statement17
+2015 participant202 trial2015           ai statement39
+2016 participant202 trial2016           ai statement12
+2017 participant202 trial2017           ai statement28
+2018 participant202 trial2018           ai statement33
+2019 participant202 trial2019           ai statement27
+2020 participant202 trial2020           ai statement19
+2021 participant203 trial2021      control statement02
+2022 participant203 trial2022      control statement26
+2023 participant203 trial2023      control statement38
+2024 participant203 trial2024      control statement22
+2025 participant203 trial2025      control statement06
+2026 participant203 trial2026      control statement13
+2027 participant203 trial2027      control statement24
+2028 participant203 trial2028      control statement35
+2029 participant203 trial2029      control statement16
+2030 participant203 trial2030      control statement30
+2031 participant204 trial2031      control statement23
+2032 participant204 trial2032      control statement06
+2033 participant204 trial2033      control statement35
+2034 participant204 trial2034      control statement03
+2035 participant204 trial2035      control statement25
+2036 participant204 trial2036      control statement05
+2037 participant204 trial2037      control statement17
+2038 participant204 trial2038      control statement31
+2039 participant204 trial2039      control statement33
+2040 participant204 trial2040      control statement01

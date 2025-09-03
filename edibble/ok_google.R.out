@@ -1,0 +1,310 @@
+# An edibble: 306 x 6
+      participant  block    col    trial   mode  topic
+          <U(51)> <U(3)> <U(6)> <U(306)> <T(3)> <T(6)>
+            <chr>  <chr>  <chr>    <chr>  <chr>  <chr>
+  1 participant01 block1   col1 trial001     CD topic4
+  2 participant02 block1   col1 trial002     CD topic3
+  3 participant03 block1   col1 trial003     CD topic1
+  4 participant04 block1   col1 trial004     CD topic2
+  5 participant05 block1   col1 trial005     CD topic5
+  6 participant06 block1   col1 trial006     CD topic6
+  7 participant07 block1   col1 trial007     CD topic3
+  8 participant08 block1   col1 trial008     CD topic2
+  9 participant09 block1   col1 trial009     CD topic1
+ 10 participant10 block1   col1 trial010     CD topic4
+ 11 participant11 block1   col1 trial011     CD topic6
+ 12 participant12 block1   col1 trial012     CD topic5
+ 13 participant13 block1   col1 trial013     CD topic5
+ 14 participant14 block1   col1 trial014     CD topic1
+ 15 participant15 block1   col1 trial015     CD topic6
+ 16 participant16 block1   col1 trial016     CD topic3
+ 17 participant17 block1   col1 trial017     CD topic2
+ 18 participant18 block1   col1 trial018     CD topic4
+ 19 participant19 block1   col1 trial019     CD topic2
+ 20 participant20 block1   col1 trial020     CD topic5
+ 21 participant21 block1   col1 trial021     CD topic1
+ 22 participant22 block1   col1 trial022     CD topic4
+ 23 participant23 block1   col1 trial023     CD topic6
+ 24 participant24 block1   col1 trial024     CD topic3
+ 25 participant25 block1   col1 trial025     CD topic4
+ 26 participant26 block1   col1 trial026     CD topic2
+ 27 participant27 block1   col1 trial027     CD topic6
+ 28 participant28 block1   col1 trial028     CD topic1
+ 29 participant29 block1   col1 trial029     CD topic3
+ 30 participant30 block1   col1 trial030     CD topic5
+ 31 participant31 block1   col1 trial031     CD topic2
+ 32 participant32 block1   col1 trial032     CD topic3
+ 33 participant33 block1   col1 trial033     CD topic1
+ 34 participant34 block1   col1 trial034     CD topic6
+ 35 participant35 block1   col1 trial035     CD topic4
+ 36 participant36 block1   col1 trial036     CD topic5
+ 37 participant37 block1   col1 trial037     CD topic2
+ 38 participant38 block1   col1 trial038     CD topic1
+ 39 participant39 block1   col1 trial039     CD topic3
+ 40 participant40 block1   col1 trial040     CD topic4
+ 41 participant41 block1   col1 trial041     CD topic5
+ 42 participant42 block1   col1 trial042     CD topic6
+ 43 participant43 block1   col1 trial043     CD topic2
+ 44 participant44 block1   col1 trial044     CD topic4
+ 45 participant45 block1   col1 trial045     CD topic3
+ 46 participant46 block1   col1 trial046     CD topic6
+ 47 participant47 block1   col1 trial047     CD topic1
+ 48 participant48 block1   col1 trial048     CD topic5
+ 49 participant49 block1   col1 trial049     CD topic5
+ 50 participant50 block1   col1 trial050     CD topic1
+ 51 participant51 block1   col1 trial051     CD topic3
+ 52 participant01 block1   col2 trial052     CD topic5
+ 53 participant02 block1   col2 trial053     CD topic6
+ 54 participant03 block1   col2 trial054     CD topic3
+ 55 participant04 block1   col2 trial055     CD topic4
+ 56 participant05 block1   col2 trial056     CD topic2
+ 57 participant06 block1   col2 trial057     CD topic1
+ 58 participant07 block1   col2 trial058     CD topic4
+ 59 participant08 block1   col2 trial059     CD topic3
+ 60 participant09 block1   col2 trial060     CD topic5
+ 61 participant10 block1   col2 trial061     CD topic6
+ 62 participant11 block1   col2 trial062     CD topic1
+ 63 participant12 block1   col2 trial063     CD topic2
+ 64 participant13 block1   col2 trial064     CD topic3
+ 65 participant14 block1   col2 trial065     CD topic4
+ 66 participant15 block1   col2 trial066     CD topic5
+ 67 participant16 block1   col2 trial067     CD topic6
+ 68 participant17 block1   col2 trial068     CD topic1
+ 69 participant18 block1   col2 trial069     CD topic2
+ 70 participant19 block1   col2 trial070     CD topic3
+ 71 participant20 block1   col2 trial071     CD topic4
+ 72 participant21 block1   col2 trial072     CD topic5
+ 73 participant22 block1   col2 trial073     CD topic1
+ 74 participant23 block1   col2 trial074     CD topic2
+ 75 participant24 block1   col2 trial075     CD topic6
+ 76 participant25 block1   col2 trial076     CD topic1
+ 77 participant26 block1   col2 trial077     CD topic6
+ 78 participant27 block1   col2 trial078     CD topic5
+ 79 participant28 block1   col2 trial079     CD topic3
+ 80 participant29 block1   col2 trial080     CD topic2
+ 81 participant30 block1   col2 trial081     CD topic4
+ 82 participant31 block1   col2 trial082     CD topic1
+ 83 participant32 block1   col2 trial083     CD topic4
+ 84 participant33 block1   col2 trial084     CD topic5
+ 85 participant34 block1   col2 trial085     CD topic3
+ 86 participant35 block1   col2 trial086     CD topic6
+ 87 participant36 block1   col2 trial087     CD topic2
+ 88 participant37 block1   col2 trial088     CD topic4
+ 89 participant38 block1   col2 trial089     CD topic2
+ 90 participant39 block1   col2 trial090     CD topic6
+ 91 participant40 block1   col2 trial091     CD topic1
+ 92 participant41 block1   col2 trial092     CD topic3
+ 93 participant42 block1   col2 trial093     CD topic5
+ 94 participant43 block1   col2 trial094     CD topic5
+ 95 participant44 block1   col2 trial095     CD topic3
+ 96 participant45 block1   col2 trial096     CD topic1
+ 97 participant46 block1   col2 trial097     CD topic2
+ 98 participant47 block1   col2 trial098     CD topic4
+ 99 participant48 block1   col2 trial099     CD topic6
+100 participant49 block1   col2 trial100     CD topic6
+101 participant50 block1   col2 trial101     CD topic4
+102 participant51 block1   col2 trial102     CD topic5
+103 participant01 block2   col3 trial103     SB topic1
+104 participant02 block2   col3 trial104     SB topic5
+105 participant03 block2   col3 trial105     SB topic4
+106 participant04 block2   col3 trial106     SB topic6
+107 participant05 block2   col3 trial107     SB topic3
+108 participant06 block2   col3 trial108     SB topic2
+109 participant07 block2   col3 trial109     SB topic5
+110 participant08 block2   col3 trial110     SB topic1
+111 participant09 block2   col3 trial111     SB topic4
+112 participant10 block2   col3 trial112     SB topic2
+113 participant11 block2   col3 trial113     SB topic3
+114 participant12 block2   col3 trial114     SB topic6
+115 participant13 block2   col3 trial115     SB topic6
+116 participant14 block2   col3 trial116     SB topic2
+117 participant15 block2   col3 trial117     SB topic3
+118 participant16 block2   col3 trial118     SB topic5
+119 participant17 block2   col3 trial119     SB topic4
+120 participant18 block2   col3 trial120     SB topic1
+121 participant19 block2   col3 trial121     SB topic4
+122 participant20 block2   col3 trial122     SB topic2
+123 participant21 block2   col3 trial123     SB topic6
+124 participant22 block2   col3 trial124     SB topic3
+125 participant23 block2   col3 trial125     SB topic5
+126 participant24 block2   col3 trial126     SB topic1
+127 participant25 block2   col3 trial127     SB topic3
+128 participant26 block2   col3 trial128     SB topic5
+129 participant27 block2   col3 trial129     SB topic4
+130 participant28 block2   col3 trial130     SB topic2
+131 participant29 block2   col3 trial131     SB topic6
+132 participant30 block2   col3 trial132     SB topic1
+133 participant31 block2   col3 trial133     SB topic5
+134 participant32 block2   col3 trial134     SB topic6
+135 participant33 block2   col3 trial135     SB topic2
+136 participant34 block2   col3 trial136     SB topic4
+137 participant35 block2   col3 trial137     SB topic3
+138 participant36 block2   col3 trial138     SB topic1
+139 participant37 block2   col3 trial139     SB topic3
+140 participant38 block2   col3 trial140     SB topic5
+141 participant39 block2   col3 trial141     SB topic4
+142 participant40 block2   col3 trial142     SB topic6
+143 participant41 block2   col3 trial143     SB topic2
+144 participant42 block2   col3 trial144     SB topic1
+145 participant43 block2   col3 trial145     SB topic1
+146 participant44 block2   col3 trial146     SB topic2
+147 participant45 block2   col3 trial147     SB topic5
+148 participant46 block2   col3 trial148     SB topic3
+149 participant47 block2   col3 trial149     SB topic6
+150 participant48 block2   col3 trial150     SB topic4
+151 participant49 block2   col3 trial151     SB topic4
+152 participant50 block2   col3 trial152     SB topic5
+153 participant51 block2   col3 trial153     SB topic1
+154 participant01 block2   col4 trial154     SB topic6
+155 participant02 block2   col4 trial155     SB topic4
+156 participant03 block2   col4 trial156     SB topic2
+157 participant04 block2   col4 trial157     SB topic3
+158 participant05 block2   col4 trial158     SB topic1
+159 participant06 block2   col4 trial159     SB topic5
+160 participant07 block2   col4 trial160     SB topic6
+161 participant08 block2   col4 trial161     SB topic4
+162 participant09 block2   col4 trial162     SB topic2
+163 participant10 block2   col4 trial163     SB topic1
+164 participant11 block2   col4 trial164     SB topic5
+165 participant12 block2   col4 trial165     SB topic3
+166 participant13 block2   col4 trial166     SB topic4
+167 participant14 block2   col4 trial167     SB topic5
+168 participant15 block2   col4 trial168     SB topic1
+169 participant16 block2   col4 trial169     SB topic2
+170 participant17 block2   col4 trial170     SB topic6
+171 participant18 block2   col4 trial171     SB topic3
+172 participant19 block2   col4 trial172     SB topic5
+173 participant20 block2   col4 trial173     SB topic6
+174 participant21 block2   col4 trial174     SB topic3
+175 participant22 block2   col4 trial175     SB topic2
+176 participant23 block2   col4 trial176     SB topic1
+177 participant24 block2   col4 trial177     SB topic4
+178 participant25 block2   col4 trial178     SB topic5
+179 participant26 block2   col4 trial179     SB topic3
+180 participant27 block2   col4 trial180     SB topic2
+181 participant28 block2   col4 trial181     SB topic4
+182 participant29 block2   col4 trial182     SB topic1
+183 participant30 block2   col4 trial183     SB topic6
+184 participant31 block2   col4 trial184     SB topic6
+185 participant32 block2   col4 trial185     SB topic5
+186 participant33 block2   col4 trial186     SB topic3
+187 participant34 block2   col4 trial187     SB topic1
+188 participant35 block2   col4 trial188     SB topic2
+189 participant36 block2   col4 trial189     SB topic4
+190 participant37 block2   col4 trial190     SB topic1
+191 participant38 block2   col4 trial191     SB topic4
+192 participant39 block2   col4 trial192     SB topic5
+193 participant40 block2   col4 trial193     SB topic2
+194 participant41 block2   col4 trial194     SB topic6
+195 participant42 block2   col4 trial195     SB topic3
+196 participant43 block2   col4 trial196     SB topic4
+197 participant44 block2   col4 trial197     SB topic5
+198 participant45 block2   col4 trial198     SB topic6
+199 participant46 block2   col4 trial199     SB topic1
+200 participant47 block2   col4 trial200     SB topic2
+201 participant48 block2   col4 trial201     SB topic3
+202 participant49 block2   col4 trial202     SB topic3
+203 participant50 block2   col4 trial203     SB topic2
+204 participant51 block2   col4 trial204     SB topic6
+205 participant01 block3   col5 trial205      M topic3
+206 participant02 block3   col5 trial206      M topic2
+207 participant03 block3   col5 trial207      M topic5
+208 participant04 block3   col5 trial208      M topic1
+209 participant05 block3   col5 trial209      M topic6
+210 participant06 block3   col5 trial210      M topic4
+211 participant07 block3   col5 trial211      M topic2
+212 participant08 block3   col5 trial212      M topic5
+213 participant09 block3   col5 trial213      M topic6
+214 participant10 block3   col5 trial214      M topic3
+215 participant11 block3   col5 trial215      M topic4
+216 participant12 block3   col5 trial216      M topic1
+217 participant13 block3   col5 trial217      M topic1
+218 participant14 block3   col5 trial218      M topic6
+219 participant15 block3   col5 trial219      M topic2
+220 participant16 block3   col5 trial220      M topic4
+221 participant17 block3   col5 trial221      M topic3
+222 participant18 block3   col5 trial222      M topic5
+223 participant19 block3   col5 trial223      M topic6
+224 participant20 block3   col5 trial224      M topic1
+225 participant21 block3   col5 trial225      M topic4
+226 participant22 block3   col5 trial226      M topic5
+227 participant23 block3   col5 trial227      M topic3
+228 participant24 block3   col5 trial228      M topic2
+229 participant25 block3   col5 trial229      M topic2
+230 participant26 block3   col5 trial230      M topic4
+231 participant27 block3   col5 trial231      M topic1
+232 participant28 block3   col5 trial232      M topic6
+233 participant29 block3   col5 trial233      M topic5
+234 participant30 block3   col5 trial234      M topic3
+235 participant31 block3   col5 trial235      M topic3
+236 participant32 block3   col5 trial236      M topic2
+237 participant33 block3   col5 trial237      M topic4
+238 participant34 block3   col5 trial238      M topic5
+239 participant35 block3   col5 trial239      M topic1
+240 participant36 block3   col5 trial240      M topic6
+241 participant37 block3   col5 trial241      M topic6
+242 participant38 block3   col5 trial242      M topic3
+243 participant39 block3   col5 trial243      M topic1
+244 participant40 block3   col5 trial244      M topic5
+245 participant41 block3   col5 trial245      M topic4
+246 participant42 block3   col5 trial246      M topic2
+247 participant43 block3   col5 trial247      M topic3
+248 participant44 block3   col5 trial248      M topic6
+249 participant45 block3   col5 trial249      M topic2
+250 participant46 block3   col5 trial250      M topic4
+251 participant47 block3   col5 trial251      M topic5
+252 participant48 block3   col5 trial252      M topic1
+253 participant49 block3   col5 trial253      M topic1
+254 participant50 block3   col5 trial254      M topic3
+255 participant51 block3   col5 trial255      M topic2
+256 participant01 block3   col6 trial256      M topic2
+257 participant02 block3   col6 trial257      M topic1
+258 participant03 block3   col6 trial258      M topic6
+259 participant04 block3   col6 trial259      M topic5
+260 participant05 block3   col6 trial260      M topic4
+261 participant06 block3   col6 trial261      M topic3
+262 participant07 block3   col6 trial262      M topic1
+263 participant08 block3   col6 trial263      M topic6
+264 participant09 block3   col6 trial264      M topic3
+265 participant10 block3   col6 trial265      M topic5
+266 participant11 block3   col6 trial266      M topic2
+267 participant12 block3   col6 trial267      M topic4
+268 participant13 block3   col6 trial268      M topic2
+269 participant14 block3   col6 trial269      M topic3
+270 participant15 block3   col6 trial270      M topic4
+271 participant16 block3   col6 trial271      M topic1
+272 participant17 block3   col6 trial272      M topic5
+273 participant18 block3   col6 trial273      M topic6
+274 participant19 block3   col6 trial274      M topic1
+275 participant20 block3   col6 trial275      M topic3
+276 participant21 block3   col6 trial276      M topic2
+277 participant22 block3   col6 trial277      M topic6
+278 participant23 block3   col6 trial278      M topic4
+279 participant24 block3   col6 trial279      M topic5
+280 participant25 block3   col6 trial280      M topic6
+281 participant26 block3   col6 trial281      M topic1
+282 participant27 block3   col6 trial282      M topic3
+283 participant28 block3   col6 trial283      M topic5
+284 participant29 block3   col6 trial284      M topic4
+285 participant30 block3   col6 trial285      M topic2
+286 participant31 block3   col6 trial286      M topic4
+287 participant32 block3   col6 trial287      M topic1
+288 participant33 block3   col6 trial288      M topic6
+289 participant34 block3   col6 trial289      M topic2
+290 participant35 block3   col6 trial290      M topic5
+291 participant36 block3   col6 trial291      M topic3
+292 participant37 block3   col6 trial292      M topic5
+293 participant38 block3   col6 trial293      M topic6
+294 participant39 block3   col6 trial294      M topic2
+295 participant40 block3   col6 trial295      M topic3
+296 participant41 block3   col6 trial296      M topic1
+297 participant42 block3   col6 trial297      M topic4
+298 participant43 block3   col6 trial298      M topic6
+299 participant44 block3   col6 trial299      M topic1
+300 participant45 block3   col6 trial300      M topic4
+301 participant46 block3   col6 trial301      M topic5
+302 participant47 block3   col6 trial302      M topic3
+303 participant48 block3   col6 trial303      M topic2
+304 participant49 block3   col6 trial304      M topic2
+305 participant50 block3   col6 trial305      M topic6
+306 participant51 block3   col6 trial306      M topic4

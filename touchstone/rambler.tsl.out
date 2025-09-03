@@ -1,0 +1,64 @@
+[ [ 'rambler' ], [ 'baseline' ] ]
+[
+  [
+    [ 'baseline', [length]: 1 ],
+    [ 'rambler', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'rambler', [length]: 1 ],
+    [ 'baseline', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'baseline', [length]: 1 ],
+    [ 'rambler', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'rambler', [length]: 1 ],
+    [ 'baseline', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'baseline', [length]: 1 ],
+    [ 'rambler', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'rambler', [length]: 1 ],
+    [ 'baseline', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'baseline', [length]: 1 ],
+    [ 'rambler', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'rambler', [length]: 1 ],
+    [ 'baseline', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'baseline', [length]: 1 ],
+    [ 'rambler', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'rambler', [length]: 1 ],
+    [ 'baseline', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'baseline', [length]: 1 ],
+    [ 'rambler', [length]: 1 ],
+    [length]: 2
+  ],
+  [
+    [ 'rambler', [length]: 1 ],
+    [ 'baseline', [length]: 1 ],
+    [length]: 2
+  ],
+  [length]: 12
+]

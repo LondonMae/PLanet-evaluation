@@ -1,0 +1,415 @@
+***EXPERIMENT PLANS***
+
+plan 1:
+	trial 1: mode = M, task = 6
+	trial 2: mode = M, task = 2
+	trial 3: mode = CD, task = 5
+	trial 4: mode = CD, task = 3
+	trial 5: mode = SB, task = 4
+	trial 6: mode = SB, task = 1
+plan 2:
+	trial 1: mode = M, task = 2
+	trial 2: mode = M, task = 5
+	trial 3: mode = CD, task = 6
+	trial 4: mode = CD, task = 3
+	trial 5: mode = SB, task = 4
+	trial 6: mode = SB, task = 1
+plan 3:
+	trial 1: mode = M, task = 6
+	trial 2: mode = M, task = 4
+	trial 3: mode = CD, task = 3
+	trial 4: mode = CD, task = 5
+	trial 5: mode = SB, task = 1
+	trial 6: mode = SB, task = 2
+plan 4:
+	trial 1: mode = M, task = 4
+	trial 2: mode = M, task = 5
+	trial 3: mode = CD, task = 6
+	trial 4: mode = CD, task = 1
+	trial 5: mode = SB, task = 3
+	trial 6: mode = SB, task = 2
+plan 5:
+	trial 1: mode = M, task = 2
+	trial 2: mode = M, task = 6
+	trial 3: mode = CD, task = 4
+	trial 4: mode = CD, task = 3
+	trial 5: mode = SB, task = 1
+	trial 6: mode = SB, task = 5
+plan 6:
+	trial 1: mode = M, task = 5
+	trial 2: mode = M, task = 3
+	trial 3: mode = CD, task = 4
+	trial 4: mode = CD, task = 2
+	trial 5: mode = SB, task = 1
+	trial 6: mode = SB, task = 6
+plan 7:
+	trial 1: mode = M, task = 4
+	trial 2: mode = M, task = 1
+	trial 3: mode = CD, task = 2
+	trial 4: mode = CD, task = 6
+	trial 5: mode = SB, task = 3
+	trial 6: mode = SB, task = 5
+plan 8:
+	trial 1: mode = M, task = 1
+	trial 2: mode = M, task = 4
+	trial 3: mode = CD, task = 6
+	trial 4: mode = CD, task = 2
+	trial 5: mode = SB, task = 5
+	trial 6: mode = SB, task = 3
+plan 9:
+	trial 1: mode = M, task = 6
+	trial 2: mode = M, task = 5
+	trial 3: mode = CD, task = 4
+	trial 4: mode = CD, task = 2
+	trial 5: mode = SB, task = 3
+	trial 6: mode = SB, task = 1
+plan 10:
+	trial 1: mode = M, task = 5
+	trial 2: mode = M, task = 4
+	trial 3: mode = CD, task = 3
+	trial 4: mode = CD, task = 2
+	trial 5: mode = SB, task = 1
+	trial 6: mode = SB, task = 6
+plan 11:
+	trial 1: mode = M, task = 4
+	trial 2: mode = M, task = 5
+	trial 3: mode = CD, task = 6
+	trial 4: mode = CD, task = 2
+	trial 5: mode = SB, task = 1
+	trial 6: mode = SB, task = 3
+plan 12:
+	trial 1: mode = M, task = 2
+	trial 2: mode = M, task = 5
+	trial 3: mode = CD, task = 6
+	trial 4: mode = CD, task = 4
+	trial 5: mode = SB, task = 3
+	trial 6: mode = SB, task = 1
+plan 13:
+	trial 1: mode = M, task = 3
+	trial 2: mode = M, task = 6
+	trial 3: mode = CD, task = 5
+	trial 4: mode = CD, task = 1
+	trial 5: mode = SB, task = 2
+	trial 6: mode = SB, task = 4
+plan 14:
+	trial 1: mode = M, task = 1
+	trial 2: mode = M, task = 2
+	trial 3: mode = CD, task = 4
+	trial 4: mode = CD, task = 6
+	trial 5: mode = SB, task = 3
+	trial 6: mode = SB, task = 5
+plan 15:
+	trial 1: mode = M, task = 6
+	trial 2: mode = M, task = 3
+	trial 3: mode = CD, task = 5
+	trial 4: mode = CD, task = 4
+	trial 5: mode = SB, task = 2
+	trial 6: mode = SB, task = 1
+plan 16:
+	trial 1: mode = M, task = 2
+	trial 2: mode = M, task = 4
+	trial 3: mode = CD, task = 6
+	trial 4: mode = CD, task = 3
+	trial 5: mode = SB, task = 5
+	trial 6: mode = SB, task = 1
+plan 17:
+	trial 1: mode = M, task = 4
+	trial 2: mode = M, task = 3
+	trial 3: mode = CD, task = 2
+	trial 4: mode = CD, task = 1
+	trial 5: mode = SB, task = 6
+	trial 6: mode = SB, task = 5
+plan 18:
+	trial 1: mode = CD, task = 2
+	trial 2: mode = CD, task = 3
+	trial 3: mode = SB, task = 6
+	trial 4: mode = SB, task = 4
+	trial 5: mode = M, task = 1
+	trial 6: mode = M, task = 5
+plan 19:
+	trial 1: mode = CD, task = 3
+	trial 2: mode = CD, task = 5
+	trial 3: mode = SB, task = 1
+	trial 4: mode = SB, task = 6
+	trial 5: mode = M, task = 4
+	trial 6: mode = M, task = 2
+plan 20:
+	trial 1: mode = CD, task = 3
+	trial 2: mode = CD, task = 5
+	trial 3: mode = SB, task = 6
+	trial 4: mode = SB, task = 1
+	trial 5: mode = M, task = 2
+	trial 6: mode = M, task = 4
+plan 21:
+	trial 1: mode = CD, task = 5
+	trial 2: mode = CD, task = 6
+	trial 3: mode = SB, task = 1
+	trial 4: mode = SB, task = 3
+	trial 5: mode = M, task = 2
+	trial 6: mode = M, task = 4
+plan 22:
+	trial 1: mode = CD, task = 2
+	trial 2: mode = CD, task = 5
+	trial 3: mode = SB, task = 3
+	trial 4: mode = SB, task = 6
+	trial 5: mode = M, task = 1
+	trial 6: mode = M, task = 4
+plan 23:
+	trial 1: mode = CD, task = 5
+	trial 2: mode = CD, task = 6
+	trial 3: mode = SB, task = 2
+	trial 4: mode = SB, task = 4
+	trial 5: mode = M, task = 1
+	trial 6: mode = M, task = 3
+plan 24:
+	trial 1: mode = CD, task = 3
+	trial 2: mode = CD, task = 5
+	trial 3: mode = SB, task = 4
+	trial 4: mode = SB, task = 2
+	trial 5: mode = M, task = 1
+	trial 6: mode = M, task = 6
+plan 25:
+	trial 1: mode = CD, task = 5
+	trial 2: mode = CD, task = 3
+	trial 3: mode = SB, task = 4
+	trial 4: mode = SB, task = 6
+	trial 5: mode = M, task = 2
+	trial 6: mode = M, task = 1
+plan 26:
+	trial 1: mode = CD, task = 5
+	trial 2: mode = CD, task = 6
+	trial 3: mode = SB, task = 1
+	trial 4: mode = SB, task = 2
+	trial 5: mode = M, task = 4
+	trial 6: mode = M, task = 3
+plan 27:
+	trial 1: mode = CD, task = 5
+	trial 2: mode = CD, task = 1
+	trial 3: mode = SB, task = 6
+	trial 4: mode = SB, task = 4
+	trial 5: mode = M, task = 3
+	trial 6: mode = M, task = 2
+plan 28:
+	trial 1: mode = CD, task = 3
+	trial 2: mode = CD, task = 5
+	trial 3: mode = SB, task = 4
+	trial 4: mode = SB, task = 1
+	trial 5: mode = M, task = 2
+	trial 6: mode = M, task = 6
+plan 29:
+	trial 1: mode = CD, task = 3
+	trial 2: mode = CD, task = 5
+	trial 3: mode = SB, task = 2
+	trial 4: mode = SB, task = 1
+	trial 5: mode = M, task = 4
+	trial 6: mode = M, task = 6
+plan 30:
+	trial 1: mode = CD, task = 4
+	trial 2: mode = CD, task = 3
+	trial 3: mode = SB, task = 5
+	trial 4: mode = SB, task = 6
+	trial 5: mode = M, task = 2
+	trial 6: mode = M, task = 1
+plan 31:
+	trial 1: mode = CD, task = 5
+	trial 2: mode = CD, task = 2
+	trial 3: mode = SB, task = 3
+	trial 4: mode = SB, task = 4
+	trial 5: mode = M, task = 6
+	trial 6: mode = M, task = 1
+plan 32:
+	trial 1: mode = CD, task = 5
+	trial 2: mode = CD, task = 4
+	trial 3: mode = SB, task = 2
+	trial 4: mode = SB, task = 6
+	trial 5: mode = M, task = 3
+	trial 6: mode = M, task = 1
+plan 33:
+	trial 1: mode = CD, task = 4
+	trial 2: mode = CD, task = 3
+	trial 3: mode = SB, task = 1
+	trial 4: mode = SB, task = 2
+	trial 5: mode = M, task = 6
+	trial 6: mode = M, task = 5
+plan 34:
+	trial 1: mode = CD, task = 3
+	trial 2: mode = CD, task = 6
+	trial 3: mode = SB, task = 5
+	trial 4: mode = SB, task = 1
+	trial 5: mode = M, task = 4
+	trial 6: mode = M, task = 2
+plan 35:
+	trial 1: mode = SB, task = 1
+	trial 2: mode = SB, task = 6
+	trial 3: mode = M, task = 2
+	trial 4: mode = M, task = 4
+	trial 5: mode = CD, task = 5
+	trial 6: mode = CD, task = 3
+plan 36:
+	trial 1: mode = SB, task = 4
+	trial 2: mode = SB, task = 5
+	trial 3: mode = M, task = 6
+	trial 4: mode = M, task = 1
+	trial 5: mode = CD, task = 2
+	trial 6: mode = CD, task = 3
+plan 37:
+	trial 1: mode = SB, task = 2
+	trial 2: mode = SB, task = 6
+	trial 3: mode = M, task = 1
+	trial 4: mode = M, task = 5
+	trial 5: mode = CD, task = 3
+	trial 6: mode = CD, task = 4
+plan 38:
+	trial 1: mode = SB, task = 6
+	trial 2: mode = SB, task = 5
+	trial 3: mode = M, task = 1
+	trial 4: mode = M, task = 3
+	trial 5: mode = CD, task = 2
+	trial 6: mode = CD, task = 4
+plan 39:
+	trial 1: mode = SB, task = 2
+	trial 2: mode = SB, task = 3
+	trial 3: mode = M, task = 5
+	trial 4: mode = M, task = 6
+	trial 5: mode = CD, task = 4
+	trial 6: mode = CD, task = 1
+plan 40:
+	trial 1: mode = SB, task = 6
+	trial 2: mode = SB, task = 4
+	trial 3: mode = M, task = 5
+	trial 4: mode = M, task = 3
+	trial 5: mode = CD, task = 1
+	trial 6: mode = CD, task = 2
+plan 41:
+	trial 1: mode = SB, task = 2
+	trial 2: mode = SB, task = 4
+	trial 3: mode = M, task = 5
+	trial 4: mode = M, task = 1
+	trial 5: mode = CD, task = 6
+	trial 6: mode = CD, task = 3
+plan 42:
+	trial 1: mode = SB, task = 5
+	trial 2: mode = SB, task = 4
+	trial 3: mode = M, task = 2
+	trial 4: mode = M, task = 1
+	trial 5: mode = CD, task = 6
+	trial 6: mode = CD, task = 3
+plan 43:
+	trial 1: mode = SB, task = 6
+	trial 2: mode = SB, task = 4
+	trial 3: mode = M, task = 2
+	trial 4: mode = M, task = 5
+	trial 5: mode = CD, task = 3
+	trial 6: mode = CD, task = 1
+plan 44:
+	trial 1: mode = SB, task = 4
+	trial 2: mode = SB, task = 2
+	trial 3: mode = M, task = 5
+	trial 4: mode = M, task = 3
+	trial 5: mode = CD, task = 1
+	trial 6: mode = CD, task = 6
+plan 45:
+	trial 1: mode = SB, task = 6
+	trial 2: mode = SB, task = 3
+	trial 3: mode = M, task = 1
+	trial 4: mode = M, task = 4
+	trial 5: mode = CD, task = 5
+	trial 6: mode = CD, task = 2
+plan 46:
+	trial 1: mode = SB, task = 5
+	trial 2: mode = SB, task = 2
+	trial 3: mode = M, task = 3
+	trial 4: mode = M, task = 6
+	trial 5: mode = CD, task = 1
+	trial 6: mode = CD, task = 4
+plan 47:
+	trial 1: mode = SB, task = 3
+	trial 2: mode = SB, task = 2
+	trial 3: mode = M, task = 6
+	trial 4: mode = M, task = 5
+	trial 5: mode = CD, task = 1
+	trial 6: mode = CD, task = 4
+plan 48:
+	trial 1: mode = SB, task = 6
+	trial 2: mode = SB, task = 5
+	trial 3: mode = M, task = 4
+	trial 4: mode = M, task = 2
+	trial 5: mode = CD, task = 1
+	trial 6: mode = CD, task = 3
+plan 49:
+	trial 1: mode = SB, task = 4
+	trial 2: mode = SB, task = 5
+	trial 3: mode = M, task = 6
+	trial 4: mode = M, task = 2
+	trial 5: mode = CD, task = 1
+	trial 6: mode = CD, task = 3
+plan 50:
+	trial 1: mode = SB, task = 3
+	trial 2: mode = SB, task = 5
+	trial 3: mode = M, task = 6
+	trial 4: mode = M, task = 2
+	trial 5: mode = CD, task = 4
+	trial 6: mode = CD, task = 1
+plan 51:
+	trial 1: mode = SB, task = 2
+	trial 2: mode = SB, task = 5
+	trial 3: mode = M, task = 6
+	trial 4: mode = M, task = 4
+	trial 5: mode = CD, task = 3
+	trial 6: mode = CD, task = 1
+ 
+
+***ASSIGNMENT***
+
+    pid  plan
+0     1    24
+1     2    34
+2     3    23
+3     4     8
+4     5    33
+5     6    16
+6     7    50
+7     8    29
+8     9    25
+9    10    22
+10   11    31
+11   12    35
+12   13    10
+13   14    49
+14   15    37
+15   16    12
+16   17     4
+17   18     3
+18   19    20
+19   20    40
+20   21    42
+21   22     2
+22   23     0
+23   24    28
+24   25    17
+25   26    27
+26   27    44
+27   28    41
+28   29    32
+29   30     7
+30   31    26
+31   32    15
+32   33     6
+33   34    36
+34   35     1
+35   36     9
+36   37    46
+37   38    13
+38   39    47
+39   40    30
+40   41    19
+41   42    45
+42   43    14
+43   44    21
+44   45    18
+45   46    11
+46   47    38
+47   48    43
+48   49     5
+49   50    39
+50   51    48

@@ -1,0 +1,27 @@
+[
+  [ [ 'in_app_demographic', 'present', [length]: 2 ], [length]: 1 ],
+  [ [ 'in_app_demographic', 'absent', [length]: 2 ], [length]: 1 ],
+  [ [ 'in_app_content', 'present', [length]: 2 ], [length]: 1 ],
+  [ [ 'in_app_content', 'absent', [length]: 2 ], [length]: 1 ],
+  [ [ 'in_app_collaborative', 'present', [length]: 2 ], [length]: 1 ],
+  [ [ 'in_app_collaborative', 'absent', [length]: 2 ], [length]: 1 ],
+  [
+    [ 'social_media_demographic', 'present', [length]: 2 ],
+    [length]: 1
+  ],
+  [
+    [ 'social_media_demographic', 'absent', [length]: 2 ],
+    [length]: 1
+  ],
+  [ [ 'social_media_content', 'present', [length]: 2 ], [length]: 1 ],
+  [ [ 'social_media_content', 'absent', [length]: 2 ], [length]: 1 ],
+  [
+    [ 'social_media_collaborative', 'present', [length]: 2 ],
+    [length]: 1
+  ],
+  [
+    [ 'social_media_collaborative', 'absent', [length]: 2 ],
+    [length]: 1
+  ],
+  [length]: 12
+]

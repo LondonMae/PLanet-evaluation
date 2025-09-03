@@ -1,0 +1,2404 @@
+# An edibble: 2,400 x 5
+       participant   block    trial     selection       interface
+           <U(12)> <U(60)> <U(240)>      <U(~2k)>          <T(4)>
+             <chr>   <chr>    <chr>         <chr>           <chr>
+   1 participant01 block01 trial001 selection0001 mouseringsingle
+   2 participant01 block01 trial001 selection0002 mouseringsingle
+   3 participant01 block01 trial001 selection0003 mouseringsingle
+   4 participant01 block01 trial001 selection0004 mouseringsingle
+   5 participant01 block01 trial001 selection0005 mouseringsingle
+   6 participant01 block01 trial001 selection0006 mouseringsingle
+   7 participant01 block01 trial001 selection0007 mouseringsingle
+   8 participant01 block01 trial001 selection0008 mouseringsingle
+   9 participant01 block01 trial001 selection0009 mouseringsingle
+  10 participant01 block01 trial001 selection0010 mouseringsingle
+  11 participant01 block01 trial002 selection0011        airmouse
+  12 participant01 block01 trial002 selection0012        airmouse
+  13 participant01 block01 trial002 selection0013        airmouse
+  14 participant01 block01 trial002 selection0014        airmouse
+  15 participant01 block01 trial002 selection0015        airmouse
+  16 participant01 block01 trial002 selection0016        airmouse
+  17 participant01 block01 trial002 selection0017        airmouse
+  18 participant01 block01 trial002 selection0018        airmouse
+  19 participant01 block01 trial002 selection0019        airmouse
+  20 participant01 block01 trial002 selection0020        airmouse
+  21 participant01 block01 trial003 selection0021        touchpad
+  22 participant01 block01 trial003 selection0022        touchpad
+  23 participant01 block01 trial003 selection0023        touchpad
+  24 participant01 block01 trial003 selection0024        touchpad
+  25 participant01 block01 trial003 selection0025        touchpad
+  26 participant01 block01 trial003 selection0026        touchpad
+  27 participant01 block01 trial003 selection0027        touchpad
+  28 participant01 block01 trial003 selection0028        touchpad
+  29 participant01 block01 trial003 selection0029        touchpad
+  30 participant01 block01 trial003 selection0030        touchpad
+  31 participant01 block01 trial004 selection0031 mouseringdouble
+  32 participant01 block01 trial004 selection0032 mouseringdouble
+  33 participant01 block01 trial004 selection0033 mouseringdouble
+  34 participant01 block01 trial004 selection0034 mouseringdouble
+  35 participant01 block01 trial004 selection0035 mouseringdouble
+  36 participant01 block01 trial004 selection0036 mouseringdouble
+  37 participant01 block01 trial004 selection0037 mouseringdouble
+  38 participant01 block01 trial004 selection0038 mouseringdouble
+  39 participant01 block01 trial004 selection0039 mouseringdouble
+  40 participant01 block01 trial004 selection0040 mouseringdouble
+  41 participant01 block02 trial005 selection0041        touchpad
+  42 participant01 block02 trial005 selection0042        touchpad
+  43 participant01 block02 trial005 selection0043        touchpad
+  44 participant01 block02 trial005 selection0044        touchpad
+  45 participant01 block02 trial005 selection0045        touchpad
+  46 participant01 block02 trial005 selection0046        touchpad
+  47 participant01 block02 trial005 selection0047        touchpad
+  48 participant01 block02 trial005 selection0048        touchpad
+  49 participant01 block02 trial005 selection0049        touchpad
+  50 participant01 block02 trial005 selection0050        touchpad
+  51 participant01 block02 trial006 selection0051        airmouse
+  52 participant01 block02 trial006 selection0052        airmouse
+  53 participant01 block02 trial006 selection0053        airmouse
+  54 participant01 block02 trial006 selection0054        airmouse
+  55 participant01 block02 trial006 selection0055        airmouse
+  56 participant01 block02 trial006 selection0056        airmouse
+  57 participant01 block02 trial006 selection0057        airmouse
+  58 participant01 block02 trial006 selection0058        airmouse
+  59 participant01 block02 trial006 selection0059        airmouse
+  60 participant01 block02 trial006 selection0060        airmouse
+  61 participant01 block02 trial007 selection0061 mouseringsingle
+  62 participant01 block02 trial007 selection0062 mouseringsingle
+  63 participant01 block02 trial007 selection0063 mouseringsingle
+  64 participant01 block02 trial007 selection0064 mouseringsingle
+  65 participant01 block02 trial007 selection0065 mouseringsingle
+  66 participant01 block02 trial007 selection0066 mouseringsingle
+  67 participant01 block02 trial007 selection0067 mouseringsingle
+  68 participant01 block02 trial007 selection0068 mouseringsingle
+  69 participant01 block02 trial007 selection0069 mouseringsingle
+  70 participant01 block02 trial007 selection0070 mouseringsingle
+  71 participant01 block02 trial008 selection0071 mouseringdouble
+  72 participant01 block02 trial008 selection0072 mouseringdouble
+  73 participant01 block02 trial008 selection0073 mouseringdouble
+  74 participant01 block02 trial008 selection0074 mouseringdouble
+  75 participant01 block02 trial008 selection0075 mouseringdouble
+  76 participant01 block02 trial008 selection0076 mouseringdouble
+  77 participant01 block02 trial008 selection0077 mouseringdouble
+  78 participant01 block02 trial008 selection0078 mouseringdouble
+  79 participant01 block02 trial008 selection0079 mouseringdouble
+  80 participant01 block02 trial008 selection0080 mouseringdouble
+  81 participant01 block03 trial009 selection0081 mouseringsingle
+  82 participant01 block03 trial009 selection0082 mouseringsingle
+  83 participant01 block03 trial009 selection0083 mouseringsingle
+  84 participant01 block03 trial009 selection0084 mouseringsingle
+  85 participant01 block03 trial009 selection0085 mouseringsingle
+  86 participant01 block03 trial009 selection0086 mouseringsingle
+  87 participant01 block03 trial009 selection0087 mouseringsingle
+  88 participant01 block03 trial009 selection0088 mouseringsingle
+  89 participant01 block03 trial009 selection0089 mouseringsingle
+  90 participant01 block03 trial009 selection0090 mouseringsingle
+  91 participant01 block03 trial010 selection0091 mouseringdouble
+  92 participant01 block03 trial010 selection0092 mouseringdouble
+  93 participant01 block03 trial010 selection0093 mouseringdouble
+  94 participant01 block03 trial010 selection0094 mouseringdouble
+  95 participant01 block03 trial010 selection0095 mouseringdouble
+  96 participant01 block03 trial010 selection0096 mouseringdouble
+  97 participant01 block03 trial010 selection0097 mouseringdouble
+  98 participant01 block03 trial010 selection0098 mouseringdouble
+  99 participant01 block03 trial010 selection0099 mouseringdouble
+ 100 participant01 block03 trial010 selection0100 mouseringdouble
+ 101 participant01 block03 trial011 selection0101        touchpad
+ 102 participant01 block03 trial011 selection0102        touchpad
+ 103 participant01 block03 trial011 selection0103        touchpad
+ 104 participant01 block03 trial011 selection0104        touchpad
+ 105 participant01 block03 trial011 selection0105        touchpad
+ 106 participant01 block03 trial011 selection0106        touchpad
+ 107 participant01 block03 trial011 selection0107        touchpad
+ 108 participant01 block03 trial011 selection0108        touchpad
+ 109 participant01 block03 trial011 selection0109        touchpad
+ 110 participant01 block03 trial011 selection0110        touchpad
+ 111 participant01 block03 trial012 selection0111        airmouse
+ 112 participant01 block03 trial012 selection0112        airmouse
+ 113 participant01 block03 trial012 selection0113        airmouse
+ 114 participant01 block03 trial012 selection0114        airmouse
+ 115 participant01 block03 trial012 selection0115        airmouse
+ 116 participant01 block03 trial012 selection0116        airmouse
+ 117 participant01 block03 trial012 selection0117        airmouse
+ 118 participant01 block03 trial012 selection0118        airmouse
+ 119 participant01 block03 trial012 selection0119        airmouse
+ 120 participant01 block03 trial012 selection0120        airmouse
+ 121 participant01 block04 trial013 selection0121 mouseringdouble
+ 122 participant01 block04 trial013 selection0122 mouseringdouble
+ 123 participant01 block04 trial013 selection0123 mouseringdouble
+ 124 participant01 block04 trial013 selection0124 mouseringdouble
+ 125 participant01 block04 trial013 selection0125 mouseringdouble
+ 126 participant01 block04 trial013 selection0126 mouseringdouble
+ 127 participant01 block04 trial013 selection0127 mouseringdouble
+ 128 participant01 block04 trial013 selection0128 mouseringdouble
+ 129 participant01 block04 trial013 selection0129 mouseringdouble
+ 130 participant01 block04 trial013 selection0130 mouseringdouble
+ 131 participant01 block04 trial014 selection0131        touchpad
+ 132 participant01 block04 trial014 selection0132        touchpad
+ 133 participant01 block04 trial014 selection0133        touchpad
+ 134 participant01 block04 trial014 selection0134        touchpad
+ 135 participant01 block04 trial014 selection0135        touchpad
+ 136 participant01 block04 trial014 selection0136        touchpad
+ 137 participant01 block04 trial014 selection0137        touchpad
+ 138 participant01 block04 trial014 selection0138        touchpad
+ 139 participant01 block04 trial014 selection0139        touchpad
+ 140 participant01 block04 trial014 selection0140        touchpad
+ 141 participant01 block04 trial015 selection0141 mouseringsingle
+ 142 participant01 block04 trial015 selection0142 mouseringsingle
+ 143 participant01 block04 trial015 selection0143 mouseringsingle
+ 144 participant01 block04 trial015 selection0144 mouseringsingle
+ 145 participant01 block04 trial015 selection0145 mouseringsingle
+ 146 participant01 block04 trial015 selection0146 mouseringsingle
+ 147 participant01 block04 trial015 selection0147 mouseringsingle
+ 148 participant01 block04 trial015 selection0148 mouseringsingle
+ 149 participant01 block04 trial015 selection0149 mouseringsingle
+ 150 participant01 block04 trial015 selection0150 mouseringsingle
+ 151 participant01 block04 trial016 selection0151        airmouse
+ 152 participant01 block04 trial016 selection0152        airmouse
+ 153 participant01 block04 trial016 selection0153        airmouse
+ 154 participant01 block04 trial016 selection0154        airmouse
+ 155 participant01 block04 trial016 selection0155        airmouse
+ 156 participant01 block04 trial016 selection0156        airmouse
+ 157 participant01 block04 trial016 selection0157        airmouse
+ 158 participant01 block04 trial016 selection0158        airmouse
+ 159 participant01 block04 trial016 selection0159        airmouse
+ 160 participant01 block04 trial016 selection0160        airmouse
+ 161 participant01 block05 trial017 selection0161 mouseringdouble
+ 162 participant01 block05 trial017 selection0162 mouseringdouble
+ 163 participant01 block05 trial017 selection0163 mouseringdouble
+ 164 participant01 block05 trial017 selection0164 mouseringdouble
+ 165 participant01 block05 trial017 selection0165 mouseringdouble
+ 166 participant01 block05 trial017 selection0166 mouseringdouble
+ 167 participant01 block05 trial017 selection0167 mouseringdouble
+ 168 participant01 block05 trial017 selection0168 mouseringdouble
+ 169 participant01 block05 trial017 selection0169 mouseringdouble
+ 170 participant01 block05 trial017 selection0170 mouseringdouble
+ 171 participant01 block05 trial018 selection0171 mouseringsingle
+ 172 participant01 block05 trial018 selection0172 mouseringsingle
+ 173 participant01 block05 trial018 selection0173 mouseringsingle
+ 174 participant01 block05 trial018 selection0174 mouseringsingle
+ 175 participant01 block05 trial018 selection0175 mouseringsingle
+ 176 participant01 block05 trial018 selection0176 mouseringsingle
+ 177 participant01 block05 trial018 selection0177 mouseringsingle
+ 178 participant01 block05 trial018 selection0178 mouseringsingle
+ 179 participant01 block05 trial018 selection0179 mouseringsingle
+ 180 participant01 block05 trial018 selection0180 mouseringsingle
+ 181 participant01 block05 trial019 selection0181        touchpad
+ 182 participant01 block05 trial019 selection0182        touchpad
+ 183 participant01 block05 trial019 selection0183        touchpad
+ 184 participant01 block05 trial019 selection0184        touchpad
+ 185 participant01 block05 trial019 selection0185        touchpad
+ 186 participant01 block05 trial019 selection0186        touchpad
+ 187 participant01 block05 trial019 selection0187        touchpad
+ 188 participant01 block05 trial019 selection0188        touchpad
+ 189 participant01 block05 trial019 selection0189        touchpad
+ 190 participant01 block05 trial019 selection0190        touchpad
+ 191 participant01 block05 trial020 selection0191        airmouse
+ 192 participant01 block05 trial020 selection0192        airmouse
+ 193 participant01 block05 trial020 selection0193        airmouse
+ 194 participant01 block05 trial020 selection0194        airmouse
+ 195 participant01 block05 trial020 selection0195        airmouse
+ 196 participant01 block05 trial020 selection0196        airmouse
+ 197 participant01 block05 trial020 selection0197        airmouse
+ 198 participant01 block05 trial020 selection0198        airmouse
+ 199 participant01 block05 trial020 selection0199        airmouse
+ 200 participant01 block05 trial020 selection0200        airmouse
+ 201 participant02 block06 trial021 selection0201        airmouse
+ 202 participant02 block06 trial021 selection0202        airmouse
+ 203 participant02 block06 trial021 selection0203        airmouse
+ 204 participant02 block06 trial021 selection0204        airmouse
+ 205 participant02 block06 trial021 selection0205        airmouse
+ 206 participant02 block06 trial021 selection0206        airmouse
+ 207 participant02 block06 trial021 selection0207        airmouse
+ 208 participant02 block06 trial021 selection0208        airmouse
+ 209 participant02 block06 trial021 selection0209        airmouse
+ 210 participant02 block06 trial021 selection0210        airmouse
+ 211 participant02 block06 trial022 selection0211 mouseringdouble
+ 212 participant02 block06 trial022 selection0212 mouseringdouble
+ 213 participant02 block06 trial022 selection0213 mouseringdouble
+ 214 participant02 block06 trial022 selection0214 mouseringdouble
+ 215 participant02 block06 trial022 selection0215 mouseringdouble
+ 216 participant02 block06 trial022 selection0216 mouseringdouble
+ 217 participant02 block06 trial022 selection0217 mouseringdouble
+ 218 participant02 block06 trial022 selection0218 mouseringdouble
+ 219 participant02 block06 trial022 selection0219 mouseringdouble
+ 220 participant02 block06 trial022 selection0220 mouseringdouble
+ 221 participant02 block06 trial023 selection0221 mouseringsingle
+ 222 participant02 block06 trial023 selection0222 mouseringsingle
+ 223 participant02 block06 trial023 selection0223 mouseringsingle
+ 224 participant02 block06 trial023 selection0224 mouseringsingle
+ 225 participant02 block06 trial023 selection0225 mouseringsingle
+ 226 participant02 block06 trial023 selection0226 mouseringsingle
+ 227 participant02 block06 trial023 selection0227 mouseringsingle
+ 228 participant02 block06 trial023 selection0228 mouseringsingle
+ 229 participant02 block06 trial023 selection0229 mouseringsingle
+ 230 participant02 block06 trial023 selection0230 mouseringsingle
+ 231 participant02 block06 trial024 selection0231        touchpad
+ 232 participant02 block06 trial024 selection0232        touchpad
+ 233 participant02 block06 trial024 selection0233        touchpad
+ 234 participant02 block06 trial024 selection0234        touchpad
+ 235 participant02 block06 trial024 selection0235        touchpad
+ 236 participant02 block06 trial024 selection0236        touchpad
+ 237 participant02 block06 trial024 selection0237        touchpad
+ 238 participant02 block06 trial024 selection0238        touchpad
+ 239 participant02 block06 trial024 selection0239        touchpad
+ 240 participant02 block06 trial024 selection0240        touchpad
+ 241 participant02 block07 trial025 selection0241        touchpad
+ 242 participant02 block07 trial025 selection0242        touchpad
+ 243 participant02 block07 trial025 selection0243        touchpad
+ 244 participant02 block07 trial025 selection0244        touchpad
+ 245 participant02 block07 trial025 selection0245        touchpad
+ 246 participant02 block07 trial025 selection0246        touchpad
+ 247 participant02 block07 trial025 selection0247        touchpad
+ 248 participant02 block07 trial025 selection0248        touchpad
+ 249 participant02 block07 trial025 selection0249        touchpad
+ 250 participant02 block07 trial025 selection0250        touchpad
+ 251 participant02 block07 trial026 selection0251 mouseringdouble
+ 252 participant02 block07 trial026 selection0252 mouseringdouble
+ 253 participant02 block07 trial026 selection0253 mouseringdouble
+ 254 participant02 block07 trial026 selection0254 mouseringdouble
+ 255 participant02 block07 trial026 selection0255 mouseringdouble
+ 256 participant02 block07 trial026 selection0256 mouseringdouble
+ 257 participant02 block07 trial026 selection0257 mouseringdouble
+ 258 participant02 block07 trial026 selection0258 mouseringdouble
+ 259 participant02 block07 trial026 selection0259 mouseringdouble
+ 260 participant02 block07 trial026 selection0260 mouseringdouble
+ 261 participant02 block07 trial027 selection0261 mouseringsingle
+ 262 participant02 block07 trial027 selection0262 mouseringsingle
+ 263 participant02 block07 trial027 selection0263 mouseringsingle
+ 264 participant02 block07 trial027 selection0264 mouseringsingle
+ 265 participant02 block07 trial027 selection0265 mouseringsingle
+ 266 participant02 block07 trial027 selection0266 mouseringsingle
+ 267 participant02 block07 trial027 selection0267 mouseringsingle
+ 268 participant02 block07 trial027 selection0268 mouseringsingle
+ 269 participant02 block07 trial027 selection0269 mouseringsingle
+ 270 participant02 block07 trial027 selection0270 mouseringsingle
+ 271 participant02 block07 trial028 selection0271        airmouse
+ 272 participant02 block07 trial028 selection0272        airmouse
+ 273 participant02 block07 trial028 selection0273        airmouse
+ 274 participant02 block07 trial028 selection0274        airmouse
+ 275 participant02 block07 trial028 selection0275        airmouse
+ 276 participant02 block07 trial028 selection0276        airmouse
+ 277 participant02 block07 trial028 selection0277        airmouse
+ 278 participant02 block07 trial028 selection0278        airmouse
+ 279 participant02 block07 trial028 selection0279        airmouse
+ 280 participant02 block07 trial028 selection0280        airmouse
+ 281 participant02 block08 trial029 selection0281 mouseringdouble
+ 282 participant02 block08 trial029 selection0282 mouseringdouble
+ 283 participant02 block08 trial029 selection0283 mouseringdouble
+ 284 participant02 block08 trial029 selection0284 mouseringdouble
+ 285 participant02 block08 trial029 selection0285 mouseringdouble
+ 286 participant02 block08 trial029 selection0286 mouseringdouble
+ 287 participant02 block08 trial029 selection0287 mouseringdouble
+ 288 participant02 block08 trial029 selection0288 mouseringdouble
+ 289 participant02 block08 trial029 selection0289 mouseringdouble
+ 290 participant02 block08 trial029 selection0290 mouseringdouble
+ 291 participant02 block08 trial030 selection0291        touchpad
+ 292 participant02 block08 trial030 selection0292        touchpad
+ 293 participant02 block08 trial030 selection0293        touchpad
+ 294 participant02 block08 trial030 selection0294        touchpad
+ 295 participant02 block08 trial030 selection0295        touchpad
+ 296 participant02 block08 trial030 selection0296        touchpad
+ 297 participant02 block08 trial030 selection0297        touchpad
+ 298 participant02 block08 trial030 selection0298        touchpad
+ 299 participant02 block08 trial030 selection0299        touchpad
+ 300 participant02 block08 trial030 selection0300        touchpad
+ 301 participant02 block08 trial031 selection0301 mouseringsingle
+ 302 participant02 block08 trial031 selection0302 mouseringsingle
+ 303 participant02 block08 trial031 selection0303 mouseringsingle
+ 304 participant02 block08 trial031 selection0304 mouseringsingle
+ 305 participant02 block08 trial031 selection0305 mouseringsingle
+ 306 participant02 block08 trial031 selection0306 mouseringsingle
+ 307 participant02 block08 trial031 selection0307 mouseringsingle
+ 308 participant02 block08 trial031 selection0308 mouseringsingle
+ 309 participant02 block08 trial031 selection0309 mouseringsingle
+ 310 participant02 block08 trial031 selection0310 mouseringsingle
+ 311 participant02 block08 trial032 selection0311        airmouse
+ 312 participant02 block08 trial032 selection0312        airmouse
+ 313 participant02 block08 trial032 selection0313        airmouse
+ 314 participant02 block08 trial032 selection0314        airmouse
+ 315 participant02 block08 trial032 selection0315        airmouse
+ 316 participant02 block08 trial032 selection0316        airmouse
+ 317 participant02 block08 trial032 selection0317        airmouse
+ 318 participant02 block08 trial032 selection0318        airmouse
+ 319 participant02 block08 trial032 selection0319        airmouse
+ 320 participant02 block08 trial032 selection0320        airmouse
+ 321 participant02 block09 trial033 selection0321 mouseringsingle
+ 322 participant02 block09 trial033 selection0322 mouseringsingle
+ 323 participant02 block09 trial033 selection0323 mouseringsingle
+ 324 participant02 block09 trial033 selection0324 mouseringsingle
+ 325 participant02 block09 trial033 selection0325 mouseringsingle
+ 326 participant02 block09 trial033 selection0326 mouseringsingle
+ 327 participant02 block09 trial033 selection0327 mouseringsingle
+ 328 participant02 block09 trial033 selection0328 mouseringsingle
+ 329 participant02 block09 trial033 selection0329 mouseringsingle
+ 330 participant02 block09 trial033 selection0330 mouseringsingle
+ 331 participant02 block09 trial034 selection0331        touchpad
+ 332 participant02 block09 trial034 selection0332        touchpad
+ 333 participant02 block09 trial034 selection0333        touchpad
+ 334 participant02 block09 trial034 selection0334        touchpad
+ 335 participant02 block09 trial034 selection0335        touchpad
+ 336 participant02 block09 trial034 selection0336        touchpad
+ 337 participant02 block09 trial034 selection0337        touchpad
+ 338 participant02 block09 trial034 selection0338        touchpad
+ 339 participant02 block09 trial034 selection0339        touchpad
+ 340 participant02 block09 trial034 selection0340        touchpad
+ 341 participant02 block09 trial035 selection0341        airmouse
+ 342 participant02 block09 trial035 selection0342        airmouse
+ 343 participant02 block09 trial035 selection0343        airmouse
+ 344 participant02 block09 trial035 selection0344        airmouse
+ 345 participant02 block09 trial035 selection0345        airmouse
+ 346 participant02 block09 trial035 selection0346        airmouse
+ 347 participant02 block09 trial035 selection0347        airmouse
+ 348 participant02 block09 trial035 selection0348        airmouse
+ 349 participant02 block09 trial035 selection0349        airmouse
+ 350 participant02 block09 trial035 selection0350        airmouse
+ 351 participant02 block09 trial036 selection0351 mouseringdouble
+ 352 participant02 block09 trial036 selection0352 mouseringdouble
+ 353 participant02 block09 trial036 selection0353 mouseringdouble
+ 354 participant02 block09 trial036 selection0354 mouseringdouble
+ 355 participant02 block09 trial036 selection0355 mouseringdouble
+ 356 participant02 block09 trial036 selection0356 mouseringdouble
+ 357 participant02 block09 trial036 selection0357 mouseringdouble
+ 358 participant02 block09 trial036 selection0358 mouseringdouble
+ 359 participant02 block09 trial036 selection0359 mouseringdouble
+ 360 participant02 block09 trial036 selection0360 mouseringdouble
+ 361 participant02 block10 trial037 selection0361 mouseringdouble
+ 362 participant02 block10 trial037 selection0362 mouseringdouble
+ 363 participant02 block10 trial037 selection0363 mouseringdouble
+ 364 participant02 block10 trial037 selection0364 mouseringdouble
+ 365 participant02 block10 trial037 selection0365 mouseringdouble
+ 366 participant02 block10 trial037 selection0366 mouseringdouble
+ 367 participant02 block10 trial037 selection0367 mouseringdouble
+ 368 participant02 block10 trial037 selection0368 mouseringdouble
+ 369 participant02 block10 trial037 selection0369 mouseringdouble
+ 370 participant02 block10 trial037 selection0370 mouseringdouble
+ 371 participant02 block10 trial038 selection0371        touchpad
+ 372 participant02 block10 trial038 selection0372        touchpad
+ 373 participant02 block10 trial038 selection0373        touchpad
+ 374 participant02 block10 trial038 selection0374        touchpad
+ 375 participant02 block10 trial038 selection0375        touchpad
+ 376 participant02 block10 trial038 selection0376        touchpad
+ 377 participant02 block10 trial038 selection0377        touchpad
+ 378 participant02 block10 trial038 selection0378        touchpad
+ 379 participant02 block10 trial038 selection0379        touchpad
+ 380 participant02 block10 trial038 selection0380        touchpad
+ 381 participant02 block10 trial039 selection0381 mouseringsingle
+ 382 participant02 block10 trial039 selection0382 mouseringsingle
+ 383 participant02 block10 trial039 selection0383 mouseringsingle
+ 384 participant02 block10 trial039 selection0384 mouseringsingle
+ 385 participant02 block10 trial039 selection0385 mouseringsingle
+ 386 participant02 block10 trial039 selection0386 mouseringsingle
+ 387 participant02 block10 trial039 selection0387 mouseringsingle
+ 388 participant02 block10 trial039 selection0388 mouseringsingle
+ 389 participant02 block10 trial039 selection0389 mouseringsingle
+ 390 participant02 block10 trial039 selection0390 mouseringsingle
+ 391 participant02 block10 trial040 selection0391        airmouse
+ 392 participant02 block10 trial040 selection0392        airmouse
+ 393 participant02 block10 trial040 selection0393        airmouse
+ 394 participant02 block10 trial040 selection0394        airmouse
+ 395 participant02 block10 trial040 selection0395        airmouse
+ 396 participant02 block10 trial040 selection0396        airmouse
+ 397 participant02 block10 trial040 selection0397        airmouse
+ 398 participant02 block10 trial040 selection0398        airmouse
+ 399 participant02 block10 trial040 selection0399        airmouse
+ 400 participant02 block10 trial040 selection0400        airmouse
+ 401 participant03 block11 trial041 selection0401        touchpad
+ 402 participant03 block11 trial041 selection0402        touchpad
+ 403 participant03 block11 trial041 selection0403        touchpad
+ 404 participant03 block11 trial041 selection0404        touchpad
+ 405 participant03 block11 trial041 selection0405        touchpad
+ 406 participant03 block11 trial041 selection0406        touchpad
+ 407 participant03 block11 trial041 selection0407        touchpad
+ 408 participant03 block11 trial041 selection0408        touchpad
+ 409 participant03 block11 trial041 selection0409        touchpad
+ 410 participant03 block11 trial041 selection0410        touchpad
+ 411 participant03 block11 trial042 selection0411 mouseringsingle
+ 412 participant03 block11 trial042 selection0412 mouseringsingle
+ 413 participant03 block11 trial042 selection0413 mouseringsingle
+ 414 participant03 block11 trial042 selection0414 mouseringsingle
+ 415 participant03 block11 trial042 selection0415 mouseringsingle
+ 416 participant03 block11 trial042 selection0416 mouseringsingle
+ 417 participant03 block11 trial042 selection0417 mouseringsingle
+ 418 participant03 block11 trial042 selection0418 mouseringsingle
+ 419 participant03 block11 trial042 selection0419 mouseringsingle
+ 420 participant03 block11 trial042 selection0420 mouseringsingle
+ 421 participant03 block11 trial043 selection0421        airmouse
+ 422 participant03 block11 trial043 selection0422        airmouse
+ 423 participant03 block11 trial043 selection0423        airmouse
+ 424 participant03 block11 trial043 selection0424        airmouse
+ 425 participant03 block11 trial043 selection0425        airmouse
+ 426 participant03 block11 trial043 selection0426        airmouse
+ 427 participant03 block11 trial043 selection0427        airmouse
+ 428 participant03 block11 trial043 selection0428        airmouse
+ 429 participant03 block11 trial043 selection0429        airmouse
+ 430 participant03 block11 trial043 selection0430        airmouse
+ 431 participant03 block11 trial044 selection0431 mouseringdouble
+ 432 participant03 block11 trial044 selection0432 mouseringdouble
+ 433 participant03 block11 trial044 selection0433 mouseringdouble
+ 434 participant03 block11 trial044 selection0434 mouseringdouble
+ 435 participant03 block11 trial044 selection0435 mouseringdouble
+ 436 participant03 block11 trial044 selection0436 mouseringdouble
+ 437 participant03 block11 trial044 selection0437 mouseringdouble
+ 438 participant03 block11 trial044 selection0438 mouseringdouble
+ 439 participant03 block11 trial044 selection0439 mouseringdouble
+ 440 participant03 block11 trial044 selection0440 mouseringdouble
+ 441 participant03 block12 trial045 selection0441        airmouse
+ 442 participant03 block12 trial045 selection0442        airmouse
+ 443 participant03 block12 trial045 selection0443        airmouse
+ 444 participant03 block12 trial045 selection0444        airmouse
+ 445 participant03 block12 trial045 selection0445        airmouse
+ 446 participant03 block12 trial045 selection0446        airmouse
+ 447 participant03 block12 trial045 selection0447        airmouse
+ 448 participant03 block12 trial045 selection0448        airmouse
+ 449 participant03 block12 trial045 selection0449        airmouse
+ 450 participant03 block12 trial045 selection0450        airmouse
+ 451 participant03 block12 trial046 selection0451 mouseringdouble
+ 452 participant03 block12 trial046 selection0452 mouseringdouble
+ 453 participant03 block12 trial046 selection0453 mouseringdouble
+ 454 participant03 block12 trial046 selection0454 mouseringdouble
+ 455 participant03 block12 trial046 selection0455 mouseringdouble
+ 456 participant03 block12 trial046 selection0456 mouseringdouble
+ 457 participant03 block12 trial046 selection0457 mouseringdouble
+ 458 participant03 block12 trial046 selection0458 mouseringdouble
+ 459 participant03 block12 trial046 selection0459 mouseringdouble
+ 460 participant03 block12 trial046 selection0460 mouseringdouble
+ 461 participant03 block12 trial047 selection0461        touchpad
+ 462 participant03 block12 trial047 selection0462        touchpad
+ 463 participant03 block12 trial047 selection0463        touchpad
+ 464 participant03 block12 trial047 selection0464        touchpad
+ 465 participant03 block12 trial047 selection0465        touchpad
+ 466 participant03 block12 trial047 selection0466        touchpad
+ 467 participant03 block12 trial047 selection0467        touchpad
+ 468 participant03 block12 trial047 selection0468        touchpad
+ 469 participant03 block12 trial047 selection0469        touchpad
+ 470 participant03 block12 trial047 selection0470        touchpad
+ 471 participant03 block12 trial048 selection0471 mouseringsingle
+ 472 participant03 block12 trial048 selection0472 mouseringsingle
+ 473 participant03 block12 trial048 selection0473 mouseringsingle
+ 474 participant03 block12 trial048 selection0474 mouseringsingle
+ 475 participant03 block12 trial048 selection0475 mouseringsingle
+ 476 participant03 block12 trial048 selection0476 mouseringsingle
+ 477 participant03 block12 trial048 selection0477 mouseringsingle
+ 478 participant03 block12 trial048 selection0478 mouseringsingle
+ 479 participant03 block12 trial048 selection0479 mouseringsingle
+ 480 participant03 block12 trial048 selection0480 mouseringsingle
+ 481 participant03 block13 trial049 selection0481        touchpad
+ 482 participant03 block13 trial049 selection0482        touchpad
+ 483 participant03 block13 trial049 selection0483        touchpad
+ 484 participant03 block13 trial049 selection0484        touchpad
+ 485 participant03 block13 trial049 selection0485        touchpad
+ 486 participant03 block13 trial049 selection0486        touchpad
+ 487 participant03 block13 trial049 selection0487        touchpad
+ 488 participant03 block13 trial049 selection0488        touchpad
+ 489 participant03 block13 trial049 selection0489        touchpad
+ 490 participant03 block13 trial049 selection0490        touchpad
+ 491 participant03 block13 trial050 selection0491 mouseringdouble
+ 492 participant03 block13 trial050 selection0492 mouseringdouble
+ 493 participant03 block13 trial050 selection0493 mouseringdouble
+ 494 participant03 block13 trial050 selection0494 mouseringdouble
+ 495 participant03 block13 trial050 selection0495 mouseringdouble
+ 496 participant03 block13 trial050 selection0496 mouseringdouble
+ 497 participant03 block13 trial050 selection0497 mouseringdouble
+ 498 participant03 block13 trial050 selection0498 mouseringdouble
+ 499 participant03 block13 trial050 selection0499 mouseringdouble
+ 500 participant03 block13 trial050 selection0500 mouseringdouble
+ 501 participant03 block13 trial051 selection0501        airmouse
+ 502 participant03 block13 trial051 selection0502        airmouse
+ 503 participant03 block13 trial051 selection0503        airmouse
+ 504 participant03 block13 trial051 selection0504        airmouse
+ 505 participant03 block13 trial051 selection0505        airmouse
+ 506 participant03 block13 trial051 selection0506        airmouse
+ 507 participant03 block13 trial051 selection0507        airmouse
+ 508 participant03 block13 trial051 selection0508        airmouse
+ 509 participant03 block13 trial051 selection0509        airmouse
+ 510 participant03 block13 trial051 selection0510        airmouse
+ 511 participant03 block13 trial052 selection0511 mouseringsingle
+ 512 participant03 block13 trial052 selection0512 mouseringsingle
+ 513 participant03 block13 trial052 selection0513 mouseringsingle
+ 514 participant03 block13 trial052 selection0514 mouseringsingle
+ 515 participant03 block13 trial052 selection0515 mouseringsingle
+ 516 participant03 block13 trial052 selection0516 mouseringsingle
+ 517 participant03 block13 trial052 selection0517 mouseringsingle
+ 518 participant03 block13 trial052 selection0518 mouseringsingle
+ 519 participant03 block13 trial052 selection0519 mouseringsingle
+ 520 participant03 block13 trial052 selection0520 mouseringsingle
+ 521 participant03 block14 trial053 selection0521 mouseringdouble
+ 522 participant03 block14 trial053 selection0522 mouseringdouble
+ 523 participant03 block14 trial053 selection0523 mouseringdouble
+ 524 participant03 block14 trial053 selection0524 mouseringdouble
+ 525 participant03 block14 trial053 selection0525 mouseringdouble
+ 526 participant03 block14 trial053 selection0526 mouseringdouble
+ 527 participant03 block14 trial053 selection0527 mouseringdouble
+ 528 participant03 block14 trial053 selection0528 mouseringdouble
+ 529 participant03 block14 trial053 selection0529 mouseringdouble
+ 530 participant03 block14 trial053 selection0530 mouseringdouble
+ 531 participant03 block14 trial054 selection0531        touchpad
+ 532 participant03 block14 trial054 selection0532        touchpad
+ 533 participant03 block14 trial054 selection0533        touchpad
+ 534 participant03 block14 trial054 selection0534        touchpad
+ 535 participant03 block14 trial054 selection0535        touchpad
+ 536 participant03 block14 trial054 selection0536        touchpad
+ 537 participant03 block14 trial054 selection0537        touchpad
+ 538 participant03 block14 trial054 selection0538        touchpad
+ 539 participant03 block14 trial054 selection0539        touchpad
+ 540 participant03 block14 trial054 selection0540        touchpad
+ 541 participant03 block14 trial055 selection0541 mouseringsingle
+ 542 participant03 block14 trial055 selection0542 mouseringsingle
+ 543 participant03 block14 trial055 selection0543 mouseringsingle
+ 544 participant03 block14 trial055 selection0544 mouseringsingle
+ 545 participant03 block14 trial055 selection0545 mouseringsingle
+ 546 participant03 block14 trial055 selection0546 mouseringsingle
+ 547 participant03 block14 trial055 selection0547 mouseringsingle
+ 548 participant03 block14 trial055 selection0548 mouseringsingle
+ 549 participant03 block14 trial055 selection0549 mouseringsingle
+ 550 participant03 block14 trial055 selection0550 mouseringsingle
+ 551 participant03 block14 trial056 selection0551        airmouse
+ 552 participant03 block14 trial056 selection0552        airmouse
+ 553 participant03 block14 trial056 selection0553        airmouse
+ 554 participant03 block14 trial056 selection0554        airmouse
+ 555 participant03 block14 trial056 selection0555        airmouse
+ 556 participant03 block14 trial056 selection0556        airmouse
+ 557 participant03 block14 trial056 selection0557        airmouse
+ 558 participant03 block14 trial056 selection0558        airmouse
+ 559 participant03 block14 trial056 selection0559        airmouse
+ 560 participant03 block14 trial056 selection0560        airmouse
+ 561 participant03 block15 trial057 selection0561 mouseringdouble
+ 562 participant03 block15 trial057 selection0562 mouseringdouble
+ 563 participant03 block15 trial057 selection0563 mouseringdouble
+ 564 participant03 block15 trial057 selection0564 mouseringdouble
+ 565 participant03 block15 trial057 selection0565 mouseringdouble
+ 566 participant03 block15 trial057 selection0566 mouseringdouble
+ 567 participant03 block15 trial057 selection0567 mouseringdouble
+ 568 participant03 block15 trial057 selection0568 mouseringdouble
+ 569 participant03 block15 trial057 selection0569 mouseringdouble
+ 570 participant03 block15 trial057 selection0570 mouseringdouble
+ 571 participant03 block15 trial058 selection0571        touchpad
+ 572 participant03 block15 trial058 selection0572        touchpad
+ 573 participant03 block15 trial058 selection0573        touchpad
+ 574 participant03 block15 trial058 selection0574        touchpad
+ 575 participant03 block15 trial058 selection0575        touchpad
+ 576 participant03 block15 trial058 selection0576        touchpad
+ 577 participant03 block15 trial058 selection0577        touchpad
+ 578 participant03 block15 trial058 selection0578        touchpad
+ 579 participant03 block15 trial058 selection0579        touchpad
+ 580 participant03 block15 trial058 selection0580        touchpad
+ 581 participant03 block15 trial059 selection0581        airmouse
+ 582 participant03 block15 trial059 selection0582        airmouse
+ 583 participant03 block15 trial059 selection0583        airmouse
+ 584 participant03 block15 trial059 selection0584        airmouse
+ 585 participant03 block15 trial059 selection0585        airmouse
+ 586 participant03 block15 trial059 selection0586        airmouse
+ 587 participant03 block15 trial059 selection0587        airmouse
+ 588 participant03 block15 trial059 selection0588        airmouse
+ 589 participant03 block15 trial059 selection0589        airmouse
+ 590 participant03 block15 trial059 selection0590        airmouse
+ 591 participant03 block15 trial060 selection0591 mouseringsingle
+ 592 participant03 block15 trial060 selection0592 mouseringsingle
+ 593 participant03 block15 trial060 selection0593 mouseringsingle
+ 594 participant03 block15 trial060 selection0594 mouseringsingle
+ 595 participant03 block15 trial060 selection0595 mouseringsingle
+ 596 participant03 block15 trial060 selection0596 mouseringsingle
+ 597 participant03 block15 trial060 selection0597 mouseringsingle
+ 598 participant03 block15 trial060 selection0598 mouseringsingle
+ 599 participant03 block15 trial060 selection0599 mouseringsingle
+ 600 participant03 block15 trial060 selection0600 mouseringsingle
+ 601 participant04 block16 trial061 selection0601 mouseringdouble
+ 602 participant04 block16 trial061 selection0602 mouseringdouble
+ 603 participant04 block16 trial061 selection0603 mouseringdouble
+ 604 participant04 block16 trial061 selection0604 mouseringdouble
+ 605 participant04 block16 trial061 selection0605 mouseringdouble
+ 606 participant04 block16 trial061 selection0606 mouseringdouble
+ 607 participant04 block16 trial061 selection0607 mouseringdouble
+ 608 participant04 block16 trial061 selection0608 mouseringdouble
+ 609 participant04 block16 trial061 selection0609 mouseringdouble
+ 610 participant04 block16 trial061 selection0610 mouseringdouble
+ 611 participant04 block16 trial062 selection0611 mouseringsingle
+ 612 participant04 block16 trial062 selection0612 mouseringsingle
+ 613 participant04 block16 trial062 selection0613 mouseringsingle
+ 614 participant04 block16 trial062 selection0614 mouseringsingle
+ 615 participant04 block16 trial062 selection0615 mouseringsingle
+ 616 participant04 block16 trial062 selection0616 mouseringsingle
+ 617 participant04 block16 trial062 selection0617 mouseringsingle
+ 618 participant04 block16 trial062 selection0618 mouseringsingle
+ 619 participant04 block16 trial062 selection0619 mouseringsingle
+ 620 participant04 block16 trial062 selection0620 mouseringsingle
+ 621 participant04 block16 trial063 selection0621        airmouse
+ 622 participant04 block16 trial063 selection0622        airmouse
+ 623 participant04 block16 trial063 selection0623        airmouse
+ 624 participant04 block16 trial063 selection0624        airmouse
+ 625 participant04 block16 trial063 selection0625        airmouse
+ 626 participant04 block16 trial063 selection0626        airmouse
+ 627 participant04 block16 trial063 selection0627        airmouse
+ 628 participant04 block16 trial063 selection0628        airmouse
+ 629 participant04 block16 trial063 selection0629        airmouse
+ 630 participant04 block16 trial063 selection0630        airmouse
+ 631 participant04 block16 trial064 selection0631        touchpad
+ 632 participant04 block16 trial064 selection0632        touchpad
+ 633 participant04 block16 trial064 selection0633        touchpad
+ 634 participant04 block16 trial064 selection0634        touchpad
+ 635 participant04 block16 trial064 selection0635        touchpad
+ 636 participant04 block16 trial064 selection0636        touchpad
+ 637 participant04 block16 trial064 selection0637        touchpad
+ 638 participant04 block16 trial064 selection0638        touchpad
+ 639 participant04 block16 trial064 selection0639        touchpad
+ 640 participant04 block16 trial064 selection0640        touchpad
+ 641 participant04 block17 trial065 selection0641 mouseringdouble
+ 642 participant04 block17 trial065 selection0642 mouseringdouble
+ 643 participant04 block17 trial065 selection0643 mouseringdouble
+ 644 participant04 block17 trial065 selection0644 mouseringdouble
+ 645 participant04 block17 trial065 selection0645 mouseringdouble
+ 646 participant04 block17 trial065 selection0646 mouseringdouble
+ 647 participant04 block17 trial065 selection0647 mouseringdouble
+ 648 participant04 block17 trial065 selection0648 mouseringdouble
+ 649 participant04 block17 trial065 selection0649 mouseringdouble
+ 650 participant04 block17 trial065 selection0650 mouseringdouble
+ 651 participant04 block17 trial066 selection0651 mouseringsingle
+ 652 participant04 block17 trial066 selection0652 mouseringsingle
+ 653 participant04 block17 trial066 selection0653 mouseringsingle
+ 654 participant04 block17 trial066 selection0654 mouseringsingle
+ 655 participant04 block17 trial066 selection0655 mouseringsingle
+ 656 participant04 block17 trial066 selection0656 mouseringsingle
+ 657 participant04 block17 trial066 selection0657 mouseringsingle
+ 658 participant04 block17 trial066 selection0658 mouseringsingle
+ 659 participant04 block17 trial066 selection0659 mouseringsingle
+ 660 participant04 block17 trial066 selection0660 mouseringsingle
+ 661 participant04 block17 trial067 selection0661        airmouse
+ 662 participant04 block17 trial067 selection0662        airmouse
+ 663 participant04 block17 trial067 selection0663        airmouse
+ 664 participant04 block17 trial067 selection0664        airmouse
+ 665 participant04 block17 trial067 selection0665        airmouse
+ 666 participant04 block17 trial067 selection0666        airmouse
+ 667 participant04 block17 trial067 selection0667        airmouse
+ 668 participant04 block17 trial067 selection0668        airmouse
+ 669 participant04 block17 trial067 selection0669        airmouse
+ 670 participant04 block17 trial067 selection0670        airmouse
+ 671 participant04 block17 trial068 selection0671        touchpad
+ 672 participant04 block17 trial068 selection0672        touchpad
+ 673 participant04 block17 trial068 selection0673        touchpad
+ 674 participant04 block17 trial068 selection0674        touchpad
+ 675 participant04 block17 trial068 selection0675        touchpad
+ 676 participant04 block17 trial068 selection0676        touchpad
+ 677 participant04 block17 trial068 selection0677        touchpad
+ 678 participant04 block17 trial068 selection0678        touchpad
+ 679 participant04 block17 trial068 selection0679        touchpad
+ 680 participant04 block17 trial068 selection0680        touchpad
+ 681 participant04 block18 trial069 selection0681        airmouse
+ 682 participant04 block18 trial069 selection0682        airmouse
+ 683 participant04 block18 trial069 selection0683        airmouse
+ 684 participant04 block18 trial069 selection0684        airmouse
+ 685 participant04 block18 trial069 selection0685        airmouse
+ 686 participant04 block18 trial069 selection0686        airmouse
+ 687 participant04 block18 trial069 selection0687        airmouse
+ 688 participant04 block18 trial069 selection0688        airmouse
+ 689 participant04 block18 trial069 selection0689        airmouse
+ 690 participant04 block18 trial069 selection0690        airmouse
+ 691 participant04 block18 trial070 selection0691        touchpad
+ 692 participant04 block18 trial070 selection0692        touchpad
+ 693 participant04 block18 trial070 selection0693        touchpad
+ 694 participant04 block18 trial070 selection0694        touchpad
+ 695 participant04 block18 trial070 selection0695        touchpad
+ 696 participant04 block18 trial070 selection0696        touchpad
+ 697 participant04 block18 trial070 selection0697        touchpad
+ 698 participant04 block18 trial070 selection0698        touchpad
+ 699 participant04 block18 trial070 selection0699        touchpad
+ 700 participant04 block18 trial070 selection0700        touchpad
+ 701 participant04 block18 trial071 selection0701 mouseringdouble
+ 702 participant04 block18 trial071 selection0702 mouseringdouble
+ 703 participant04 block18 trial071 selection0703 mouseringdouble
+ 704 participant04 block18 trial071 selection0704 mouseringdouble
+ 705 participant04 block18 trial071 selection0705 mouseringdouble
+ 706 participant04 block18 trial071 selection0706 mouseringdouble
+ 707 participant04 block18 trial071 selection0707 mouseringdouble
+ 708 participant04 block18 trial071 selection0708 mouseringdouble
+ 709 participant04 block18 trial071 selection0709 mouseringdouble
+ 710 participant04 block18 trial071 selection0710 mouseringdouble
+ 711 participant04 block18 trial072 selection0711 mouseringsingle
+ 712 participant04 block18 trial072 selection0712 mouseringsingle
+ 713 participant04 block18 trial072 selection0713 mouseringsingle
+ 714 participant04 block18 trial072 selection0714 mouseringsingle
+ 715 participant04 block18 trial072 selection0715 mouseringsingle
+ 716 participant04 block18 trial072 selection0716 mouseringsingle
+ 717 participant04 block18 trial072 selection0717 mouseringsingle
+ 718 participant04 block18 trial072 selection0718 mouseringsingle
+ 719 participant04 block18 trial072 selection0719 mouseringsingle
+ 720 participant04 block18 trial072 selection0720 mouseringsingle
+ 721 participant04 block19 trial073 selection0721        airmouse
+ 722 participant04 block19 trial073 selection0722        airmouse
+ 723 participant04 block19 trial073 selection0723        airmouse
+ 724 participant04 block19 trial073 selection0724        airmouse
+ 725 participant04 block19 trial073 selection0725        airmouse
+ 726 participant04 block19 trial073 selection0726        airmouse
+ 727 participant04 block19 trial073 selection0727        airmouse
+ 728 participant04 block19 trial073 selection0728        airmouse
+ 729 participant04 block19 trial073 selection0729        airmouse
+ 730 participant04 block19 trial073 selection0730        airmouse
+ 731 participant04 block19 trial074 selection0731        touchpad
+ 732 participant04 block19 trial074 selection0732        touchpad
+ 733 participant04 block19 trial074 selection0733        touchpad
+ 734 participant04 block19 trial074 selection0734        touchpad
+ 735 participant04 block19 trial074 selection0735        touchpad
+ 736 participant04 block19 trial074 selection0736        touchpad
+ 737 participant04 block19 trial074 selection0737        touchpad
+ 738 participant04 block19 trial074 selection0738        touchpad
+ 739 participant04 block19 trial074 selection0739        touchpad
+ 740 participant04 block19 trial074 selection0740        touchpad
+ 741 participant04 block19 trial075 selection0741 mouseringsingle
+ 742 participant04 block19 trial075 selection0742 mouseringsingle
+ 743 participant04 block19 trial075 selection0743 mouseringsingle
+ 744 participant04 block19 trial075 selection0744 mouseringsingle
+ 745 participant04 block19 trial075 selection0745 mouseringsingle
+ 746 participant04 block19 trial075 selection0746 mouseringsingle
+ 747 participant04 block19 trial075 selection0747 mouseringsingle
+ 748 participant04 block19 trial075 selection0748 mouseringsingle
+ 749 participant04 block19 trial075 selection0749 mouseringsingle
+ 750 participant04 block19 trial075 selection0750 mouseringsingle
+ 751 participant04 block19 trial076 selection0751 mouseringdouble
+ 752 participant04 block19 trial076 selection0752 mouseringdouble
+ 753 participant04 block19 trial076 selection0753 mouseringdouble
+ 754 participant04 block19 trial076 selection0754 mouseringdouble
+ 755 participant04 block19 trial076 selection0755 mouseringdouble
+ 756 participant04 block19 trial076 selection0756 mouseringdouble
+ 757 participant04 block19 trial076 selection0757 mouseringdouble
+ 758 participant04 block19 trial076 selection0758 mouseringdouble
+ 759 participant04 block19 trial076 selection0759 mouseringdouble
+ 760 participant04 block19 trial076 selection0760 mouseringdouble
+ 761 participant04 block20 trial077 selection0761 mouseringsingle
+ 762 participant04 block20 trial077 selection0762 mouseringsingle
+ 763 participant04 block20 trial077 selection0763 mouseringsingle
+ 764 participant04 block20 trial077 selection0764 mouseringsingle
+ 765 participant04 block20 trial077 selection0765 mouseringsingle
+ 766 participant04 block20 trial077 selection0766 mouseringsingle
+ 767 participant04 block20 trial077 selection0767 mouseringsingle
+ 768 participant04 block20 trial077 selection0768 mouseringsingle
+ 769 participant04 block20 trial077 selection0769 mouseringsingle
+ 770 participant04 block20 trial077 selection0770 mouseringsingle
+ 771 participant04 block20 trial078 selection0771        airmouse
+ 772 participant04 block20 trial078 selection0772        airmouse
+ 773 participant04 block20 trial078 selection0773        airmouse
+ 774 participant04 block20 trial078 selection0774        airmouse
+ 775 participant04 block20 trial078 selection0775        airmouse
+ 776 participant04 block20 trial078 selection0776        airmouse
+ 777 participant04 block20 trial078 selection0777        airmouse
+ 778 participant04 block20 trial078 selection0778        airmouse
+ 779 participant04 block20 trial078 selection0779        airmouse
+ 780 participant04 block20 trial078 selection0780        airmouse
+ 781 participant04 block20 trial079 selection0781 mouseringdouble
+ 782 participant04 block20 trial079 selection0782 mouseringdouble
+ 783 participant04 block20 trial079 selection0783 mouseringdouble
+ 784 participant04 block20 trial079 selection0784 mouseringdouble
+ 785 participant04 block20 trial079 selection0785 mouseringdouble
+ 786 participant04 block20 trial079 selection0786 mouseringdouble
+ 787 participant04 block20 trial079 selection0787 mouseringdouble
+ 788 participant04 block20 trial079 selection0788 mouseringdouble
+ 789 participant04 block20 trial079 selection0789 mouseringdouble
+ 790 participant04 block20 trial079 selection0790 mouseringdouble
+ 791 participant04 block20 trial080 selection0791        touchpad
+ 792 participant04 block20 trial080 selection0792        touchpad
+ 793 participant04 block20 trial080 selection0793        touchpad
+ 794 participant04 block20 trial080 selection0794        touchpad
+ 795 participant04 block20 trial080 selection0795        touchpad
+ 796 participant04 block20 trial080 selection0796        touchpad
+ 797 participant04 block20 trial080 selection0797        touchpad
+ 798 participant04 block20 trial080 selection0798        touchpad
+ 799 participant04 block20 trial080 selection0799        touchpad
+ 800 participant04 block20 trial080 selection0800        touchpad
+ 801 participant05 block21 trial081 selection0801        touchpad
+ 802 participant05 block21 trial081 selection0802        touchpad
+ 803 participant05 block21 trial081 selection0803        touchpad
+ 804 participant05 block21 trial081 selection0804        touchpad
+ 805 participant05 block21 trial081 selection0805        touchpad
+ 806 participant05 block21 trial081 selection0806        touchpad
+ 807 participant05 block21 trial081 selection0807        touchpad
+ 808 participant05 block21 trial081 selection0808        touchpad
+ 809 participant05 block21 trial081 selection0809        touchpad
+ 810 participant05 block21 trial081 selection0810        touchpad
+ 811 participant05 block21 trial082 selection0811 mouseringdouble
+ 812 participant05 block21 trial082 selection0812 mouseringdouble
+ 813 participant05 block21 trial082 selection0813 mouseringdouble
+ 814 participant05 block21 trial082 selection0814 mouseringdouble
+ 815 participant05 block21 trial082 selection0815 mouseringdouble
+ 816 participant05 block21 trial082 selection0816 mouseringdouble
+ 817 participant05 block21 trial082 selection0817 mouseringdouble
+ 818 participant05 block21 trial082 selection0818 mouseringdouble
+ 819 participant05 block21 trial082 selection0819 mouseringdouble
+ 820 participant05 block21 trial082 selection0820 mouseringdouble
+ 821 participant05 block21 trial083 selection0821 mouseringsingle
+ 822 participant05 block21 trial083 selection0822 mouseringsingle
+ 823 participant05 block21 trial083 selection0823 mouseringsingle
+ 824 participant05 block21 trial083 selection0824 mouseringsingle
+ 825 participant05 block21 trial083 selection0825 mouseringsingle
+ 826 participant05 block21 trial083 selection0826 mouseringsingle
+ 827 participant05 block21 trial083 selection0827 mouseringsingle
+ 828 participant05 block21 trial083 selection0828 mouseringsingle
+ 829 participant05 block21 trial083 selection0829 mouseringsingle
+ 830 participant05 block21 trial083 selection0830 mouseringsingle
+ 831 participant05 block21 trial084 selection0831        airmouse
+ 832 participant05 block21 trial084 selection0832        airmouse
+ 833 participant05 block21 trial084 selection0833        airmouse
+ 834 participant05 block21 trial084 selection0834        airmouse
+ 835 participant05 block21 trial084 selection0835        airmouse
+ 836 participant05 block21 trial084 selection0836        airmouse
+ 837 participant05 block21 trial084 selection0837        airmouse
+ 838 participant05 block21 trial084 selection0838        airmouse
+ 839 participant05 block21 trial084 selection0839        airmouse
+ 840 participant05 block21 trial084 selection0840        airmouse
+ 841 participant05 block22 trial085 selection0841        airmouse
+ 842 participant05 block22 trial085 selection0842        airmouse
+ 843 participant05 block22 trial085 selection0843        airmouse
+ 844 participant05 block22 trial085 selection0844        airmouse
+ 845 participant05 block22 trial085 selection0845        airmouse
+ 846 participant05 block22 trial085 selection0846        airmouse
+ 847 participant05 block22 trial085 selection0847        airmouse
+ 848 participant05 block22 trial085 selection0848        airmouse
+ 849 participant05 block22 trial085 selection0849        airmouse
+ 850 participant05 block22 trial085 selection0850        airmouse
+ 851 participant05 block22 trial086 selection0851 mouseringdouble
+ 852 participant05 block22 trial086 selection0852 mouseringdouble
+ 853 participant05 block22 trial086 selection0853 mouseringdouble
+ 854 participant05 block22 trial086 selection0854 mouseringdouble
+ 855 participant05 block22 trial086 selection0855 mouseringdouble
+ 856 participant05 block22 trial086 selection0856 mouseringdouble
+ 857 participant05 block22 trial086 selection0857 mouseringdouble
+ 858 participant05 block22 trial086 selection0858 mouseringdouble
+ 859 participant05 block22 trial086 selection0859 mouseringdouble
+ 860 participant05 block22 trial086 selection0860 mouseringdouble
+ 861 participant05 block22 trial087 selection0861        touchpad
+ 862 participant05 block22 trial087 selection0862        touchpad
+ 863 participant05 block22 trial087 selection0863        touchpad
+ 864 participant05 block22 trial087 selection0864        touchpad
+ 865 participant05 block22 trial087 selection0865        touchpad
+ 866 participant05 block22 trial087 selection0866        touchpad
+ 867 participant05 block22 trial087 selection0867        touchpad
+ 868 participant05 block22 trial087 selection0868        touchpad
+ 869 participant05 block22 trial087 selection0869        touchpad
+ 870 participant05 block22 trial087 selection0870        touchpad
+ 871 participant05 block22 trial088 selection0871 mouseringsingle
+ 872 participant05 block22 trial088 selection0872 mouseringsingle
+ 873 participant05 block22 trial088 selection0873 mouseringsingle
+ 874 participant05 block22 trial088 selection0874 mouseringsingle
+ 875 participant05 block22 trial088 selection0875 mouseringsingle
+ 876 participant05 block22 trial088 selection0876 mouseringsingle
+ 877 participant05 block22 trial088 selection0877 mouseringsingle
+ 878 participant05 block22 trial088 selection0878 mouseringsingle
+ 879 participant05 block22 trial088 selection0879 mouseringsingle
+ 880 participant05 block22 trial088 selection0880 mouseringsingle
+ 881 participant05 block23 trial089 selection0881 mouseringdouble
+ 882 participant05 block23 trial089 selection0882 mouseringdouble
+ 883 participant05 block23 trial089 selection0883 mouseringdouble
+ 884 participant05 block23 trial089 selection0884 mouseringdouble
+ 885 participant05 block23 trial089 selection0885 mouseringdouble
+ 886 participant05 block23 trial089 selection0886 mouseringdouble
+ 887 participant05 block23 trial089 selection0887 mouseringdouble
+ 888 participant05 block23 trial089 selection0888 mouseringdouble
+ 889 participant05 block23 trial089 selection0889 mouseringdouble
+ 890 participant05 block23 trial089 selection0890 mouseringdouble
+ 891 participant05 block23 trial090 selection0891 mouseringsingle
+ 892 participant05 block23 trial090 selection0892 mouseringsingle
+ 893 participant05 block23 trial090 selection0893 mouseringsingle
+ 894 participant05 block23 trial090 selection0894 mouseringsingle
+ 895 participant05 block23 trial090 selection0895 mouseringsingle
+ 896 participant05 block23 trial090 selection0896 mouseringsingle
+ 897 participant05 block23 trial090 selection0897 mouseringsingle
+ 898 participant05 block23 trial090 selection0898 mouseringsingle
+ 899 participant05 block23 trial090 selection0899 mouseringsingle
+ 900 participant05 block23 trial090 selection0900 mouseringsingle
+ 901 participant05 block23 trial091 selection0901        airmouse
+ 902 participant05 block23 trial091 selection0902        airmouse
+ 903 participant05 block23 trial091 selection0903        airmouse
+ 904 participant05 block23 trial091 selection0904        airmouse
+ 905 participant05 block23 trial091 selection0905        airmouse
+ 906 participant05 block23 trial091 selection0906        airmouse
+ 907 participant05 block23 trial091 selection0907        airmouse
+ 908 participant05 block23 trial091 selection0908        airmouse
+ 909 participant05 block23 trial091 selection0909        airmouse
+ 910 participant05 block23 trial091 selection0910        airmouse
+ 911 participant05 block23 trial092 selection0911        touchpad
+ 912 participant05 block23 trial092 selection0912        touchpad
+ 913 participant05 block23 trial092 selection0913        touchpad
+ 914 participant05 block23 trial092 selection0914        touchpad
+ 915 participant05 block23 trial092 selection0915        touchpad
+ 916 participant05 block23 trial092 selection0916        touchpad
+ 917 participant05 block23 trial092 selection0917        touchpad
+ 918 participant05 block23 trial092 selection0918        touchpad
+ 919 participant05 block23 trial092 selection0919        touchpad
+ 920 participant05 block23 trial092 selection0920        touchpad
+ 921 participant05 block24 trial093 selection0921        airmouse
+ 922 participant05 block24 trial093 selection0922        airmouse
+ 923 participant05 block24 trial093 selection0923        airmouse
+ 924 participant05 block24 trial093 selection0924        airmouse
+ 925 participant05 block24 trial093 selection0925        airmouse
+ 926 participant05 block24 trial093 selection0926        airmouse
+ 927 participant05 block24 trial093 selection0927        airmouse
+ 928 participant05 block24 trial093 selection0928        airmouse
+ 929 participant05 block24 trial093 selection0929        airmouse
+ 930 participant05 block24 trial093 selection0930        airmouse
+ 931 participant05 block24 trial094 selection0931 mouseringsingle
+ 932 participant05 block24 trial094 selection0932 mouseringsingle
+ 933 participant05 block24 trial094 selection0933 mouseringsingle
+ 934 participant05 block24 trial094 selection0934 mouseringsingle
+ 935 participant05 block24 trial094 selection0935 mouseringsingle
+ 936 participant05 block24 trial094 selection0936 mouseringsingle
+ 937 participant05 block24 trial094 selection0937 mouseringsingle
+ 938 participant05 block24 trial094 selection0938 mouseringsingle
+ 939 participant05 block24 trial094 selection0939 mouseringsingle
+ 940 participant05 block24 trial094 selection0940 mouseringsingle
+ 941 participant05 block24 trial095 selection0941 mouseringdouble
+ 942 participant05 block24 trial095 selection0942 mouseringdouble
+ 943 participant05 block24 trial095 selection0943 mouseringdouble
+ 944 participant05 block24 trial095 selection0944 mouseringdouble
+ 945 participant05 block24 trial095 selection0945 mouseringdouble
+ 946 participant05 block24 trial095 selection0946 mouseringdouble
+ 947 participant05 block24 trial095 selection0947 mouseringdouble
+ 948 participant05 block24 trial095 selection0948 mouseringdouble
+ 949 participant05 block24 trial095 selection0949 mouseringdouble
+ 950 participant05 block24 trial095 selection0950 mouseringdouble
+ 951 participant05 block24 trial096 selection0951        touchpad
+ 952 participant05 block24 trial096 selection0952        touchpad
+ 953 participant05 block24 trial096 selection0953        touchpad
+ 954 participant05 block24 trial096 selection0954        touchpad
+ 955 participant05 block24 trial096 selection0955        touchpad
+ 956 participant05 block24 trial096 selection0956        touchpad
+ 957 participant05 block24 trial096 selection0957        touchpad
+ 958 participant05 block24 trial096 selection0958        touchpad
+ 959 participant05 block24 trial096 selection0959        touchpad
+ 960 participant05 block24 trial096 selection0960        touchpad
+ 961 participant05 block25 trial097 selection0961 mouseringsingle
+ 962 participant05 block25 trial097 selection0962 mouseringsingle
+ 963 participant05 block25 trial097 selection0963 mouseringsingle
+ 964 participant05 block25 trial097 selection0964 mouseringsingle
+ 965 participant05 block25 trial097 selection0965 mouseringsingle
+ 966 participant05 block25 trial097 selection0966 mouseringsingle
+ 967 participant05 block25 trial097 selection0967 mouseringsingle
+ 968 participant05 block25 trial097 selection0968 mouseringsingle
+ 969 participant05 block25 trial097 selection0969 mouseringsingle
+ 970 participant05 block25 trial097 selection0970 mouseringsingle
+ 971 participant05 block25 trial098 selection0971 mouseringdouble
+ 972 participant05 block25 trial098 selection0972 mouseringdouble
+ 973 participant05 block25 trial098 selection0973 mouseringdouble
+ 974 participant05 block25 trial098 selection0974 mouseringdouble
+ 975 participant05 block25 trial098 selection0975 mouseringdouble
+ 976 participant05 block25 trial098 selection0976 mouseringdouble
+ 977 participant05 block25 trial098 selection0977 mouseringdouble
+ 978 participant05 block25 trial098 selection0978 mouseringdouble
+ 979 participant05 block25 trial098 selection0979 mouseringdouble
+ 980 participant05 block25 trial098 selection0980 mouseringdouble
+ 981 participant05 block25 trial099 selection0981        touchpad
+ 982 participant05 block25 trial099 selection0982        touchpad
+ 983 participant05 block25 trial099 selection0983        touchpad
+ 984 participant05 block25 trial099 selection0984        touchpad
+ 985 participant05 block25 trial099 selection0985        touchpad
+ 986 participant05 block25 trial099 selection0986        touchpad
+ 987 participant05 block25 trial099 selection0987        touchpad
+ 988 participant05 block25 trial099 selection0988        touchpad
+ 989 participant05 block25 trial099 selection0989        touchpad
+ 990 participant05 block25 trial099 selection0990        touchpad
+ 991 participant05 block25 trial100 selection0991        airmouse
+ 992 participant05 block25 trial100 selection0992        airmouse
+ 993 participant05 block25 trial100 selection0993        airmouse
+ 994 participant05 block25 trial100 selection0994        airmouse
+ 995 participant05 block25 trial100 selection0995        airmouse
+ 996 participant05 block25 trial100 selection0996        airmouse
+ 997 participant05 block25 trial100 selection0997        airmouse
+ 998 participant05 block25 trial100 selection0998        airmouse
+ 999 participant05 block25 trial100 selection0999        airmouse
+1000 participant05 block25 trial100 selection1000        airmouse
+1001 participant06 block26 trial101 selection1001 mouseringdouble
+1002 participant06 block26 trial101 selection1002 mouseringdouble
+1003 participant06 block26 trial101 selection1003 mouseringdouble
+1004 participant06 block26 trial101 selection1004 mouseringdouble
+1005 participant06 block26 trial101 selection1005 mouseringdouble
+1006 participant06 block26 trial101 selection1006 mouseringdouble
+1007 participant06 block26 trial101 selection1007 mouseringdouble
+1008 participant06 block26 trial101 selection1008 mouseringdouble
+1009 participant06 block26 trial101 selection1009 mouseringdouble
+1010 participant06 block26 trial101 selection1010 mouseringdouble
+1011 participant06 block26 trial102 selection1011 mouseringsingle
+1012 participant06 block26 trial102 selection1012 mouseringsingle
+1013 participant06 block26 trial102 selection1013 mouseringsingle
+1014 participant06 block26 trial102 selection1014 mouseringsingle
+1015 participant06 block26 trial102 selection1015 mouseringsingle
+1016 participant06 block26 trial102 selection1016 mouseringsingle
+1017 participant06 block26 trial102 selection1017 mouseringsingle
+1018 participant06 block26 trial102 selection1018 mouseringsingle
+1019 participant06 block26 trial102 selection1019 mouseringsingle
+1020 participant06 block26 trial102 selection1020 mouseringsingle
+1021 participant06 block26 trial103 selection1021        airmouse
+1022 participant06 block26 trial103 selection1022        airmouse
+1023 participant06 block26 trial103 selection1023        airmouse
+1024 participant06 block26 trial103 selection1024        airmouse
+1025 participant06 block26 trial103 selection1025        airmouse
+1026 participant06 block26 trial103 selection1026        airmouse
+1027 participant06 block26 trial103 selection1027        airmouse
+1028 participant06 block26 trial103 selection1028        airmouse
+1029 participant06 block26 trial103 selection1029        airmouse
+1030 participant06 block26 trial103 selection1030        airmouse
+1031 participant06 block26 trial104 selection1031        touchpad
+1032 participant06 block26 trial104 selection1032        touchpad
+1033 participant06 block26 trial104 selection1033        touchpad
+1034 participant06 block26 trial104 selection1034        touchpad
+1035 participant06 block26 trial104 selection1035        touchpad
+1036 participant06 block26 trial104 selection1036        touchpad
+1037 participant06 block26 trial104 selection1037        touchpad
+1038 participant06 block26 trial104 selection1038        touchpad
+1039 participant06 block26 trial104 selection1039        touchpad
+1040 participant06 block26 trial104 selection1040        touchpad
+1041 participant06 block27 trial105 selection1041 mouseringdouble
+1042 participant06 block27 trial105 selection1042 mouseringdouble
+1043 participant06 block27 trial105 selection1043 mouseringdouble
+1044 participant06 block27 trial105 selection1044 mouseringdouble
+1045 participant06 block27 trial105 selection1045 mouseringdouble
+1046 participant06 block27 trial105 selection1046 mouseringdouble
+1047 participant06 block27 trial105 selection1047 mouseringdouble
+1048 participant06 block27 trial105 selection1048 mouseringdouble
+1049 participant06 block27 trial105 selection1049 mouseringdouble
+1050 participant06 block27 trial105 selection1050 mouseringdouble
+1051 participant06 block27 trial106 selection1051 mouseringsingle
+1052 participant06 block27 trial106 selection1052 mouseringsingle
+1053 participant06 block27 trial106 selection1053 mouseringsingle
+1054 participant06 block27 trial106 selection1054 mouseringsingle
+1055 participant06 block27 trial106 selection1055 mouseringsingle
+1056 participant06 block27 trial106 selection1056 mouseringsingle
+1057 participant06 block27 trial106 selection1057 mouseringsingle
+1058 participant06 block27 trial106 selection1058 mouseringsingle
+1059 participant06 block27 trial106 selection1059 mouseringsingle
+1060 participant06 block27 trial106 selection1060 mouseringsingle
+1061 participant06 block27 trial107 selection1061        touchpad
+1062 participant06 block27 trial107 selection1062        touchpad
+1063 participant06 block27 trial107 selection1063        touchpad
+1064 participant06 block27 trial107 selection1064        touchpad
+1065 participant06 block27 trial107 selection1065        touchpad
+1066 participant06 block27 trial107 selection1066        touchpad
+1067 participant06 block27 trial107 selection1067        touchpad
+1068 participant06 block27 trial107 selection1068        touchpad
+1069 participant06 block27 trial107 selection1069        touchpad
+1070 participant06 block27 trial107 selection1070        touchpad
+1071 participant06 block27 trial108 selection1071        airmouse
+1072 participant06 block27 trial108 selection1072        airmouse
+1073 participant06 block27 trial108 selection1073        airmouse
+1074 participant06 block27 trial108 selection1074        airmouse
+1075 participant06 block27 trial108 selection1075        airmouse
+1076 participant06 block27 trial108 selection1076        airmouse
+1077 participant06 block27 trial108 selection1077        airmouse
+1078 participant06 block27 trial108 selection1078        airmouse
+1079 participant06 block27 trial108 selection1079        airmouse
+1080 participant06 block27 trial108 selection1080        airmouse
+1081 participant06 block28 trial109 selection1081        touchpad
+1082 participant06 block28 trial109 selection1082        touchpad
+1083 participant06 block28 trial109 selection1083        touchpad
+1084 participant06 block28 trial109 selection1084        touchpad
+1085 participant06 block28 trial109 selection1085        touchpad
+1086 participant06 block28 trial109 selection1086        touchpad
+1087 participant06 block28 trial109 selection1087        touchpad
+1088 participant06 block28 trial109 selection1088        touchpad
+1089 participant06 block28 trial109 selection1089        touchpad
+1090 participant06 block28 trial109 selection1090        touchpad
+1091 participant06 block28 trial110 selection1091        airmouse
+1092 participant06 block28 trial110 selection1092        airmouse
+1093 participant06 block28 trial110 selection1093        airmouse
+1094 participant06 block28 trial110 selection1094        airmouse
+1095 participant06 block28 trial110 selection1095        airmouse
+1096 participant06 block28 trial110 selection1096        airmouse
+1097 participant06 block28 trial110 selection1097        airmouse
+1098 participant06 block28 trial110 selection1098        airmouse
+1099 participant06 block28 trial110 selection1099        airmouse
+1100 participant06 block28 trial110 selection1100        airmouse
+1101 participant06 block28 trial111 selection1101 mouseringdouble
+1102 participant06 block28 trial111 selection1102 mouseringdouble
+1103 participant06 block28 trial111 selection1103 mouseringdouble
+1104 participant06 block28 trial111 selection1104 mouseringdouble
+1105 participant06 block28 trial111 selection1105 mouseringdouble
+1106 participant06 block28 trial111 selection1106 mouseringdouble
+1107 participant06 block28 trial111 selection1107 mouseringdouble
+1108 participant06 block28 trial111 selection1108 mouseringdouble
+1109 participant06 block28 trial111 selection1109 mouseringdouble
+1110 participant06 block28 trial111 selection1110 mouseringdouble
+1111 participant06 block28 trial112 selection1111 mouseringsingle
+1112 participant06 block28 trial112 selection1112 mouseringsingle
+1113 participant06 block28 trial112 selection1113 mouseringsingle
+1114 participant06 block28 trial112 selection1114 mouseringsingle
+1115 participant06 block28 trial112 selection1115 mouseringsingle
+1116 participant06 block28 trial112 selection1116 mouseringsingle
+1117 participant06 block28 trial112 selection1117 mouseringsingle
+1118 participant06 block28 trial112 selection1118 mouseringsingle
+1119 participant06 block28 trial112 selection1119 mouseringsingle
+1120 participant06 block28 trial112 selection1120 mouseringsingle
+1121 participant06 block29 trial113 selection1121        touchpad
+1122 participant06 block29 trial113 selection1122        touchpad
+1123 participant06 block29 trial113 selection1123        touchpad
+1124 participant06 block29 trial113 selection1124        touchpad
+1125 participant06 block29 trial113 selection1125        touchpad
+1126 participant06 block29 trial113 selection1126        touchpad
+1127 participant06 block29 trial113 selection1127        touchpad
+1128 participant06 block29 trial113 selection1128        touchpad
+1129 participant06 block29 trial113 selection1129        touchpad
+1130 participant06 block29 trial113 selection1130        touchpad
+1131 participant06 block29 trial114 selection1131 mouseringdouble
+1132 participant06 block29 trial114 selection1132 mouseringdouble
+1133 participant06 block29 trial114 selection1133 mouseringdouble
+1134 participant06 block29 trial114 selection1134 mouseringdouble
+1135 participant06 block29 trial114 selection1135 mouseringdouble
+1136 participant06 block29 trial114 selection1136 mouseringdouble
+1137 participant06 block29 trial114 selection1137 mouseringdouble
+1138 participant06 block29 trial114 selection1138 mouseringdouble
+1139 participant06 block29 trial114 selection1139 mouseringdouble
+1140 participant06 block29 trial114 selection1140 mouseringdouble
+1141 participant06 block29 trial115 selection1141 mouseringsingle
+1142 participant06 block29 trial115 selection1142 mouseringsingle
+1143 participant06 block29 trial115 selection1143 mouseringsingle
+1144 participant06 block29 trial115 selection1144 mouseringsingle
+1145 participant06 block29 trial115 selection1145 mouseringsingle
+1146 participant06 block29 trial115 selection1146 mouseringsingle
+1147 participant06 block29 trial115 selection1147 mouseringsingle
+1148 participant06 block29 trial115 selection1148 mouseringsingle
+1149 participant06 block29 trial115 selection1149 mouseringsingle
+1150 participant06 block29 trial115 selection1150 mouseringsingle
+1151 participant06 block29 trial116 selection1151        airmouse
+1152 participant06 block29 trial116 selection1152        airmouse
+1153 participant06 block29 trial116 selection1153        airmouse
+1154 participant06 block29 trial116 selection1154        airmouse
+1155 participant06 block29 trial116 selection1155        airmouse
+1156 participant06 block29 trial116 selection1156        airmouse
+1157 participant06 block29 trial116 selection1157        airmouse
+1158 participant06 block29 trial116 selection1158        airmouse
+1159 participant06 block29 trial116 selection1159        airmouse
+1160 participant06 block29 trial116 selection1160        airmouse
+1161 participant06 block30 trial117 selection1161        airmouse
+1162 participant06 block30 trial117 selection1162        airmouse
+1163 participant06 block30 trial117 selection1163        airmouse
+1164 participant06 block30 trial117 selection1164        airmouse
+1165 participant06 block30 trial117 selection1165        airmouse
+1166 participant06 block30 trial117 selection1166        airmouse
+1167 participant06 block30 trial117 selection1167        airmouse
+1168 participant06 block30 trial117 selection1168        airmouse
+1169 participant06 block30 trial117 selection1169        airmouse
+1170 participant06 block30 trial117 selection1170        airmouse
+1171 participant06 block30 trial118 selection1171 mouseringdouble
+1172 participant06 block30 trial118 selection1172 mouseringdouble
+1173 participant06 block30 trial118 selection1173 mouseringdouble
+1174 participant06 block30 trial118 selection1174 mouseringdouble
+1175 participant06 block30 trial118 selection1175 mouseringdouble
+1176 participant06 block30 trial118 selection1176 mouseringdouble
+1177 participant06 block30 trial118 selection1177 mouseringdouble
+1178 participant06 block30 trial118 selection1178 mouseringdouble
+1179 participant06 block30 trial118 selection1179 mouseringdouble
+1180 participant06 block30 trial118 selection1180 mouseringdouble
+1181 participant06 block30 trial119 selection1181 mouseringsingle
+1182 participant06 block30 trial119 selection1182 mouseringsingle
+1183 participant06 block30 trial119 selection1183 mouseringsingle
+1184 participant06 block30 trial119 selection1184 mouseringsingle
+1185 participant06 block30 trial119 selection1185 mouseringsingle
+1186 participant06 block30 trial119 selection1186 mouseringsingle
+1187 participant06 block30 trial119 selection1187 mouseringsingle
+1188 participant06 block30 trial119 selection1188 mouseringsingle
+1189 participant06 block30 trial119 selection1189 mouseringsingle
+1190 participant06 block30 trial119 selection1190 mouseringsingle
+1191 participant06 block30 trial120 selection1191        touchpad
+1192 participant06 block30 trial120 selection1192        touchpad
+1193 participant06 block30 trial120 selection1193        touchpad
+1194 participant06 block30 trial120 selection1194        touchpad
+1195 participant06 block30 trial120 selection1195        touchpad
+1196 participant06 block30 trial120 selection1196        touchpad
+1197 participant06 block30 trial120 selection1197        touchpad
+1198 participant06 block30 trial120 selection1198        touchpad
+1199 participant06 block30 trial120 selection1199        touchpad
+1200 participant06 block30 trial120 selection1200        touchpad
+1201 participant07 block31 trial121 selection1201 mouseringdouble
+1202 participant07 block31 trial121 selection1202 mouseringdouble
+1203 participant07 block31 trial121 selection1203 mouseringdouble
+1204 participant07 block31 trial121 selection1204 mouseringdouble
+1205 participant07 block31 trial121 selection1205 mouseringdouble
+1206 participant07 block31 trial121 selection1206 mouseringdouble
+1207 participant07 block31 trial121 selection1207 mouseringdouble
+1208 participant07 block31 trial121 selection1208 mouseringdouble
+1209 participant07 block31 trial121 selection1209 mouseringdouble
+1210 participant07 block31 trial121 selection1210 mouseringdouble
+1211 participant07 block31 trial122 selection1211        airmouse
+1212 participant07 block31 trial122 selection1212        airmouse
+1213 participant07 block31 trial122 selection1213        airmouse
+1214 participant07 block31 trial122 selection1214        airmouse
+1215 participant07 block31 trial122 selection1215        airmouse
+1216 participant07 block31 trial122 selection1216        airmouse
+1217 participant07 block31 trial122 selection1217        airmouse
+1218 participant07 block31 trial122 selection1218        airmouse
+1219 participant07 block31 trial122 selection1219        airmouse
+1220 participant07 block31 trial122 selection1220        airmouse
+1221 participant07 block31 trial123 selection1221        touchpad
+1222 participant07 block31 trial123 selection1222        touchpad
+1223 participant07 block31 trial123 selection1223        touchpad
+1224 participant07 block31 trial123 selection1224        touchpad
+1225 participant07 block31 trial123 selection1225        touchpad
+1226 participant07 block31 trial123 selection1226        touchpad
+1227 participant07 block31 trial123 selection1227        touchpad
+1228 participant07 block31 trial123 selection1228        touchpad
+1229 participant07 block31 trial123 selection1229        touchpad
+1230 participant07 block31 trial123 selection1230        touchpad
+1231 participant07 block31 trial124 selection1231 mouseringsingle
+1232 participant07 block31 trial124 selection1232 mouseringsingle
+1233 participant07 block31 trial124 selection1233 mouseringsingle
+1234 participant07 block31 trial124 selection1234 mouseringsingle
+1235 participant07 block31 trial124 selection1235 mouseringsingle
+1236 participant07 block31 trial124 selection1236 mouseringsingle
+1237 participant07 block31 trial124 selection1237 mouseringsingle
+1238 participant07 block31 trial124 selection1238 mouseringsingle
+1239 participant07 block31 trial124 selection1239 mouseringsingle
+1240 participant07 block31 trial124 selection1240 mouseringsingle
+1241 participant07 block32 trial125 selection1241        touchpad
+1242 participant07 block32 trial125 selection1242        touchpad
+1243 participant07 block32 trial125 selection1243        touchpad
+1244 participant07 block32 trial125 selection1244        touchpad
+1245 participant07 block32 trial125 selection1245        touchpad
+1246 participant07 block32 trial125 selection1246        touchpad
+1247 participant07 block32 trial125 selection1247        touchpad
+1248 participant07 block32 trial125 selection1248        touchpad
+1249 participant07 block32 trial125 selection1249        touchpad
+1250 participant07 block32 trial125 selection1250        touchpad
+1251 participant07 block32 trial126 selection1251        airmouse
+1252 participant07 block32 trial126 selection1252        airmouse
+1253 participant07 block32 trial126 selection1253        airmouse
+1254 participant07 block32 trial126 selection1254        airmouse
+1255 participant07 block32 trial126 selection1255        airmouse
+1256 participant07 block32 trial126 selection1256        airmouse
+1257 participant07 block32 trial126 selection1257        airmouse
+1258 participant07 block32 trial126 selection1258        airmouse
+1259 participant07 block32 trial126 selection1259        airmouse
+1260 participant07 block32 trial126 selection1260        airmouse
+1261 participant07 block32 trial127 selection1261 mouseringsingle
+1262 participant07 block32 trial127 selection1262 mouseringsingle
+1263 participant07 block32 trial127 selection1263 mouseringsingle
+1264 participant07 block32 trial127 selection1264 mouseringsingle
+1265 participant07 block32 trial127 selection1265 mouseringsingle
+1266 participant07 block32 trial127 selection1266 mouseringsingle
+1267 participant07 block32 trial127 selection1267 mouseringsingle
+1268 participant07 block32 trial127 selection1268 mouseringsingle
+1269 participant07 block32 trial127 selection1269 mouseringsingle
+1270 participant07 block32 trial127 selection1270 mouseringsingle
+1271 participant07 block32 trial128 selection1271 mouseringdouble
+1272 participant07 block32 trial128 selection1272 mouseringdouble
+1273 participant07 block32 trial128 selection1273 mouseringdouble
+1274 participant07 block32 trial128 selection1274 mouseringdouble
+1275 participant07 block32 trial128 selection1275 mouseringdouble
+1276 participant07 block32 trial128 selection1276 mouseringdouble
+1277 participant07 block32 trial128 selection1277 mouseringdouble
+1278 participant07 block32 trial128 selection1278 mouseringdouble
+1279 participant07 block32 trial128 selection1279 mouseringdouble
+1280 participant07 block32 trial128 selection1280 mouseringdouble
+1281 participant07 block33 trial129 selection1281 mouseringdouble
+1282 participant07 block33 trial129 selection1282 mouseringdouble
+1283 participant07 block33 trial129 selection1283 mouseringdouble
+1284 participant07 block33 trial129 selection1284 mouseringdouble
+1285 participant07 block33 trial129 selection1285 mouseringdouble
+1286 participant07 block33 trial129 selection1286 mouseringdouble
+1287 participant07 block33 trial129 selection1287 mouseringdouble
+1288 participant07 block33 trial129 selection1288 mouseringdouble
+1289 participant07 block33 trial129 selection1289 mouseringdouble
+1290 participant07 block33 trial129 selection1290 mouseringdouble
+1291 participant07 block33 trial130 selection1291        airmouse
+1292 participant07 block33 trial130 selection1292        airmouse
+1293 participant07 block33 trial130 selection1293        airmouse
+1294 participant07 block33 trial130 selection1294        airmouse
+1295 participant07 block33 trial130 selection1295        airmouse
+1296 participant07 block33 trial130 selection1296        airmouse
+1297 participant07 block33 trial130 selection1297        airmouse
+1298 participant07 block33 trial130 selection1298        airmouse
+1299 participant07 block33 trial130 selection1299        airmouse
+1300 participant07 block33 trial130 selection1300        airmouse
+1301 participant07 block33 trial131 selection1301 mouseringsingle
+1302 participant07 block33 trial131 selection1302 mouseringsingle
+1303 participant07 block33 trial131 selection1303 mouseringsingle
+1304 participant07 block33 trial131 selection1304 mouseringsingle
+1305 participant07 block33 trial131 selection1305 mouseringsingle
+1306 participant07 block33 trial131 selection1306 mouseringsingle
+1307 participant07 block33 trial131 selection1307 mouseringsingle
+1308 participant07 block33 trial131 selection1308 mouseringsingle
+1309 participant07 block33 trial131 selection1309 mouseringsingle
+1310 participant07 block33 trial131 selection1310 mouseringsingle
+1311 participant07 block33 trial132 selection1311        touchpad
+1312 participant07 block33 trial132 selection1312        touchpad
+1313 participant07 block33 trial132 selection1313        touchpad
+1314 participant07 block33 trial132 selection1314        touchpad
+1315 participant07 block33 trial132 selection1315        touchpad
+1316 participant07 block33 trial132 selection1316        touchpad
+1317 participant07 block33 trial132 selection1317        touchpad
+1318 participant07 block33 trial132 selection1318        touchpad
+1319 participant07 block33 trial132 selection1319        touchpad
+1320 participant07 block33 trial132 selection1320        touchpad
+1321 participant07 block34 trial133 selection1321        airmouse
+1322 participant07 block34 trial133 selection1322        airmouse
+1323 participant07 block34 trial133 selection1323        airmouse
+1324 participant07 block34 trial133 selection1324        airmouse
+1325 participant07 block34 trial133 selection1325        airmouse
+1326 participant07 block34 trial133 selection1326        airmouse
+1327 participant07 block34 trial133 selection1327        airmouse
+1328 participant07 block34 trial133 selection1328        airmouse
+1329 participant07 block34 trial133 selection1329        airmouse
+1330 participant07 block34 trial133 selection1330        airmouse
+1331 participant07 block34 trial134 selection1331 mouseringsingle
+1332 participant07 block34 trial134 selection1332 mouseringsingle
+1333 participant07 block34 trial134 selection1333 mouseringsingle
+1334 participant07 block34 trial134 selection1334 mouseringsingle
+1335 participant07 block34 trial134 selection1335 mouseringsingle
+1336 participant07 block34 trial134 selection1336 mouseringsingle
+1337 participant07 block34 trial134 selection1337 mouseringsingle
+1338 participant07 block34 trial134 selection1338 mouseringsingle
+1339 participant07 block34 trial134 selection1339 mouseringsingle
+1340 participant07 block34 trial134 selection1340 mouseringsingle
+1341 participant07 block34 trial135 selection1341 mouseringdouble
+1342 participant07 block34 trial135 selection1342 mouseringdouble
+1343 participant07 block34 trial135 selection1343 mouseringdouble
+1344 participant07 block34 trial135 selection1344 mouseringdouble
+1345 participant07 block34 trial135 selection1345 mouseringdouble
+1346 participant07 block34 trial135 selection1346 mouseringdouble
+1347 participant07 block34 trial135 selection1347 mouseringdouble
+1348 participant07 block34 trial135 selection1348 mouseringdouble
+1349 participant07 block34 trial135 selection1349 mouseringdouble
+1350 participant07 block34 trial135 selection1350 mouseringdouble
+1351 participant07 block34 trial136 selection1351        touchpad
+1352 participant07 block34 trial136 selection1352        touchpad
+1353 participant07 block34 trial136 selection1353        touchpad
+1354 participant07 block34 trial136 selection1354        touchpad
+1355 participant07 block34 trial136 selection1355        touchpad
+1356 participant07 block34 trial136 selection1356        touchpad
+1357 participant07 block34 trial136 selection1357        touchpad
+1358 participant07 block34 trial136 selection1358        touchpad
+1359 participant07 block34 trial136 selection1359        touchpad
+1360 participant07 block34 trial136 selection1360        touchpad
+1361 participant07 block35 trial137 selection1361 mouseringsingle
+1362 participant07 block35 trial137 selection1362 mouseringsingle
+1363 participant07 block35 trial137 selection1363 mouseringsingle
+1364 participant07 block35 trial137 selection1364 mouseringsingle
+1365 participant07 block35 trial137 selection1365 mouseringsingle
+1366 participant07 block35 trial137 selection1366 mouseringsingle
+1367 participant07 block35 trial137 selection1367 mouseringsingle
+1368 participant07 block35 trial137 selection1368 mouseringsingle
+1369 participant07 block35 trial137 selection1369 mouseringsingle
+1370 participant07 block35 trial137 selection1370 mouseringsingle
+1371 participant07 block35 trial138 selection1371 mouseringdouble
+1372 participant07 block35 trial138 selection1372 mouseringdouble
+1373 participant07 block35 trial138 selection1373 mouseringdouble
+1374 participant07 block35 trial138 selection1374 mouseringdouble
+1375 participant07 block35 trial138 selection1375 mouseringdouble
+1376 participant07 block35 trial138 selection1376 mouseringdouble
+1377 participant07 block35 trial138 selection1377 mouseringdouble
+1378 participant07 block35 trial138 selection1378 mouseringdouble
+1379 participant07 block35 trial138 selection1379 mouseringdouble
+1380 participant07 block35 trial138 selection1380 mouseringdouble
+1381 participant07 block35 trial139 selection1381        airmouse
+1382 participant07 block35 trial139 selection1382        airmouse
+1383 participant07 block35 trial139 selection1383        airmouse
+1384 participant07 block35 trial139 selection1384        airmouse
+1385 participant07 block35 trial139 selection1385        airmouse
+1386 participant07 block35 trial139 selection1386        airmouse
+1387 participant07 block35 trial139 selection1387        airmouse
+1388 participant07 block35 trial139 selection1388        airmouse
+1389 participant07 block35 trial139 selection1389        airmouse
+1390 participant07 block35 trial139 selection1390        airmouse
+1391 participant07 block35 trial140 selection1391        touchpad
+1392 participant07 block35 trial140 selection1392        touchpad
+1393 participant07 block35 trial140 selection1393        touchpad
+1394 participant07 block35 trial140 selection1394        touchpad
+1395 participant07 block35 trial140 selection1395        touchpad
+1396 participant07 block35 trial140 selection1396        touchpad
+1397 participant07 block35 trial140 selection1397        touchpad
+1398 participant07 block35 trial140 selection1398        touchpad
+1399 participant07 block35 trial140 selection1399        touchpad
+1400 participant07 block35 trial140 selection1400        touchpad
+1401 participant08 block36 trial141 selection1401        touchpad
+1402 participant08 block36 trial141 selection1402        touchpad
+1403 participant08 block36 trial141 selection1403        touchpad
+1404 participant08 block36 trial141 selection1404        touchpad
+1405 participant08 block36 trial141 selection1405        touchpad
+1406 participant08 block36 trial141 selection1406        touchpad
+1407 participant08 block36 trial141 selection1407        touchpad
+1408 participant08 block36 trial141 selection1408        touchpad
+1409 participant08 block36 trial141 selection1409        touchpad
+1410 participant08 block36 trial141 selection1410        touchpad
+1411 participant08 block36 trial142 selection1411 mouseringdouble
+1412 participant08 block36 trial142 selection1412 mouseringdouble
+1413 participant08 block36 trial142 selection1413 mouseringdouble
+1414 participant08 block36 trial142 selection1414 mouseringdouble
+1415 participant08 block36 trial142 selection1415 mouseringdouble
+1416 participant08 block36 trial142 selection1416 mouseringdouble
+1417 participant08 block36 trial142 selection1417 mouseringdouble
+1418 participant08 block36 trial142 selection1418 mouseringdouble
+1419 participant08 block36 trial142 selection1419 mouseringdouble
+1420 participant08 block36 trial142 selection1420 mouseringdouble
+1421 participant08 block36 trial143 selection1421 mouseringsingle
+1422 participant08 block36 trial143 selection1422 mouseringsingle
+1423 participant08 block36 trial143 selection1423 mouseringsingle
+1424 participant08 block36 trial143 selection1424 mouseringsingle
+1425 participant08 block36 trial143 selection1425 mouseringsingle
+1426 participant08 block36 trial143 selection1426 mouseringsingle
+1427 participant08 block36 trial143 selection1427 mouseringsingle
+1428 participant08 block36 trial143 selection1428 mouseringsingle
+1429 participant08 block36 trial143 selection1429 mouseringsingle
+1430 participant08 block36 trial143 selection1430 mouseringsingle
+1431 participant08 block36 trial144 selection1431        airmouse
+1432 participant08 block36 trial144 selection1432        airmouse
+1433 participant08 block36 trial144 selection1433        airmouse
+1434 participant08 block36 trial144 selection1434        airmouse
+1435 participant08 block36 trial144 selection1435        airmouse
+1436 participant08 block36 trial144 selection1436        airmouse
+1437 participant08 block36 trial144 selection1437        airmouse
+1438 participant08 block36 trial144 selection1438        airmouse
+1439 participant08 block36 trial144 selection1439        airmouse
+1440 participant08 block36 trial144 selection1440        airmouse
+1441 participant08 block37 trial145 selection1441        airmouse
+1442 participant08 block37 trial145 selection1442        airmouse
+1443 participant08 block37 trial145 selection1443        airmouse
+1444 participant08 block37 trial145 selection1444        airmouse
+1445 participant08 block37 trial145 selection1445        airmouse
+1446 participant08 block37 trial145 selection1446        airmouse
+1447 participant08 block37 trial145 selection1447        airmouse
+1448 participant08 block37 trial145 selection1448        airmouse
+1449 participant08 block37 trial145 selection1449        airmouse
+1450 participant08 block37 trial145 selection1450        airmouse
+1451 participant08 block37 trial146 selection1451        touchpad
+1452 participant08 block37 trial146 selection1452        touchpad
+1453 participant08 block37 trial146 selection1453        touchpad
+1454 participant08 block37 trial146 selection1454        touchpad
+1455 participant08 block37 trial146 selection1455        touchpad
+1456 participant08 block37 trial146 selection1456        touchpad
+1457 participant08 block37 trial146 selection1457        touchpad
+1458 participant08 block37 trial146 selection1458        touchpad
+1459 participant08 block37 trial146 selection1459        touchpad
+1460 participant08 block37 trial146 selection1460        touchpad
+1461 participant08 block37 trial147 selection1461 mouseringsingle
+1462 participant08 block37 trial147 selection1462 mouseringsingle
+1463 participant08 block37 trial147 selection1463 mouseringsingle
+1464 participant08 block37 trial147 selection1464 mouseringsingle
+1465 participant08 block37 trial147 selection1465 mouseringsingle
+1466 participant08 block37 trial147 selection1466 mouseringsingle
+1467 participant08 block37 trial147 selection1467 mouseringsingle
+1468 participant08 block37 trial147 selection1468 mouseringsingle
+1469 participant08 block37 trial147 selection1469 mouseringsingle
+1470 participant08 block37 trial147 selection1470 mouseringsingle
+1471 participant08 block37 trial148 selection1471 mouseringdouble
+1472 participant08 block37 trial148 selection1472 mouseringdouble
+1473 participant08 block37 trial148 selection1473 mouseringdouble
+1474 participant08 block37 trial148 selection1474 mouseringdouble
+1475 participant08 block37 trial148 selection1475 mouseringdouble
+1476 participant08 block37 trial148 selection1476 mouseringdouble
+1477 participant08 block37 trial148 selection1477 mouseringdouble
+1478 participant08 block37 trial148 selection1478 mouseringdouble
+1479 participant08 block37 trial148 selection1479 mouseringdouble
+1480 participant08 block37 trial148 selection1480 mouseringdouble
+1481 participant08 block38 trial149 selection1481        airmouse
+1482 participant08 block38 trial149 selection1482        airmouse
+1483 participant08 block38 trial149 selection1483        airmouse
+1484 participant08 block38 trial149 selection1484        airmouse
+1485 participant08 block38 trial149 selection1485        airmouse
+1486 participant08 block38 trial149 selection1486        airmouse
+1487 participant08 block38 trial149 selection1487        airmouse
+1488 participant08 block38 trial149 selection1488        airmouse
+1489 participant08 block38 trial149 selection1489        airmouse
+1490 participant08 block38 trial149 selection1490        airmouse
+1491 participant08 block38 trial150 selection1491        touchpad
+1492 participant08 block38 trial150 selection1492        touchpad
+1493 participant08 block38 trial150 selection1493        touchpad
+1494 participant08 block38 trial150 selection1494        touchpad
+1495 participant08 block38 trial150 selection1495        touchpad
+1496 participant08 block38 trial150 selection1496        touchpad
+1497 participant08 block38 trial150 selection1497        touchpad
+1498 participant08 block38 trial150 selection1498        touchpad
+1499 participant08 block38 trial150 selection1499        touchpad
+1500 participant08 block38 trial150 selection1500        touchpad
+1501 participant08 block38 trial151 selection1501 mouseringdouble
+1502 participant08 block38 trial151 selection1502 mouseringdouble
+1503 participant08 block38 trial151 selection1503 mouseringdouble
+1504 participant08 block38 trial151 selection1504 mouseringdouble
+1505 participant08 block38 trial151 selection1505 mouseringdouble
+1506 participant08 block38 trial151 selection1506 mouseringdouble
+1507 participant08 block38 trial151 selection1507 mouseringdouble
+1508 participant08 block38 trial151 selection1508 mouseringdouble
+1509 participant08 block38 trial151 selection1509 mouseringdouble
+1510 participant08 block38 trial151 selection1510 mouseringdouble
+1511 participant08 block38 trial152 selection1511 mouseringsingle
+1512 participant08 block38 trial152 selection1512 mouseringsingle
+1513 participant08 block38 trial152 selection1513 mouseringsingle
+1514 participant08 block38 trial152 selection1514 mouseringsingle
+1515 participant08 block38 trial152 selection1515 mouseringsingle
+1516 participant08 block38 trial152 selection1516 mouseringsingle
+1517 participant08 block38 trial152 selection1517 mouseringsingle
+1518 participant08 block38 trial152 selection1518 mouseringsingle
+1519 participant08 block38 trial152 selection1519 mouseringsingle
+1520 participant08 block38 trial152 selection1520 mouseringsingle
+1521 participant08 block39 trial153 selection1521 mouseringsingle
+1522 participant08 block39 trial153 selection1522 mouseringsingle
+1523 participant08 block39 trial153 selection1523 mouseringsingle
+1524 participant08 block39 trial153 selection1524 mouseringsingle
+1525 participant08 block39 trial153 selection1525 mouseringsingle
+1526 participant08 block39 trial153 selection1526 mouseringsingle
+1527 participant08 block39 trial153 selection1527 mouseringsingle
+1528 participant08 block39 trial153 selection1528 mouseringsingle
+1529 participant08 block39 trial153 selection1529 mouseringsingle
+1530 participant08 block39 trial153 selection1530 mouseringsingle
+1531 participant08 block39 trial154 selection1531        touchpad
+1532 participant08 block39 trial154 selection1532        touchpad
+1533 participant08 block39 trial154 selection1533        touchpad
+1534 participant08 block39 trial154 selection1534        touchpad
+1535 participant08 block39 trial154 selection1535        touchpad
+1536 participant08 block39 trial154 selection1536        touchpad
+1537 participant08 block39 trial154 selection1537        touchpad
+1538 participant08 block39 trial154 selection1538        touchpad
+1539 participant08 block39 trial154 selection1539        touchpad
+1540 participant08 block39 trial154 selection1540        touchpad
+1541 participant08 block39 trial155 selection1541 mouseringdouble
+1542 participant08 block39 trial155 selection1542 mouseringdouble
+1543 participant08 block39 trial155 selection1543 mouseringdouble
+1544 participant08 block39 trial155 selection1544 mouseringdouble
+1545 participant08 block39 trial155 selection1545 mouseringdouble
+1546 participant08 block39 trial155 selection1546 mouseringdouble
+1547 participant08 block39 trial155 selection1547 mouseringdouble
+1548 participant08 block39 trial155 selection1548 mouseringdouble
+1549 participant08 block39 trial155 selection1549 mouseringdouble
+1550 participant08 block39 trial155 selection1550 mouseringdouble
+1551 participant08 block39 trial156 selection1551        airmouse
+1552 participant08 block39 trial156 selection1552        airmouse
+1553 participant08 block39 trial156 selection1553        airmouse
+1554 participant08 block39 trial156 selection1554        airmouse
+1555 participant08 block39 trial156 selection1555        airmouse
+1556 participant08 block39 trial156 selection1556        airmouse
+1557 participant08 block39 trial156 selection1557        airmouse
+1558 participant08 block39 trial156 selection1558        airmouse
+1559 participant08 block39 trial156 selection1559        airmouse
+1560 participant08 block39 trial156 selection1560        airmouse
+1561 participant08 block40 trial157 selection1561        airmouse
+1562 participant08 block40 trial157 selection1562        airmouse
+1563 participant08 block40 trial157 selection1563        airmouse
+1564 participant08 block40 trial157 selection1564        airmouse
+1565 participant08 block40 trial157 selection1565        airmouse
+1566 participant08 block40 trial157 selection1566        airmouse
+1567 participant08 block40 trial157 selection1567        airmouse
+1568 participant08 block40 trial157 selection1568        airmouse
+1569 participant08 block40 trial157 selection1569        airmouse
+1570 participant08 block40 trial157 selection1570        airmouse
+1571 participant08 block40 trial158 selection1571 mouseringsingle
+1572 participant08 block40 trial158 selection1572 mouseringsingle
+1573 participant08 block40 trial158 selection1573 mouseringsingle
+1574 participant08 block40 trial158 selection1574 mouseringsingle
+1575 participant08 block40 trial158 selection1575 mouseringsingle
+1576 participant08 block40 trial158 selection1576 mouseringsingle
+1577 participant08 block40 trial158 selection1577 mouseringsingle
+1578 participant08 block40 trial158 selection1578 mouseringsingle
+1579 participant08 block40 trial158 selection1579 mouseringsingle
+1580 participant08 block40 trial158 selection1580 mouseringsingle
+1581 participant08 block40 trial159 selection1581        touchpad
+1582 participant08 block40 trial159 selection1582        touchpad
+1583 participant08 block40 trial159 selection1583        touchpad
+1584 participant08 block40 trial159 selection1584        touchpad
+1585 participant08 block40 trial159 selection1585        touchpad
+1586 participant08 block40 trial159 selection1586        touchpad
+1587 participant08 block40 trial159 selection1587        touchpad
+1588 participant08 block40 trial159 selection1588        touchpad
+1589 participant08 block40 trial159 selection1589        touchpad
+1590 participant08 block40 trial159 selection1590        touchpad
+1591 participant08 block40 trial160 selection1591 mouseringdouble
+1592 participant08 block40 trial160 selection1592 mouseringdouble
+1593 participant08 block40 trial160 selection1593 mouseringdouble
+1594 participant08 block40 trial160 selection1594 mouseringdouble
+1595 participant08 block40 trial160 selection1595 mouseringdouble
+1596 participant08 block40 trial160 selection1596 mouseringdouble
+1597 participant08 block40 trial160 selection1597 mouseringdouble
+1598 participant08 block40 trial160 selection1598 mouseringdouble
+1599 participant08 block40 trial160 selection1599 mouseringdouble
+1600 participant08 block40 trial160 selection1600 mouseringdouble
+1601 participant09 block41 trial161 selection1601 mouseringdouble
+1602 participant09 block41 trial161 selection1602 mouseringdouble
+1603 participant09 block41 trial161 selection1603 mouseringdouble
+1604 participant09 block41 trial161 selection1604 mouseringdouble
+1605 participant09 block41 trial161 selection1605 mouseringdouble
+1606 participant09 block41 trial161 selection1606 mouseringdouble
+1607 participant09 block41 trial161 selection1607 mouseringdouble
+1608 participant09 block41 trial161 selection1608 mouseringdouble
+1609 participant09 block41 trial161 selection1609 mouseringdouble
+1610 participant09 block41 trial161 selection1610 mouseringdouble
+1611 participant09 block41 trial162 selection1611 mouseringsingle
+1612 participant09 block41 trial162 selection1612 mouseringsingle
+1613 participant09 block41 trial162 selection1613 mouseringsingle
+1614 participant09 block41 trial162 selection1614 mouseringsingle
+1615 participant09 block41 trial162 selection1615 mouseringsingle
+1616 participant09 block41 trial162 selection1616 mouseringsingle
+1617 participant09 block41 trial162 selection1617 mouseringsingle
+1618 participant09 block41 trial162 selection1618 mouseringsingle
+1619 participant09 block41 trial162 selection1619 mouseringsingle
+1620 participant09 block41 trial162 selection1620 mouseringsingle
+1621 participant09 block41 trial163 selection1621        airmouse
+1622 participant09 block41 trial163 selection1622        airmouse
+1623 participant09 block41 trial163 selection1623        airmouse
+1624 participant09 block41 trial163 selection1624        airmouse
+1625 participant09 block41 trial163 selection1625        airmouse
+1626 participant09 block41 trial163 selection1626        airmouse
+1627 participant09 block41 trial163 selection1627        airmouse
+1628 participant09 block41 trial163 selection1628        airmouse
+1629 participant09 block41 trial163 selection1629        airmouse
+1630 participant09 block41 trial163 selection1630        airmouse
+1631 participant09 block41 trial164 selection1631        touchpad
+1632 participant09 block41 trial164 selection1632        touchpad
+1633 participant09 block41 trial164 selection1633        touchpad
+1634 participant09 block41 trial164 selection1634        touchpad
+1635 participant09 block41 trial164 selection1635        touchpad
+1636 participant09 block41 trial164 selection1636        touchpad
+1637 participant09 block41 trial164 selection1637        touchpad
+1638 participant09 block41 trial164 selection1638        touchpad
+1639 participant09 block41 trial164 selection1639        touchpad
+1640 participant09 block41 trial164 selection1640        touchpad
+1641 participant09 block42 trial165 selection1641 mouseringdouble
+1642 participant09 block42 trial165 selection1642 mouseringdouble
+1643 participant09 block42 trial165 selection1643 mouseringdouble
+1644 participant09 block42 trial165 selection1644 mouseringdouble
+1645 participant09 block42 trial165 selection1645 mouseringdouble
+1646 participant09 block42 trial165 selection1646 mouseringdouble
+1647 participant09 block42 trial165 selection1647 mouseringdouble
+1648 participant09 block42 trial165 selection1648 mouseringdouble
+1649 participant09 block42 trial165 selection1649 mouseringdouble
+1650 participant09 block42 trial165 selection1650 mouseringdouble
+1651 participant09 block42 trial166 selection1651        airmouse
+1652 participant09 block42 trial166 selection1652        airmouse
+1653 participant09 block42 trial166 selection1653        airmouse
+1654 participant09 block42 trial166 selection1654        airmouse
+1655 participant09 block42 trial166 selection1655        airmouse
+1656 participant09 block42 trial166 selection1656        airmouse
+1657 participant09 block42 trial166 selection1657        airmouse
+1658 participant09 block42 trial166 selection1658        airmouse
+1659 participant09 block42 trial166 selection1659        airmouse
+1660 participant09 block42 trial166 selection1660        airmouse
+1661 participant09 block42 trial167 selection1661 mouseringsingle
+1662 participant09 block42 trial167 selection1662 mouseringsingle
+1663 participant09 block42 trial167 selection1663 mouseringsingle
+1664 participant09 block42 trial167 selection1664 mouseringsingle
+1665 participant09 block42 trial167 selection1665 mouseringsingle
+1666 participant09 block42 trial167 selection1666 mouseringsingle
+1667 participant09 block42 trial167 selection1667 mouseringsingle
+1668 participant09 block42 trial167 selection1668 mouseringsingle
+1669 participant09 block42 trial167 selection1669 mouseringsingle
+1670 participant09 block42 trial167 selection1670 mouseringsingle
+1671 participant09 block42 trial168 selection1671        touchpad
+1672 participant09 block42 trial168 selection1672        touchpad
+1673 participant09 block42 trial168 selection1673        touchpad
+1674 participant09 block42 trial168 selection1674        touchpad
+1675 participant09 block42 trial168 selection1675        touchpad
+1676 participant09 block42 trial168 selection1676        touchpad
+1677 participant09 block42 trial168 selection1677        touchpad
+1678 participant09 block42 trial168 selection1678        touchpad
+1679 participant09 block42 trial168 selection1679        touchpad
+1680 participant09 block42 trial168 selection1680        touchpad
+1681 participant09 block43 trial169 selection1681 mouseringdouble
+1682 participant09 block43 trial169 selection1682 mouseringdouble
+1683 participant09 block43 trial169 selection1683 mouseringdouble
+1684 participant09 block43 trial169 selection1684 mouseringdouble
+1685 participant09 block43 trial169 selection1685 mouseringdouble
+1686 participant09 block43 trial169 selection1686 mouseringdouble
+1687 participant09 block43 trial169 selection1687 mouseringdouble
+1688 participant09 block43 trial169 selection1688 mouseringdouble
+1689 participant09 block43 trial169 selection1689 mouseringdouble
+1690 participant09 block43 trial169 selection1690 mouseringdouble
+1691 participant09 block43 trial170 selection1691        touchpad
+1692 participant09 block43 trial170 selection1692        touchpad
+1693 participant09 block43 trial170 selection1693        touchpad
+1694 participant09 block43 trial170 selection1694        touchpad
+1695 participant09 block43 trial170 selection1695        touchpad
+1696 participant09 block43 trial170 selection1696        touchpad
+1697 participant09 block43 trial170 selection1697        touchpad
+1698 participant09 block43 trial170 selection1698        touchpad
+1699 participant09 block43 trial170 selection1699        touchpad
+1700 participant09 block43 trial170 selection1700        touchpad
+1701 participant09 block43 trial171 selection1701 mouseringsingle
+1702 participant09 block43 trial171 selection1702 mouseringsingle
+1703 participant09 block43 trial171 selection1703 mouseringsingle
+1704 participant09 block43 trial171 selection1704 mouseringsingle
+1705 participant09 block43 trial171 selection1705 mouseringsingle
+1706 participant09 block43 trial171 selection1706 mouseringsingle
+1707 participant09 block43 trial171 selection1707 mouseringsingle
+1708 participant09 block43 trial171 selection1708 mouseringsingle
+1709 participant09 block43 trial171 selection1709 mouseringsingle
+1710 participant09 block43 trial171 selection1710 mouseringsingle
+1711 participant09 block43 trial172 selection1711        airmouse
+1712 participant09 block43 trial172 selection1712        airmouse
+1713 participant09 block43 trial172 selection1713        airmouse
+1714 participant09 block43 trial172 selection1714        airmouse
+1715 participant09 block43 trial172 selection1715        airmouse
+1716 participant09 block43 trial172 selection1716        airmouse
+1717 participant09 block43 trial172 selection1717        airmouse
+1718 participant09 block43 trial172 selection1718        airmouse
+1719 participant09 block43 trial172 selection1719        airmouse
+1720 participant09 block43 trial172 selection1720        airmouse
+1721 participant09 block44 trial173 selection1721 mouseringsingle
+1722 participant09 block44 trial173 selection1722 mouseringsingle
+1723 participant09 block44 trial173 selection1723 mouseringsingle
+1724 participant09 block44 trial173 selection1724 mouseringsingle
+1725 participant09 block44 trial173 selection1725 mouseringsingle
+1726 participant09 block44 trial173 selection1726 mouseringsingle
+1727 participant09 block44 trial173 selection1727 mouseringsingle
+1728 participant09 block44 trial173 selection1728 mouseringsingle
+1729 participant09 block44 trial173 selection1729 mouseringsingle
+1730 participant09 block44 trial173 selection1730 mouseringsingle
+1731 participant09 block44 trial174 selection1731        touchpad
+1732 participant09 block44 trial174 selection1732        touchpad
+1733 participant09 block44 trial174 selection1733        touchpad
+1734 participant09 block44 trial174 selection1734        touchpad
+1735 participant09 block44 trial174 selection1735        touchpad
+1736 participant09 block44 trial174 selection1736        touchpad
+1737 participant09 block44 trial174 selection1737        touchpad
+1738 participant09 block44 trial174 selection1738        touchpad
+1739 participant09 block44 trial174 selection1739        touchpad
+1740 participant09 block44 trial174 selection1740        touchpad
+1741 participant09 block44 trial175 selection1741 mouseringdouble
+1742 participant09 block44 trial175 selection1742 mouseringdouble
+1743 participant09 block44 trial175 selection1743 mouseringdouble
+1744 participant09 block44 trial175 selection1744 mouseringdouble
+1745 participant09 block44 trial175 selection1745 mouseringdouble
+1746 participant09 block44 trial175 selection1746 mouseringdouble
+1747 participant09 block44 trial175 selection1747 mouseringdouble
+1748 participant09 block44 trial175 selection1748 mouseringdouble
+1749 participant09 block44 trial175 selection1749 mouseringdouble
+1750 participant09 block44 trial175 selection1750 mouseringdouble
+1751 participant09 block44 trial176 selection1751        airmouse
+1752 participant09 block44 trial176 selection1752        airmouse
+1753 participant09 block44 trial176 selection1753        airmouse
+1754 participant09 block44 trial176 selection1754        airmouse
+1755 participant09 block44 trial176 selection1755        airmouse
+1756 participant09 block44 trial176 selection1756        airmouse
+1757 participant09 block44 trial176 selection1757        airmouse
+1758 participant09 block44 trial176 selection1758        airmouse
+1759 participant09 block44 trial176 selection1759        airmouse
+1760 participant09 block44 trial176 selection1760        airmouse
+1761 participant09 block45 trial177 selection1761 mouseringdouble
+1762 participant09 block45 trial177 selection1762 mouseringdouble
+1763 participant09 block45 trial177 selection1763 mouseringdouble
+1764 participant09 block45 trial177 selection1764 mouseringdouble
+1765 participant09 block45 trial177 selection1765 mouseringdouble
+1766 participant09 block45 trial177 selection1766 mouseringdouble
+1767 participant09 block45 trial177 selection1767 mouseringdouble
+1768 participant09 block45 trial177 selection1768 mouseringdouble
+1769 participant09 block45 trial177 selection1769 mouseringdouble
+1770 participant09 block45 trial177 selection1770 mouseringdouble
+1771 participant09 block45 trial178 selection1771        airmouse
+1772 participant09 block45 trial178 selection1772        airmouse
+1773 participant09 block45 trial178 selection1773        airmouse
+1774 participant09 block45 trial178 selection1774        airmouse
+1775 participant09 block45 trial178 selection1775        airmouse
+1776 participant09 block45 trial178 selection1776        airmouse
+1777 participant09 block45 trial178 selection1777        airmouse
+1778 participant09 block45 trial178 selection1778        airmouse
+1779 participant09 block45 trial178 selection1779        airmouse
+1780 participant09 block45 trial178 selection1780        airmouse
+1781 participant09 block45 trial179 selection1781 mouseringsingle
+1782 participant09 block45 trial179 selection1782 mouseringsingle
+1783 participant09 block45 trial179 selection1783 mouseringsingle
+1784 participant09 block45 trial179 selection1784 mouseringsingle
+1785 participant09 block45 trial179 selection1785 mouseringsingle
+1786 participant09 block45 trial179 selection1786 mouseringsingle
+1787 participant09 block45 trial179 selection1787 mouseringsingle
+1788 participant09 block45 trial179 selection1788 mouseringsingle
+1789 participant09 block45 trial179 selection1789 mouseringsingle
+1790 participant09 block45 trial179 selection1790 mouseringsingle
+1791 participant09 block45 trial180 selection1791        touchpad
+1792 participant09 block45 trial180 selection1792        touchpad
+1793 participant09 block45 trial180 selection1793        touchpad
+1794 participant09 block45 trial180 selection1794        touchpad
+1795 participant09 block45 trial180 selection1795        touchpad
+1796 participant09 block45 trial180 selection1796        touchpad
+1797 participant09 block45 trial180 selection1797        touchpad
+1798 participant09 block45 trial180 selection1798        touchpad
+1799 participant09 block45 trial180 selection1799        touchpad
+1800 participant09 block45 trial180 selection1800        touchpad
+1801 participant10 block46 trial181 selection1801        airmouse
+1802 participant10 block46 trial181 selection1802        airmouse
+1803 participant10 block46 trial181 selection1803        airmouse
+1804 participant10 block46 trial181 selection1804        airmouse
+1805 participant10 block46 trial181 selection1805        airmouse
+1806 participant10 block46 trial181 selection1806        airmouse
+1807 participant10 block46 trial181 selection1807        airmouse
+1808 participant10 block46 trial181 selection1808        airmouse
+1809 participant10 block46 trial181 selection1809        airmouse
+1810 participant10 block46 trial181 selection1810        airmouse
+1811 participant10 block46 trial182 selection1811 mouseringsingle
+1812 participant10 block46 trial182 selection1812 mouseringsingle
+1813 participant10 block46 trial182 selection1813 mouseringsingle
+1814 participant10 block46 trial182 selection1814 mouseringsingle
+1815 participant10 block46 trial182 selection1815 mouseringsingle
+1816 participant10 block46 trial182 selection1816 mouseringsingle
+1817 participant10 block46 trial182 selection1817 mouseringsingle
+1818 participant10 block46 trial182 selection1818 mouseringsingle
+1819 participant10 block46 trial182 selection1819 mouseringsingle
+1820 participant10 block46 trial182 selection1820 mouseringsingle
+1821 participant10 block46 trial183 selection1821 mouseringdouble
+1822 participant10 block46 trial183 selection1822 mouseringdouble
+1823 participant10 block46 trial183 selection1823 mouseringdouble
+1824 participant10 block46 trial183 selection1824 mouseringdouble
+1825 participant10 block46 trial183 selection1825 mouseringdouble
+1826 participant10 block46 trial183 selection1826 mouseringdouble
+1827 participant10 block46 trial183 selection1827 mouseringdouble
+1828 participant10 block46 trial183 selection1828 mouseringdouble
+1829 participant10 block46 trial183 selection1829 mouseringdouble
+1830 participant10 block46 trial183 selection1830 mouseringdouble
+1831 participant10 block46 trial184 selection1831        touchpad
+1832 participant10 block46 trial184 selection1832        touchpad
+1833 participant10 block46 trial184 selection1833        touchpad
+1834 participant10 block46 trial184 selection1834        touchpad
+1835 participant10 block46 trial184 selection1835        touchpad
+1836 participant10 block46 trial184 selection1836        touchpad
+1837 participant10 block46 trial184 selection1837        touchpad
+1838 participant10 block46 trial184 selection1838        touchpad
+1839 participant10 block46 trial184 selection1839        touchpad
+1840 participant10 block46 trial184 selection1840        touchpad
+1841 participant10 block47 trial185 selection1841        airmouse
+1842 participant10 block47 trial185 selection1842        airmouse
+1843 participant10 block47 trial185 selection1843        airmouse
+1844 participant10 block47 trial185 selection1844        airmouse
+1845 participant10 block47 trial185 selection1845        airmouse
+1846 participant10 block47 trial185 selection1846        airmouse
+1847 participant10 block47 trial185 selection1847        airmouse
+1848 participant10 block47 trial185 selection1848        airmouse
+1849 participant10 block47 trial185 selection1849        airmouse
+1850 participant10 block47 trial185 selection1850        airmouse
+1851 participant10 block47 trial186 selection1851        touchpad
+1852 participant10 block47 trial186 selection1852        touchpad
+1853 participant10 block47 trial186 selection1853        touchpad
+1854 participant10 block47 trial186 selection1854        touchpad
+1855 participant10 block47 trial186 selection1855        touchpad
+1856 participant10 block47 trial186 selection1856        touchpad
+1857 participant10 block47 trial186 selection1857        touchpad
+1858 participant10 block47 trial186 selection1858        touchpad
+1859 participant10 block47 trial186 selection1859        touchpad
+1860 participant10 block47 trial186 selection1860        touchpad
+1861 participant10 block47 trial187 selection1861 mouseringsingle
+1862 participant10 block47 trial187 selection1862 mouseringsingle
+1863 participant10 block47 trial187 selection1863 mouseringsingle
+1864 participant10 block47 trial187 selection1864 mouseringsingle
+1865 participant10 block47 trial187 selection1865 mouseringsingle
+1866 participant10 block47 trial187 selection1866 mouseringsingle
+1867 participant10 block47 trial187 selection1867 mouseringsingle
+1868 participant10 block47 trial187 selection1868 mouseringsingle
+1869 participant10 block47 trial187 selection1869 mouseringsingle
+1870 participant10 block47 trial187 selection1870 mouseringsingle
+1871 participant10 block47 trial188 selection1871 mouseringdouble
+1872 participant10 block47 trial188 selection1872 mouseringdouble
+1873 participant10 block47 trial188 selection1873 mouseringdouble
+1874 participant10 block47 trial188 selection1874 mouseringdouble
+1875 participant10 block47 trial188 selection1875 mouseringdouble
+1876 participant10 block47 trial188 selection1876 mouseringdouble
+1877 participant10 block47 trial188 selection1877 mouseringdouble
+1878 participant10 block47 trial188 selection1878 mouseringdouble
+1879 participant10 block47 trial188 selection1879 mouseringdouble
+1880 participant10 block47 trial188 selection1880 mouseringdouble
+1881 participant10 block48 trial189 selection1881        airmouse
+1882 participant10 block48 trial189 selection1882        airmouse
+1883 participant10 block48 trial189 selection1883        airmouse
+1884 participant10 block48 trial189 selection1884        airmouse
+1885 participant10 block48 trial189 selection1885        airmouse
+1886 participant10 block48 trial189 selection1886        airmouse
+1887 participant10 block48 trial189 selection1887        airmouse
+1888 participant10 block48 trial189 selection1888        airmouse
+1889 participant10 block48 trial189 selection1889        airmouse
+1890 participant10 block48 trial189 selection1890        airmouse
+1891 participant10 block48 trial190 selection1891 mouseringdouble
+1892 participant10 block48 trial190 selection1892 mouseringdouble
+1893 participant10 block48 trial190 selection1893 mouseringdouble
+1894 participant10 block48 trial190 selection1894 mouseringdouble
+1895 participant10 block48 trial190 selection1895 mouseringdouble
+1896 participant10 block48 trial190 selection1896 mouseringdouble
+1897 participant10 block48 trial190 selection1897 mouseringdouble
+1898 participant10 block48 trial190 selection1898 mouseringdouble
+1899 participant10 block48 trial190 selection1899 mouseringdouble
+1900 participant10 block48 trial190 selection1900 mouseringdouble
+1901 participant10 block48 trial191 selection1901 mouseringsingle
+1902 participant10 block48 trial191 selection1902 mouseringsingle
+1903 participant10 block48 trial191 selection1903 mouseringsingle
+1904 participant10 block48 trial191 selection1904 mouseringsingle
+1905 participant10 block48 trial191 selection1905 mouseringsingle
+1906 participant10 block48 trial191 selection1906 mouseringsingle
+1907 participant10 block48 trial191 selection1907 mouseringsingle
+1908 participant10 block48 trial191 selection1908 mouseringsingle
+1909 participant10 block48 trial191 selection1909 mouseringsingle
+1910 participant10 block48 trial191 selection1910 mouseringsingle
+1911 participant10 block48 trial192 selection1911        touchpad
+1912 participant10 block48 trial192 selection1912        touchpad
+1913 participant10 block48 trial192 selection1913        touchpad
+1914 participant10 block48 trial192 selection1914        touchpad
+1915 participant10 block48 trial192 selection1915        touchpad
+1916 participant10 block48 trial192 selection1916        touchpad
+1917 participant10 block48 trial192 selection1917        touchpad
+1918 participant10 block48 trial192 selection1918        touchpad
+1919 participant10 block48 trial192 selection1919        touchpad
+1920 participant10 block48 trial192 selection1920        touchpad
+1921 participant10 block49 trial193 selection1921        airmouse
+1922 participant10 block49 trial193 selection1922        airmouse
+1923 participant10 block49 trial193 selection1923        airmouse
+1924 participant10 block49 trial193 selection1924        airmouse
+1925 participant10 block49 trial193 selection1925        airmouse
+1926 participant10 block49 trial193 selection1926        airmouse
+1927 participant10 block49 trial193 selection1927        airmouse
+1928 participant10 block49 trial193 selection1928        airmouse
+1929 participant10 block49 trial193 selection1929        airmouse
+1930 participant10 block49 trial193 selection1930        airmouse
+1931 participant10 block49 trial194 selection1931        touchpad
+1932 participant10 block49 trial194 selection1932        touchpad
+1933 participant10 block49 trial194 selection1933        touchpad
+1934 participant10 block49 trial194 selection1934        touchpad
+1935 participant10 block49 trial194 selection1935        touchpad
+1936 participant10 block49 trial194 selection1936        touchpad
+1937 participant10 block49 trial194 selection1937        touchpad
+1938 participant10 block49 trial194 selection1938        touchpad
+1939 participant10 block49 trial194 selection1939        touchpad
+1940 participant10 block49 trial194 selection1940        touchpad
+1941 participant10 block49 trial195 selection1941 mouseringdouble
+1942 participant10 block49 trial195 selection1942 mouseringdouble
+1943 participant10 block49 trial195 selection1943 mouseringdouble
+1944 participant10 block49 trial195 selection1944 mouseringdouble
+1945 participant10 block49 trial195 selection1945 mouseringdouble
+1946 participant10 block49 trial195 selection1946 mouseringdouble
+1947 participant10 block49 trial195 selection1947 mouseringdouble
+1948 participant10 block49 trial195 selection1948 mouseringdouble
+1949 participant10 block49 trial195 selection1949 mouseringdouble
+1950 participant10 block49 trial195 selection1950 mouseringdouble
+1951 participant10 block49 trial196 selection1951 mouseringsingle
+1952 participant10 block49 trial196 selection1952 mouseringsingle
+1953 participant10 block49 trial196 selection1953 mouseringsingle
+1954 participant10 block49 trial196 selection1954 mouseringsingle
+1955 participant10 block49 trial196 selection1955 mouseringsingle
+1956 participant10 block49 trial196 selection1956 mouseringsingle
+1957 participant10 block49 trial196 selection1957 mouseringsingle
+1958 participant10 block49 trial196 selection1958 mouseringsingle
+1959 participant10 block49 trial196 selection1959 mouseringsingle
+1960 participant10 block49 trial196 selection1960 mouseringsingle
+1961 participant10 block50 trial197 selection1961 mouseringsingle
+1962 participant10 block50 trial197 selection1962 mouseringsingle
+1963 participant10 block50 trial197 selection1963 mouseringsingle
+1964 participant10 block50 trial197 selection1964 mouseringsingle
+1965 participant10 block50 trial197 selection1965 mouseringsingle
+1966 participant10 block50 trial197 selection1966 mouseringsingle
+1967 participant10 block50 trial197 selection1967 mouseringsingle
+1968 participant10 block50 trial197 selection1968 mouseringsingle
+1969 participant10 block50 trial197 selection1969 mouseringsingle
+1970 participant10 block50 trial197 selection1970 mouseringsingle
+1971 participant10 block50 trial198 selection1971 mouseringdouble
+1972 participant10 block50 trial198 selection1972 mouseringdouble
+1973 participant10 block50 trial198 selection1973 mouseringdouble
+1974 participant10 block50 trial198 selection1974 mouseringdouble
+1975 participant10 block50 trial198 selection1975 mouseringdouble
+1976 participant10 block50 trial198 selection1976 mouseringdouble
+1977 participant10 block50 trial198 selection1977 mouseringdouble
+1978 participant10 block50 trial198 selection1978 mouseringdouble
+1979 participant10 block50 trial198 selection1979 mouseringdouble
+1980 participant10 block50 trial198 selection1980 mouseringdouble
+1981 participant10 block50 trial199 selection1981        touchpad
+1982 participant10 block50 trial199 selection1982        touchpad
+1983 participant10 block50 trial199 selection1983        touchpad
+1984 participant10 block50 trial199 selection1984        touchpad
+1985 participant10 block50 trial199 selection1985        touchpad
+1986 participant10 block50 trial199 selection1986        touchpad
+1987 participant10 block50 trial199 selection1987        touchpad
+1988 participant10 block50 trial199 selection1988        touchpad
+1989 participant10 block50 trial199 selection1989        touchpad
+1990 participant10 block50 trial199 selection1990        touchpad
+1991 participant10 block50 trial200 selection1991        airmouse
+1992 participant10 block50 trial200 selection1992        airmouse
+1993 participant10 block50 trial200 selection1993        airmouse
+1994 participant10 block50 trial200 selection1994        airmouse
+1995 participant10 block50 trial200 selection1995        airmouse
+1996 participant10 block50 trial200 selection1996        airmouse
+1997 participant10 block50 trial200 selection1997        airmouse
+1998 participant10 block50 trial200 selection1998        airmouse
+1999 participant10 block50 trial200 selection1999        airmouse
+2000 participant10 block50 trial200 selection2000        airmouse
+2001 participant11 block51 trial201 selection2001 mouseringsingle
+2002 participant11 block51 trial201 selection2002 mouseringsingle
+2003 participant11 block51 trial201 selection2003 mouseringsingle
+2004 participant11 block51 trial201 selection2004 mouseringsingle
+2005 participant11 block51 trial201 selection2005 mouseringsingle
+2006 participant11 block51 trial201 selection2006 mouseringsingle
+2007 participant11 block51 trial201 selection2007 mouseringsingle
+2008 participant11 block51 trial201 selection2008 mouseringsingle
+2009 participant11 block51 trial201 selection2009 mouseringsingle
+2010 participant11 block51 trial201 selection2010 mouseringsingle
+2011 participant11 block51 trial202 selection2011        airmouse
+2012 participant11 block51 trial202 selection2012        airmouse
+2013 participant11 block51 trial202 selection2013        airmouse
+2014 participant11 block51 trial202 selection2014        airmouse
+2015 participant11 block51 trial202 selection2015        airmouse
+2016 participant11 block51 trial202 selection2016        airmouse
+2017 participant11 block51 trial202 selection2017        airmouse
+2018 participant11 block51 trial202 selection2018        airmouse
+2019 participant11 block51 trial202 selection2019        airmouse
+2020 participant11 block51 trial202 selection2020        airmouse
+2021 participant11 block51 trial203 selection2021 mouseringdouble
+2022 participant11 block51 trial203 selection2022 mouseringdouble
+2023 participant11 block51 trial203 selection2023 mouseringdouble
+2024 participant11 block51 trial203 selection2024 mouseringdouble
+2025 participant11 block51 trial203 selection2025 mouseringdouble
+2026 participant11 block51 trial203 selection2026 mouseringdouble
+2027 participant11 block51 trial203 selection2027 mouseringdouble
+2028 participant11 block51 trial203 selection2028 mouseringdouble
+2029 participant11 block51 trial203 selection2029 mouseringdouble
+2030 participant11 block51 trial203 selection2030 mouseringdouble
+2031 participant11 block51 trial204 selection2031        touchpad
+2032 participant11 block51 trial204 selection2032        touchpad
+2033 participant11 block51 trial204 selection2033        touchpad
+2034 participant11 block51 trial204 selection2034        touchpad
+2035 participant11 block51 trial204 selection2035        touchpad
+2036 participant11 block51 trial204 selection2036        touchpad
+2037 participant11 block51 trial204 selection2037        touchpad
+2038 participant11 block51 trial204 selection2038        touchpad
+2039 participant11 block51 trial204 selection2039        touchpad
+2040 participant11 block51 trial204 selection2040        touchpad
+2041 participant11 block52 trial205 selection2041 mouseringsingle
+2042 participant11 block52 trial205 selection2042 mouseringsingle
+2043 participant11 block52 trial205 selection2043 mouseringsingle
+2044 participant11 block52 trial205 selection2044 mouseringsingle
+2045 participant11 block52 trial205 selection2045 mouseringsingle
+2046 participant11 block52 trial205 selection2046 mouseringsingle
+2047 participant11 block52 trial205 selection2047 mouseringsingle
+2048 participant11 block52 trial205 selection2048 mouseringsingle
+2049 participant11 block52 trial205 selection2049 mouseringsingle
+2050 participant11 block52 trial205 selection2050 mouseringsingle
+2051 participant11 block52 trial206 selection2051        airmouse
+2052 participant11 block52 trial206 selection2052        airmouse
+2053 participant11 block52 trial206 selection2053        airmouse
+2054 participant11 block52 trial206 selection2054        airmouse
+2055 participant11 block52 trial206 selection2055        airmouse
+2056 participant11 block52 trial206 selection2056        airmouse
+2057 participant11 block52 trial206 selection2057        airmouse
+2058 participant11 block52 trial206 selection2058        airmouse
+2059 participant11 block52 trial206 selection2059        airmouse
+2060 participant11 block52 trial206 selection2060        airmouse
+2061 participant11 block52 trial207 selection2061 mouseringdouble
+2062 participant11 block52 trial207 selection2062 mouseringdouble
+2063 participant11 block52 trial207 selection2063 mouseringdouble
+2064 participant11 block52 trial207 selection2064 mouseringdouble
+2065 participant11 block52 trial207 selection2065 mouseringdouble
+2066 participant11 block52 trial207 selection2066 mouseringdouble
+2067 participant11 block52 trial207 selection2067 mouseringdouble
+2068 participant11 block52 trial207 selection2068 mouseringdouble
+2069 participant11 block52 trial207 selection2069 mouseringdouble
+2070 participant11 block52 trial207 selection2070 mouseringdouble
+2071 participant11 block52 trial208 selection2071        touchpad
+2072 participant11 block52 trial208 selection2072        touchpad
+2073 participant11 block52 trial208 selection2073        touchpad
+2074 participant11 block52 trial208 selection2074        touchpad
+2075 participant11 block52 trial208 selection2075        touchpad
+2076 participant11 block52 trial208 selection2076        touchpad
+2077 participant11 block52 trial208 selection2077        touchpad
+2078 participant11 block52 trial208 selection2078        touchpad
+2079 participant11 block52 trial208 selection2079        touchpad
+2080 participant11 block52 trial208 selection2080        touchpad
+2081 participant11 block53 trial209 selection2081 mouseringsingle
+2082 participant11 block53 trial209 selection2082 mouseringsingle
+2083 participant11 block53 trial209 selection2083 mouseringsingle
+2084 participant11 block53 trial209 selection2084 mouseringsingle
+2085 participant11 block53 trial209 selection2085 mouseringsingle
+2086 participant11 block53 trial209 selection2086 mouseringsingle
+2087 participant11 block53 trial209 selection2087 mouseringsingle
+2088 participant11 block53 trial209 selection2088 mouseringsingle
+2089 participant11 block53 trial209 selection2089 mouseringsingle
+2090 participant11 block53 trial209 selection2090 mouseringsingle
+2091 participant11 block53 trial210 selection2091        airmouse
+2092 participant11 block53 trial210 selection2092        airmouse
+2093 participant11 block53 trial210 selection2093        airmouse
+2094 participant11 block53 trial210 selection2094        airmouse
+2095 participant11 block53 trial210 selection2095        airmouse
+2096 participant11 block53 trial210 selection2096        airmouse
+2097 participant11 block53 trial210 selection2097        airmouse
+2098 participant11 block53 trial210 selection2098        airmouse
+2099 participant11 block53 trial210 selection2099        airmouse
+2100 participant11 block53 trial210 selection2100        airmouse
+2101 participant11 block53 trial211 selection2101        touchpad
+2102 participant11 block53 trial211 selection2102        touchpad
+2103 participant11 block53 trial211 selection2103        touchpad
+2104 participant11 block53 trial211 selection2104        touchpad
+2105 participant11 block53 trial211 selection2105        touchpad
+2106 participant11 block53 trial211 selection2106        touchpad
+2107 participant11 block53 trial211 selection2107        touchpad
+2108 participant11 block53 trial211 selection2108        touchpad
+2109 participant11 block53 trial211 selection2109        touchpad
+2110 participant11 block53 trial211 selection2110        touchpad
+2111 participant11 block53 trial212 selection2111 mouseringdouble
+2112 participant11 block53 trial212 selection2112 mouseringdouble
+2113 participant11 block53 trial212 selection2113 mouseringdouble
+2114 participant11 block53 trial212 selection2114 mouseringdouble
+2115 participant11 block53 trial212 selection2115 mouseringdouble
+2116 participant11 block53 trial212 selection2116 mouseringdouble
+2117 participant11 block53 trial212 selection2117 mouseringdouble
+2118 participant11 block53 trial212 selection2118 mouseringdouble
+2119 participant11 block53 trial212 selection2119 mouseringdouble
+2120 participant11 block53 trial212 selection2120 mouseringdouble
+2121 participant11 block54 trial213 selection2121 mouseringsingle
+2122 participant11 block54 trial213 selection2122 mouseringsingle
+2123 participant11 block54 trial213 selection2123 mouseringsingle
+2124 participant11 block54 trial213 selection2124 mouseringsingle
+2125 participant11 block54 trial213 selection2125 mouseringsingle
+2126 participant11 block54 trial213 selection2126 mouseringsingle
+2127 participant11 block54 trial213 selection2127 mouseringsingle
+2128 participant11 block54 trial213 selection2128 mouseringsingle
+2129 participant11 block54 trial213 selection2129 mouseringsingle
+2130 participant11 block54 trial213 selection2130 mouseringsingle
+2131 participant11 block54 trial214 selection2131 mouseringdouble
+2132 participant11 block54 trial214 selection2132 mouseringdouble
+2133 participant11 block54 trial214 selection2133 mouseringdouble
+2134 participant11 block54 trial214 selection2134 mouseringdouble
+2135 participant11 block54 trial214 selection2135 mouseringdouble
+2136 participant11 block54 trial214 selection2136 mouseringdouble
+2137 participant11 block54 trial214 selection2137 mouseringdouble
+2138 participant11 block54 trial214 selection2138 mouseringdouble
+2139 participant11 block54 trial214 selection2139 mouseringdouble
+2140 participant11 block54 trial214 selection2140 mouseringdouble
+2141 participant11 block54 trial215 selection2141        airmouse
+2142 participant11 block54 trial215 selection2142        airmouse
+2143 participant11 block54 trial215 selection2143        airmouse
+2144 participant11 block54 trial215 selection2144        airmouse
+2145 participant11 block54 trial215 selection2145        airmouse
+2146 participant11 block54 trial215 selection2146        airmouse
+2147 participant11 block54 trial215 selection2147        airmouse
+2148 participant11 block54 trial215 selection2148        airmouse
+2149 participant11 block54 trial215 selection2149        airmouse
+2150 participant11 block54 trial215 selection2150        airmouse
+2151 participant11 block54 trial216 selection2151        touchpad
+2152 participant11 block54 trial216 selection2152        touchpad
+2153 participant11 block54 trial216 selection2153        touchpad
+2154 participant11 block54 trial216 selection2154        touchpad
+2155 participant11 block54 trial216 selection2155        touchpad
+2156 participant11 block54 trial216 selection2156        touchpad
+2157 participant11 block54 trial216 selection2157        touchpad
+2158 participant11 block54 trial216 selection2158        touchpad
+2159 participant11 block54 trial216 selection2159        touchpad
+2160 participant11 block54 trial216 selection2160        touchpad
+2161 participant11 block55 trial217 selection2161 mouseringsingle
+2162 participant11 block55 trial217 selection2162 mouseringsingle
+2163 participant11 block55 trial217 selection2163 mouseringsingle
+2164 participant11 block55 trial217 selection2164 mouseringsingle
+2165 participant11 block55 trial217 selection2165 mouseringsingle
+2166 participant11 block55 trial217 selection2166 mouseringsingle
+2167 participant11 block55 trial217 selection2167 mouseringsingle
+2168 participant11 block55 trial217 selection2168 mouseringsingle
+2169 participant11 block55 trial217 selection2169 mouseringsingle
+2170 participant11 block55 trial217 selection2170 mouseringsingle
+2171 participant11 block55 trial218 selection2171 mouseringdouble
+2172 participant11 block55 trial218 selection2172 mouseringdouble
+2173 participant11 block55 trial218 selection2173 mouseringdouble
+2174 participant11 block55 trial218 selection2174 mouseringdouble
+2175 participant11 block55 trial218 selection2175 mouseringdouble
+2176 participant11 block55 trial218 selection2176 mouseringdouble
+2177 participant11 block55 trial218 selection2177 mouseringdouble
+2178 participant11 block55 trial218 selection2178 mouseringdouble
+2179 participant11 block55 trial218 selection2179 mouseringdouble
+2180 participant11 block55 trial218 selection2180 mouseringdouble
+2181 participant11 block55 trial219 selection2181        airmouse
+2182 participant11 block55 trial219 selection2182        airmouse
+2183 participant11 block55 trial219 selection2183        airmouse
+2184 participant11 block55 trial219 selection2184        airmouse
+2185 participant11 block55 trial219 selection2185        airmouse
+2186 participant11 block55 trial219 selection2186        airmouse
+2187 participant11 block55 trial219 selection2187        airmouse
+2188 participant11 block55 trial219 selection2188        airmouse
+2189 participant11 block55 trial219 selection2189        airmouse
+2190 participant11 block55 trial219 selection2190        airmouse
+2191 participant11 block55 trial220 selection2191        touchpad
+2192 participant11 block55 trial220 selection2192        touchpad
+2193 participant11 block55 trial220 selection2193        touchpad
+2194 participant11 block55 trial220 selection2194        touchpad
+2195 participant11 block55 trial220 selection2195        touchpad
+2196 participant11 block55 trial220 selection2196        touchpad
+2197 participant11 block55 trial220 selection2197        touchpad
+2198 participant11 block55 trial220 selection2198        touchpad
+2199 participant11 block55 trial220 selection2199        touchpad
+2200 participant11 block55 trial220 selection2200        touchpad
+2201 participant12 block56 trial221 selection2201 mouseringdouble
+2202 participant12 block56 trial221 selection2202 mouseringdouble
+2203 participant12 block56 trial221 selection2203 mouseringdouble
+2204 participant12 block56 trial221 selection2204 mouseringdouble
+2205 participant12 block56 trial221 selection2205 mouseringdouble
+2206 participant12 block56 trial221 selection2206 mouseringdouble
+2207 participant12 block56 trial221 selection2207 mouseringdouble
+2208 participant12 block56 trial221 selection2208 mouseringdouble
+2209 participant12 block56 trial221 selection2209 mouseringdouble
+2210 participant12 block56 trial221 selection2210 mouseringdouble
+2211 participant12 block56 trial222 selection2211        airmouse
+2212 participant12 block56 trial222 selection2212        airmouse
+2213 participant12 block56 trial222 selection2213        airmouse
+2214 participant12 block56 trial222 selection2214        airmouse
+2215 participant12 block56 trial222 selection2215        airmouse
+2216 participant12 block56 trial222 selection2216        airmouse
+2217 participant12 block56 trial222 selection2217        airmouse
+2218 participant12 block56 trial222 selection2218        airmouse
+2219 participant12 block56 trial222 selection2219        airmouse
+2220 participant12 block56 trial222 selection2220        airmouse
+2221 participant12 block56 trial223 selection2221 mouseringsingle
+2222 participant12 block56 trial223 selection2222 mouseringsingle
+2223 participant12 block56 trial223 selection2223 mouseringsingle
+2224 participant12 block56 trial223 selection2224 mouseringsingle
+2225 participant12 block56 trial223 selection2225 mouseringsingle
+2226 participant12 block56 trial223 selection2226 mouseringsingle
+2227 participant12 block56 trial223 selection2227 mouseringsingle
+2228 participant12 block56 trial223 selection2228 mouseringsingle
+2229 participant12 block56 trial223 selection2229 mouseringsingle
+2230 participant12 block56 trial223 selection2230 mouseringsingle
+2231 participant12 block56 trial224 selection2231        touchpad
+2232 participant12 block56 trial224 selection2232        touchpad
+2233 participant12 block56 trial224 selection2233        touchpad
+2234 participant12 block56 trial224 selection2234        touchpad
+2235 participant12 block56 trial224 selection2235        touchpad
+2236 participant12 block56 trial224 selection2236        touchpad
+2237 participant12 block56 trial224 selection2237        touchpad
+2238 participant12 block56 trial224 selection2238        touchpad
+2239 participant12 block56 trial224 selection2239        touchpad
+2240 participant12 block56 trial224 selection2240        touchpad
+2241 participant12 block57 trial225 selection2241        airmouse
+2242 participant12 block57 trial225 selection2242        airmouse
+2243 participant12 block57 trial225 selection2243        airmouse
+2244 participant12 block57 trial225 selection2244        airmouse
+2245 participant12 block57 trial225 selection2245        airmouse
+2246 participant12 block57 trial225 selection2246        airmouse
+2247 participant12 block57 trial225 selection2247        airmouse
+2248 participant12 block57 trial225 selection2248        airmouse
+2249 participant12 block57 trial225 selection2249        airmouse
+2250 participant12 block57 trial225 selection2250        airmouse
+2251 participant12 block57 trial226 selection2251 mouseringsingle
+2252 participant12 block57 trial226 selection2252 mouseringsingle
+2253 participant12 block57 trial226 selection2253 mouseringsingle
+2254 participant12 block57 trial226 selection2254 mouseringsingle
+2255 participant12 block57 trial226 selection2255 mouseringsingle
+2256 participant12 block57 trial226 selection2256 mouseringsingle
+2257 participant12 block57 trial226 selection2257 mouseringsingle
+2258 participant12 block57 trial226 selection2258 mouseringsingle
+2259 participant12 block57 trial226 selection2259 mouseringsingle
+2260 participant12 block57 trial226 selection2260 mouseringsingle
+2261 participant12 block57 trial227 selection2261 mouseringdouble
+2262 participant12 block57 trial227 selection2262 mouseringdouble
+2263 participant12 block57 trial227 selection2263 mouseringdouble
+2264 participant12 block57 trial227 selection2264 mouseringdouble
+2265 participant12 block57 trial227 selection2265 mouseringdouble
+2266 participant12 block57 trial227 selection2266 mouseringdouble
+2267 participant12 block57 trial227 selection2267 mouseringdouble
+2268 participant12 block57 trial227 selection2268 mouseringdouble
+2269 participant12 block57 trial227 selection2269 mouseringdouble
+2270 participant12 block57 trial227 selection2270 mouseringdouble
+2271 participant12 block57 trial228 selection2271        touchpad
+2272 participant12 block57 trial228 selection2272        touchpad
+2273 participant12 block57 trial228 selection2273        touchpad
+2274 participant12 block57 trial228 selection2274        touchpad
+2275 participant12 block57 trial228 selection2275        touchpad
+2276 participant12 block57 trial228 selection2276        touchpad
+2277 participant12 block57 trial228 selection2277        touchpad
+2278 participant12 block57 trial228 selection2278        touchpad
+2279 participant12 block57 trial228 selection2279        touchpad
+2280 participant12 block57 trial228 selection2280        touchpad
+2281 participant12 block58 trial229 selection2281 mouseringsingle
+2282 participant12 block58 trial229 selection2282 mouseringsingle
+2283 participant12 block58 trial229 selection2283 mouseringsingle
+2284 participant12 block58 trial229 selection2284 mouseringsingle
+2285 participant12 block58 trial229 selection2285 mouseringsingle
+2286 participant12 block58 trial229 selection2286 mouseringsingle
+2287 participant12 block58 trial229 selection2287 mouseringsingle
+2288 participant12 block58 trial229 selection2288 mouseringsingle
+2289 participant12 block58 trial229 selection2289 mouseringsingle
+2290 participant12 block58 trial229 selection2290 mouseringsingle
+2291 participant12 block58 trial230 selection2291        touchpad
+2292 participant12 block58 trial230 selection2292        touchpad
+2293 participant12 block58 trial230 selection2293        touchpad
+2294 participant12 block58 trial230 selection2294        touchpad
+2295 participant12 block58 trial230 selection2295        touchpad
+2296 participant12 block58 trial230 selection2296        touchpad
+2297 participant12 block58 trial230 selection2297        touchpad
+2298 participant12 block58 trial230 selection2298        touchpad
+2299 participant12 block58 trial230 selection2299        touchpad
+2300 participant12 block58 trial230 selection2300        touchpad
+2301 participant12 block58 trial231 selection2301        airmouse
+2302 participant12 block58 trial231 selection2302        airmouse
+2303 participant12 block58 trial231 selection2303        airmouse
+2304 participant12 block58 trial231 selection2304        airmouse
+2305 participant12 block58 trial231 selection2305        airmouse
+2306 participant12 block58 trial231 selection2306        airmouse
+2307 participant12 block58 trial231 selection2307        airmouse
+2308 participant12 block58 trial231 selection2308        airmouse
+2309 participant12 block58 trial231 selection2309        airmouse
+2310 participant12 block58 trial231 selection2310        airmouse
+2311 participant12 block58 trial232 selection2311 mouseringdouble
+2312 participant12 block58 trial232 selection2312 mouseringdouble
+2313 participant12 block58 trial232 selection2313 mouseringdouble
+2314 participant12 block58 trial232 selection2314 mouseringdouble
+2315 participant12 block58 trial232 selection2315 mouseringdouble
+2316 participant12 block58 trial232 selection2316 mouseringdouble
+2317 participant12 block58 trial232 selection2317 mouseringdouble
+2318 participant12 block58 trial232 selection2318 mouseringdouble
+2319 participant12 block58 trial232 selection2319 mouseringdouble
+2320 participant12 block58 trial232 selection2320 mouseringdouble
+2321 participant12 block59 trial233 selection2321 mouseringdouble
+2322 participant12 block59 trial233 selection2322 mouseringdouble
+2323 participant12 block59 trial233 selection2323 mouseringdouble
+2324 participant12 block59 trial233 selection2324 mouseringdouble
+2325 participant12 block59 trial233 selection2325 mouseringdouble
+2326 participant12 block59 trial233 selection2326 mouseringdouble
+2327 participant12 block59 trial233 selection2327 mouseringdouble
+2328 participant12 block59 trial233 selection2328 mouseringdouble
+2329 participant12 block59 trial233 selection2329 mouseringdouble
+2330 participant12 block59 trial233 selection2330 mouseringdouble
+2331 participant12 block59 trial234 selection2331 mouseringsingle
+2332 participant12 block59 trial234 selection2332 mouseringsingle
+2333 participant12 block59 trial234 selection2333 mouseringsingle
+2334 participant12 block59 trial234 selection2334 mouseringsingle
+2335 participant12 block59 trial234 selection2335 mouseringsingle
+2336 participant12 block59 trial234 selection2336 mouseringsingle
+2337 participant12 block59 trial234 selection2337 mouseringsingle
+2338 participant12 block59 trial234 selection2338 mouseringsingle
+2339 participant12 block59 trial234 selection2339 mouseringsingle
+2340 participant12 block59 trial234 selection2340 mouseringsingle
+2341 participant12 block59 trial235 selection2341        airmouse
+2342 participant12 block59 trial235 selection2342        airmouse
+2343 participant12 block59 trial235 selection2343        airmouse
+2344 participant12 block59 trial235 selection2344        airmouse
+2345 participant12 block59 trial235 selection2345        airmouse
+2346 participant12 block59 trial235 selection2346        airmouse
+2347 participant12 block59 trial235 selection2347        airmouse
+2348 participant12 block59 trial235 selection2348        airmouse
+2349 participant12 block59 trial235 selection2349        airmouse
+2350 participant12 block59 trial235 selection2350        airmouse
+2351 participant12 block59 trial236 selection2351        touchpad
+2352 participant12 block59 trial236 selection2352        touchpad
+2353 participant12 block59 trial236 selection2353        touchpad
+2354 participant12 block59 trial236 selection2354        touchpad
+2355 participant12 block59 trial236 selection2355        touchpad
+2356 participant12 block59 trial236 selection2356        touchpad
+2357 participant12 block59 trial236 selection2357        touchpad
+2358 participant12 block59 trial236 selection2358        touchpad
+2359 participant12 block59 trial236 selection2359        touchpad
+2360 participant12 block59 trial236 selection2360        touchpad
+2361 participant12 block60 trial237 selection2361 mouseringsingle
+2362 participant12 block60 trial237 selection2362 mouseringsingle
+2363 participant12 block60 trial237 selection2363 mouseringsingle
+2364 participant12 block60 trial237 selection2364 mouseringsingle
+2365 participant12 block60 trial237 selection2365 mouseringsingle
+2366 participant12 block60 trial237 selection2366 mouseringsingle
+2367 participant12 block60 trial237 selection2367 mouseringsingle
+2368 participant12 block60 trial237 selection2368 mouseringsingle
+2369 participant12 block60 trial237 selection2369 mouseringsingle
+2370 participant12 block60 trial237 selection2370 mouseringsingle
+2371 participant12 block60 trial238 selection2371        airmouse
+2372 participant12 block60 trial238 selection2372        airmouse
+2373 participant12 block60 trial238 selection2373        airmouse
+2374 participant12 block60 trial238 selection2374        airmouse
+2375 participant12 block60 trial238 selection2375        airmouse
+2376 participant12 block60 trial238 selection2376        airmouse
+2377 participant12 block60 trial238 selection2377        airmouse
+2378 participant12 block60 trial238 selection2378        airmouse
+2379 participant12 block60 trial238 selection2379        airmouse
+2380 participant12 block60 trial238 selection2380        airmouse
+2381 participant12 block60 trial239 selection2381        touchpad
+2382 participant12 block60 trial239 selection2382        touchpad
+2383 participant12 block60 trial239 selection2383        touchpad
+2384 participant12 block60 trial239 selection2384        touchpad
+2385 participant12 block60 trial239 selection2385        touchpad
+2386 participant12 block60 trial239 selection2386        touchpad
+2387 participant12 block60 trial239 selection2387        touchpad
+2388 participant12 block60 trial239 selection2388        touchpad
+2389 participant12 block60 trial239 selection2389        touchpad
+2390 participant12 block60 trial239 selection2390        touchpad
+2391 participant12 block60 trial240 selection2391 mouseringdouble
+2392 participant12 block60 trial240 selection2392 mouseringdouble
+2393 participant12 block60 trial240 selection2393 mouseringdouble
+2394 participant12 block60 trial240 selection2394 mouseringdouble
+2395 participant12 block60 trial240 selection2395 mouseringdouble
+2396 participant12 block60 trial240 selection2396 mouseringdouble
+2397 participant12 block60 trial240 selection2397 mouseringdouble
+2398 participant12 block60 trial240 selection2398 mouseringdouble
+2399 participant12 block60 trial240 selection2399 mouseringdouble
+2400 participant12 block60 trial240 selection2400 mouseringdouble

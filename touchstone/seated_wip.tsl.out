@@ -1,0 +1,158 @@
+[
+  [ 'fore', 'straight' ],
+  [ 'fore', 'back' ],
+  [ 'fore', 'desk' ],
+  [ 'rear', 'straight' ],
+  [ 'rear', 'back' ],
+  [ 'rear', 'desk' ],
+  [ 'full', 'straight' ],
+  [ 'full', 'back' ],
+  [ 'full', 'desk' ]
+]
+[
+  [
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'full', 'back', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'full', 'back', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'full', 'desk', [length]: 2 ],
+    [length]: 9
+  ],
+  [
+    [ 'full', 'desk', [length]: 2 ],
+    [ 'fore', 'back', [length]: 2 ],
+    [ 'rear', 'back', [length]: 2 ],
+    [ 'rear', 'straight', [length]: 2 ],
+    [ 'rear', 'desk', [length]: 2 ],
+    [ 'full', 'straight', [length]: 2 ],
+    [ 'full', 'back', [length]: 2 ],
+    [ 'fore', 'desk', [length]: 2 ],
+    [ 'fore', 'straight', [length]: 2 ],
+    [length]: 9
+  ],
+  [length]: 12
+]

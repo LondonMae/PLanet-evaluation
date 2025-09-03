@@ -1,0 +1,868 @@
+# An edibble: 864 x 9
+      inner_r  inner_c   inner  outer_r  outer_c   outer    trial intensity        ve
+      <U(18)>   <U(3)> <U(54)>   <U(4)>   <U(4)> <U(16)> <U(864)>    <T(3)>    <T(4)>
+        <chr>    <chr>   <chr>    <chr>    <chr>   <chr>    <chr>     <chr>     <chr>
+  1 inner_r01 inner_c1 inner01 outer_r1 outer_c1 outer01 trial001      high  calmness
+  2 inner_r01 inner_c2 inner02 outer_r1 outer_c1 outer01 trial002       low  calmness
+  3 inner_r01 inner_c3 inner03 outer_r1 outer_c1 outer01 trial003    medium  calmness
+  4 inner_r02 inner_c1 inner04 outer_r1 outer_c1 outer01 trial004    medium  calmness
+  5 inner_r02 inner_c2 inner05 outer_r1 outer_c1 outer01 trial005      high  calmness
+  6 inner_r02 inner_c3 inner06 outer_r1 outer_c1 outer01 trial006       low  calmness
+  7 inner_r03 inner_c1 inner07 outer_r1 outer_c1 outer01 trial007       low  calmness
+  8 inner_r03 inner_c2 inner08 outer_r1 outer_c1 outer01 trial008    medium  calmness
+  9 inner_r03 inner_c3 inner09 outer_r1 outer_c1 outer01 trial009      high  calmness
+ 10 inner_r04 inner_c1 inner10 outer_r1 outer_c1 outer01 trial010       low  calmness
+ 11 inner_r04 inner_c2 inner11 outer_r1 outer_c1 outer01 trial011      high  calmness
+ 12 inner_r04 inner_c3 inner12 outer_r1 outer_c1 outer01 trial012    medium  calmness
+ 13 inner_r05 inner_c1 inner13 outer_r1 outer_c1 outer01 trial013      high  calmness
+ 14 inner_r05 inner_c2 inner14 outer_r1 outer_c1 outer01 trial014    medium  calmness
+ 15 inner_r05 inner_c3 inner15 outer_r1 outer_c1 outer01 trial015       low  calmness
+ 16 inner_r06 inner_c1 inner16 outer_r1 outer_c1 outer01 trial016    medium  calmness
+ 17 inner_r06 inner_c2 inner17 outer_r1 outer_c1 outer01 trial017       low  calmness
+ 18 inner_r06 inner_c3 inner18 outer_r1 outer_c1 outer01 trial018      high  calmness
+ 19 inner_r07 inner_c1 inner19 outer_r1 outer_c1 outer01 trial019      high  calmness
+ 20 inner_r07 inner_c2 inner20 outer_r1 outer_c1 outer01 trial020    medium  calmness
+ 21 inner_r07 inner_c3 inner21 outer_r1 outer_c1 outer01 trial021       low  calmness
+ 22 inner_r08 inner_c1 inner22 outer_r1 outer_c1 outer01 trial022       low  calmness
+ 23 inner_r08 inner_c2 inner23 outer_r1 outer_c1 outer01 trial023      high  calmness
+ 24 inner_r08 inner_c3 inner24 outer_r1 outer_c1 outer01 trial024    medium  calmness
+ 25 inner_r09 inner_c1 inner25 outer_r1 outer_c1 outer01 trial025    medium  calmness
+ 26 inner_r09 inner_c2 inner26 outer_r1 outer_c1 outer01 trial026       low  calmness
+ 27 inner_r09 inner_c3 inner27 outer_r1 outer_c1 outer01 trial027      high  calmness
+ 28 inner_r10 inner_c1 inner28 outer_r1 outer_c1 outer01 trial028    medium  calmness
+ 29 inner_r10 inner_c2 inner29 outer_r1 outer_c1 outer01 trial029       low  calmness
+ 30 inner_r10 inner_c3 inner30 outer_r1 outer_c1 outer01 trial030      high  calmness
+ 31 inner_r11 inner_c1 inner31 outer_r1 outer_c1 outer01 trial031       low  calmness
+ 32 inner_r11 inner_c2 inner32 outer_r1 outer_c1 outer01 trial032      high  calmness
+ 33 inner_r11 inner_c3 inner33 outer_r1 outer_c1 outer01 trial033    medium  calmness
+ 34 inner_r12 inner_c1 inner34 outer_r1 outer_c1 outer01 trial034      high  calmness
+ 35 inner_r12 inner_c2 inner35 outer_r1 outer_c1 outer01 trial035    medium  calmness
+ 36 inner_r12 inner_c3 inner36 outer_r1 outer_c1 outer01 trial036       low  calmness
+ 37 inner_r13 inner_c1 inner37 outer_r1 outer_c1 outer01 trial037      high  calmness
+ 38 inner_r13 inner_c2 inner38 outer_r1 outer_c1 outer01 trial038    medium  calmness
+ 39 inner_r13 inner_c3 inner39 outer_r1 outer_c1 outer01 trial039       low  calmness
+ 40 inner_r14 inner_c1 inner40 outer_r1 outer_c1 outer01 trial040       low  calmness
+ 41 inner_r14 inner_c2 inner41 outer_r1 outer_c1 outer01 trial041      high  calmness
+ 42 inner_r14 inner_c3 inner42 outer_r1 outer_c1 outer01 trial042    medium  calmness
+ 43 inner_r15 inner_c1 inner43 outer_r1 outer_c1 outer01 trial043    medium  calmness
+ 44 inner_r15 inner_c2 inner44 outer_r1 outer_c1 outer01 trial044       low  calmness
+ 45 inner_r15 inner_c3 inner45 outer_r1 outer_c1 outer01 trial045      high  calmness
+ 46 inner_r16 inner_c1 inner46 outer_r1 outer_c1 outer01 trial046      high  calmness
+ 47 inner_r16 inner_c2 inner47 outer_r1 outer_c1 outer01 trial047       low  calmness
+ 48 inner_r16 inner_c3 inner48 outer_r1 outer_c1 outer01 trial048    medium  calmness
+ 49 inner_r17 inner_c1 inner49 outer_r1 outer_c1 outer01 trial049       low  calmness
+ 50 inner_r17 inner_c2 inner50 outer_r1 outer_c1 outer01 trial050    medium  calmness
+ 51 inner_r17 inner_c3 inner51 outer_r1 outer_c1 outer01 trial051      high  calmness
+ 52 inner_r18 inner_c1 inner52 outer_r1 outer_c1 outer01 trial052    medium  calmness
+ 53 inner_r18 inner_c2 inner53 outer_r1 outer_c1 outer01 trial053      high  calmness
+ 54 inner_r18 inner_c3 inner54 outer_r1 outer_c1 outer01 trial054       low  calmness
+ 55 inner_r01 inner_c1 inner01 outer_r1 outer_c2 outer02 trial055      high    stress
+ 56 inner_r01 inner_c2 inner02 outer_r1 outer_c2 outer02 trial056       low    stress
+ 57 inner_r01 inner_c3 inner03 outer_r1 outer_c2 outer02 trial057    medium    stress
+ 58 inner_r02 inner_c1 inner04 outer_r1 outer_c2 outer02 trial058    medium    stress
+ 59 inner_r02 inner_c2 inner05 outer_r1 outer_c2 outer02 trial059      high    stress
+ 60 inner_r02 inner_c3 inner06 outer_r1 outer_c2 outer02 trial060       low    stress
+ 61 inner_r03 inner_c1 inner07 outer_r1 outer_c2 outer02 trial061       low    stress
+ 62 inner_r03 inner_c2 inner08 outer_r1 outer_c2 outer02 trial062    medium    stress
+ 63 inner_r03 inner_c3 inner09 outer_r1 outer_c2 outer02 trial063      high    stress
+ 64 inner_r04 inner_c1 inner10 outer_r1 outer_c2 outer02 trial064       low    stress
+ 65 inner_r04 inner_c2 inner11 outer_r1 outer_c2 outer02 trial065      high    stress
+ 66 inner_r04 inner_c3 inner12 outer_r1 outer_c2 outer02 trial066    medium    stress
+ 67 inner_r05 inner_c1 inner13 outer_r1 outer_c2 outer02 trial067      high    stress
+ 68 inner_r05 inner_c2 inner14 outer_r1 outer_c2 outer02 trial068    medium    stress
+ 69 inner_r05 inner_c3 inner15 outer_r1 outer_c2 outer02 trial069       low    stress
+ 70 inner_r06 inner_c1 inner16 outer_r1 outer_c2 outer02 trial070    medium    stress
+ 71 inner_r06 inner_c2 inner17 outer_r1 outer_c2 outer02 trial071       low    stress
+ 72 inner_r06 inner_c3 inner18 outer_r1 outer_c2 outer02 trial072      high    stress
+ 73 inner_r07 inner_c1 inner19 outer_r1 outer_c2 outer02 trial073      high    stress
+ 74 inner_r07 inner_c2 inner20 outer_r1 outer_c2 outer02 trial074    medium    stress
+ 75 inner_r07 inner_c3 inner21 outer_r1 outer_c2 outer02 trial075       low    stress
+ 76 inner_r08 inner_c1 inner22 outer_r1 outer_c2 outer02 trial076       low    stress
+ 77 inner_r08 inner_c2 inner23 outer_r1 outer_c2 outer02 trial077      high    stress
+ 78 inner_r08 inner_c3 inner24 outer_r1 outer_c2 outer02 trial078    medium    stress
+ 79 inner_r09 inner_c1 inner25 outer_r1 outer_c2 outer02 trial079    medium    stress
+ 80 inner_r09 inner_c2 inner26 outer_r1 outer_c2 outer02 trial080       low    stress
+ 81 inner_r09 inner_c3 inner27 outer_r1 outer_c2 outer02 trial081      high    stress
+ 82 inner_r10 inner_c1 inner28 outer_r1 outer_c2 outer02 trial082    medium    stress
+ 83 inner_r10 inner_c2 inner29 outer_r1 outer_c2 outer02 trial083       low    stress
+ 84 inner_r10 inner_c3 inner30 outer_r1 outer_c2 outer02 trial084      high    stress
+ 85 inner_r11 inner_c1 inner31 outer_r1 outer_c2 outer02 trial085       low    stress
+ 86 inner_r11 inner_c2 inner32 outer_r1 outer_c2 outer02 trial086      high    stress
+ 87 inner_r11 inner_c3 inner33 outer_r1 outer_c2 outer02 trial087    medium    stress
+ 88 inner_r12 inner_c1 inner34 outer_r1 outer_c2 outer02 trial088      high    stress
+ 89 inner_r12 inner_c2 inner35 outer_r1 outer_c2 outer02 trial089    medium    stress
+ 90 inner_r12 inner_c3 inner36 outer_r1 outer_c2 outer02 trial090       low    stress
+ 91 inner_r13 inner_c1 inner37 outer_r1 outer_c2 outer02 trial091      high    stress
+ 92 inner_r13 inner_c2 inner38 outer_r1 outer_c2 outer02 trial092    medium    stress
+ 93 inner_r13 inner_c3 inner39 outer_r1 outer_c2 outer02 trial093       low    stress
+ 94 inner_r14 inner_c1 inner40 outer_r1 outer_c2 outer02 trial094       low    stress
+ 95 inner_r14 inner_c2 inner41 outer_r1 outer_c2 outer02 trial095      high    stress
+ 96 inner_r14 inner_c3 inner42 outer_r1 outer_c2 outer02 trial096    medium    stress
+ 97 inner_r15 inner_c1 inner43 outer_r1 outer_c2 outer02 trial097    medium    stress
+ 98 inner_r15 inner_c2 inner44 outer_r1 outer_c2 outer02 trial098       low    stress
+ 99 inner_r15 inner_c3 inner45 outer_r1 outer_c2 outer02 trial099      high    stress
+100 inner_r16 inner_c1 inner46 outer_r1 outer_c2 outer02 trial100      high    stress
+101 inner_r16 inner_c2 inner47 outer_r1 outer_c2 outer02 trial101       low    stress
+102 inner_r16 inner_c3 inner48 outer_r1 outer_c2 outer02 trial102    medium    stress
+103 inner_r17 inner_c1 inner49 outer_r1 outer_c2 outer02 trial103       low    stress
+104 inner_r17 inner_c2 inner50 outer_r1 outer_c2 outer02 trial104    medium    stress
+105 inner_r17 inner_c3 inner51 outer_r1 outer_c2 outer02 trial105      high    stress
+106 inner_r18 inner_c1 inner52 outer_r1 outer_c2 outer02 trial106    medium    stress
+107 inner_r18 inner_c2 inner53 outer_r1 outer_c2 outer02 trial107      high    stress
+108 inner_r18 inner_c3 inner54 outer_r1 outer_c2 outer02 trial108       low    stress
+109 inner_r01 inner_c1 inner01 outer_r1 outer_c3 outer03 trial109      high happiness
+110 inner_r01 inner_c2 inner02 outer_r1 outer_c3 outer03 trial110       low happiness
+111 inner_r01 inner_c3 inner03 outer_r1 outer_c3 outer03 trial111    medium happiness
+112 inner_r02 inner_c1 inner04 outer_r1 outer_c3 outer03 trial112    medium happiness
+113 inner_r02 inner_c2 inner05 outer_r1 outer_c3 outer03 trial113      high happiness
+114 inner_r02 inner_c3 inner06 outer_r1 outer_c3 outer03 trial114       low happiness
+115 inner_r03 inner_c1 inner07 outer_r1 outer_c3 outer03 trial115       low happiness
+116 inner_r03 inner_c2 inner08 outer_r1 outer_c3 outer03 trial116    medium happiness
+117 inner_r03 inner_c3 inner09 outer_r1 outer_c3 outer03 trial117      high happiness
+118 inner_r04 inner_c1 inner10 outer_r1 outer_c3 outer03 trial118       low happiness
+119 inner_r04 inner_c2 inner11 outer_r1 outer_c3 outer03 trial119      high happiness
+120 inner_r04 inner_c3 inner12 outer_r1 outer_c3 outer03 trial120    medium happiness
+121 inner_r05 inner_c1 inner13 outer_r1 outer_c3 outer03 trial121      high happiness
+122 inner_r05 inner_c2 inner14 outer_r1 outer_c3 outer03 trial122    medium happiness
+123 inner_r05 inner_c3 inner15 outer_r1 outer_c3 outer03 trial123       low happiness
+124 inner_r06 inner_c1 inner16 outer_r1 outer_c3 outer03 trial124    medium happiness
+125 inner_r06 inner_c2 inner17 outer_r1 outer_c3 outer03 trial125       low happiness
+126 inner_r06 inner_c3 inner18 outer_r1 outer_c3 outer03 trial126      high happiness
+127 inner_r07 inner_c1 inner19 outer_r1 outer_c3 outer03 trial127      high happiness
+128 inner_r07 inner_c2 inner20 outer_r1 outer_c3 outer03 trial128    medium happiness
+129 inner_r07 inner_c3 inner21 outer_r1 outer_c3 outer03 trial129       low happiness
+130 inner_r08 inner_c1 inner22 outer_r1 outer_c3 outer03 trial130       low happiness
+131 inner_r08 inner_c2 inner23 outer_r1 outer_c3 outer03 trial131      high happiness
+132 inner_r08 inner_c3 inner24 outer_r1 outer_c3 outer03 trial132    medium happiness
+133 inner_r09 inner_c1 inner25 outer_r1 outer_c3 outer03 trial133    medium happiness
+134 inner_r09 inner_c2 inner26 outer_r1 outer_c3 outer03 trial134       low happiness
+135 inner_r09 inner_c3 inner27 outer_r1 outer_c3 outer03 trial135      high happiness
+136 inner_r10 inner_c1 inner28 outer_r1 outer_c3 outer03 trial136    medium happiness
+137 inner_r10 inner_c2 inner29 outer_r1 outer_c3 outer03 trial137       low happiness
+138 inner_r10 inner_c3 inner30 outer_r1 outer_c3 outer03 trial138      high happiness
+139 inner_r11 inner_c1 inner31 outer_r1 outer_c3 outer03 trial139       low happiness
+140 inner_r11 inner_c2 inner32 outer_r1 outer_c3 outer03 trial140      high happiness
+141 inner_r11 inner_c3 inner33 outer_r1 outer_c3 outer03 trial141    medium happiness
+142 inner_r12 inner_c1 inner34 outer_r1 outer_c3 outer03 trial142      high happiness
+143 inner_r12 inner_c2 inner35 outer_r1 outer_c3 outer03 trial143    medium happiness
+144 inner_r12 inner_c3 inner36 outer_r1 outer_c3 outer03 trial144       low happiness
+145 inner_r13 inner_c1 inner37 outer_r1 outer_c3 outer03 trial145      high happiness
+146 inner_r13 inner_c2 inner38 outer_r1 outer_c3 outer03 trial146    medium happiness
+147 inner_r13 inner_c3 inner39 outer_r1 outer_c3 outer03 trial147       low happiness
+148 inner_r14 inner_c1 inner40 outer_r1 outer_c3 outer03 trial148       low happiness
+149 inner_r14 inner_c2 inner41 outer_r1 outer_c3 outer03 trial149      high happiness
+150 inner_r14 inner_c3 inner42 outer_r1 outer_c3 outer03 trial150    medium happiness
+151 inner_r15 inner_c1 inner43 outer_r1 outer_c3 outer03 trial151    medium happiness
+152 inner_r15 inner_c2 inner44 outer_r1 outer_c3 outer03 trial152       low happiness
+153 inner_r15 inner_c3 inner45 outer_r1 outer_c3 outer03 trial153      high happiness
+154 inner_r16 inner_c1 inner46 outer_r1 outer_c3 outer03 trial154      high happiness
+155 inner_r16 inner_c2 inner47 outer_r1 outer_c3 outer03 trial155       low happiness
+156 inner_r16 inner_c3 inner48 outer_r1 outer_c3 outer03 trial156    medium happiness
+157 inner_r17 inner_c1 inner49 outer_r1 outer_c3 outer03 trial157       low happiness
+158 inner_r17 inner_c2 inner50 outer_r1 outer_c3 outer03 trial158    medium happiness
+159 inner_r17 inner_c3 inner51 outer_r1 outer_c3 outer03 trial159      high happiness
+160 inner_r18 inner_c1 inner52 outer_r1 outer_c3 outer03 trial160    medium happiness
+161 inner_r18 inner_c2 inner53 outer_r1 outer_c3 outer03 trial161      high happiness
+162 inner_r18 inner_c3 inner54 outer_r1 outer_c3 outer03 trial162       low happiness
+163 inner_r01 inner_c1 inner01 outer_r1 outer_c4 outer04 trial163      high   sadness
+164 inner_r01 inner_c2 inner02 outer_r1 outer_c4 outer04 trial164       low   sadness
+165 inner_r01 inner_c3 inner03 outer_r1 outer_c4 outer04 trial165    medium   sadness
+166 inner_r02 inner_c1 inner04 outer_r1 outer_c4 outer04 trial166    medium   sadness
+167 inner_r02 inner_c2 inner05 outer_r1 outer_c4 outer04 trial167      high   sadness
+168 inner_r02 inner_c3 inner06 outer_r1 outer_c4 outer04 trial168       low   sadness
+169 inner_r03 inner_c1 inner07 outer_r1 outer_c4 outer04 trial169       low   sadness
+170 inner_r03 inner_c2 inner08 outer_r1 outer_c4 outer04 trial170    medium   sadness
+171 inner_r03 inner_c3 inner09 outer_r1 outer_c4 outer04 trial171      high   sadness
+172 inner_r04 inner_c1 inner10 outer_r1 outer_c4 outer04 trial172       low   sadness
+173 inner_r04 inner_c2 inner11 outer_r1 outer_c4 outer04 trial173      high   sadness
+174 inner_r04 inner_c3 inner12 outer_r1 outer_c4 outer04 trial174    medium   sadness
+175 inner_r05 inner_c1 inner13 outer_r1 outer_c4 outer04 trial175      high   sadness
+176 inner_r05 inner_c2 inner14 outer_r1 outer_c4 outer04 trial176    medium   sadness
+177 inner_r05 inner_c3 inner15 outer_r1 outer_c4 outer04 trial177       low   sadness
+178 inner_r06 inner_c1 inner16 outer_r1 outer_c4 outer04 trial178    medium   sadness
+179 inner_r06 inner_c2 inner17 outer_r1 outer_c4 outer04 trial179       low   sadness
+180 inner_r06 inner_c3 inner18 outer_r1 outer_c4 outer04 trial180      high   sadness
+181 inner_r07 inner_c1 inner19 outer_r1 outer_c4 outer04 trial181      high   sadness
+182 inner_r07 inner_c2 inner20 outer_r1 outer_c4 outer04 trial182    medium   sadness
+183 inner_r07 inner_c3 inner21 outer_r1 outer_c4 outer04 trial183       low   sadness
+184 inner_r08 inner_c1 inner22 outer_r1 outer_c4 outer04 trial184       low   sadness
+185 inner_r08 inner_c2 inner23 outer_r1 outer_c4 outer04 trial185      high   sadness
+186 inner_r08 inner_c3 inner24 outer_r1 outer_c4 outer04 trial186    medium   sadness
+187 inner_r09 inner_c1 inner25 outer_r1 outer_c4 outer04 trial187    medium   sadness
+188 inner_r09 inner_c2 inner26 outer_r1 outer_c4 outer04 trial188       low   sadness
+189 inner_r09 inner_c3 inner27 outer_r1 outer_c4 outer04 trial189      high   sadness
+190 inner_r10 inner_c1 inner28 outer_r1 outer_c4 outer04 trial190    medium   sadness
+191 inner_r10 inner_c2 inner29 outer_r1 outer_c4 outer04 trial191       low   sadness
+192 inner_r10 inner_c3 inner30 outer_r1 outer_c4 outer04 trial192      high   sadness
+193 inner_r11 inner_c1 inner31 outer_r1 outer_c4 outer04 trial193       low   sadness
+194 inner_r11 inner_c2 inner32 outer_r1 outer_c4 outer04 trial194      high   sadness
+195 inner_r11 inner_c3 inner33 outer_r1 outer_c4 outer04 trial195    medium   sadness
+196 inner_r12 inner_c1 inner34 outer_r1 outer_c4 outer04 trial196      high   sadness
+197 inner_r12 inner_c2 inner35 outer_r1 outer_c4 outer04 trial197    medium   sadness
+198 inner_r12 inner_c3 inner36 outer_r1 outer_c4 outer04 trial198       low   sadness
+199 inner_r13 inner_c1 inner37 outer_r1 outer_c4 outer04 trial199      high   sadness
+200 inner_r13 inner_c2 inner38 outer_r1 outer_c4 outer04 trial200    medium   sadness
+201 inner_r13 inner_c3 inner39 outer_r1 outer_c4 outer04 trial201       low   sadness
+202 inner_r14 inner_c1 inner40 outer_r1 outer_c4 outer04 trial202       low   sadness
+203 inner_r14 inner_c2 inner41 outer_r1 outer_c4 outer04 trial203      high   sadness
+204 inner_r14 inner_c3 inner42 outer_r1 outer_c4 outer04 trial204    medium   sadness
+205 inner_r15 inner_c1 inner43 outer_r1 outer_c4 outer04 trial205    medium   sadness
+206 inner_r15 inner_c2 inner44 outer_r1 outer_c4 outer04 trial206       low   sadness
+207 inner_r15 inner_c3 inner45 outer_r1 outer_c4 outer04 trial207      high   sadness
+208 inner_r16 inner_c1 inner46 outer_r1 outer_c4 outer04 trial208      high   sadness
+209 inner_r16 inner_c2 inner47 outer_r1 outer_c4 outer04 trial209       low   sadness
+210 inner_r16 inner_c3 inner48 outer_r1 outer_c4 outer04 trial210    medium   sadness
+211 inner_r17 inner_c1 inner49 outer_r1 outer_c4 outer04 trial211       low   sadness
+212 inner_r17 inner_c2 inner50 outer_r1 outer_c4 outer04 trial212    medium   sadness
+213 inner_r17 inner_c3 inner51 outer_r1 outer_c4 outer04 trial213      high   sadness
+214 inner_r18 inner_c1 inner52 outer_r1 outer_c4 outer04 trial214    medium   sadness
+215 inner_r18 inner_c2 inner53 outer_r1 outer_c4 outer04 trial215      high   sadness
+216 inner_r18 inner_c3 inner54 outer_r1 outer_c4 outer04 trial216       low   sadness
+217 inner_r01 inner_c1 inner01 outer_r2 outer_c1 outer05 trial217      high happiness
+218 inner_r01 inner_c2 inner02 outer_r2 outer_c1 outer05 trial218       low happiness
+219 inner_r01 inner_c3 inner03 outer_r2 outer_c1 outer05 trial219    medium happiness
+220 inner_r02 inner_c1 inner04 outer_r2 outer_c1 outer05 trial220    medium happiness
+221 inner_r02 inner_c2 inner05 outer_r2 outer_c1 outer05 trial221      high happiness
+222 inner_r02 inner_c3 inner06 outer_r2 outer_c1 outer05 trial222       low happiness
+223 inner_r03 inner_c1 inner07 outer_r2 outer_c1 outer05 trial223       low happiness
+224 inner_r03 inner_c2 inner08 outer_r2 outer_c1 outer05 trial224    medium happiness
+225 inner_r03 inner_c3 inner09 outer_r2 outer_c1 outer05 trial225      high happiness
+226 inner_r04 inner_c1 inner10 outer_r2 outer_c1 outer05 trial226       low happiness
+227 inner_r04 inner_c2 inner11 outer_r2 outer_c1 outer05 trial227      high happiness
+228 inner_r04 inner_c3 inner12 outer_r2 outer_c1 outer05 trial228    medium happiness
+229 inner_r05 inner_c1 inner13 outer_r2 outer_c1 outer05 trial229      high happiness
+230 inner_r05 inner_c2 inner14 outer_r2 outer_c1 outer05 trial230    medium happiness
+231 inner_r05 inner_c3 inner15 outer_r2 outer_c1 outer05 trial231       low happiness
+232 inner_r06 inner_c1 inner16 outer_r2 outer_c1 outer05 trial232    medium happiness
+233 inner_r06 inner_c2 inner17 outer_r2 outer_c1 outer05 trial233       low happiness
+234 inner_r06 inner_c3 inner18 outer_r2 outer_c1 outer05 trial234      high happiness
+235 inner_r07 inner_c1 inner19 outer_r2 outer_c1 outer05 trial235      high happiness
+236 inner_r07 inner_c2 inner20 outer_r2 outer_c1 outer05 trial236    medium happiness
+237 inner_r07 inner_c3 inner21 outer_r2 outer_c1 outer05 trial237       low happiness
+238 inner_r08 inner_c1 inner22 outer_r2 outer_c1 outer05 trial238       low happiness
+239 inner_r08 inner_c2 inner23 outer_r2 outer_c1 outer05 trial239      high happiness
+240 inner_r08 inner_c3 inner24 outer_r2 outer_c1 outer05 trial240    medium happiness
+241 inner_r09 inner_c1 inner25 outer_r2 outer_c1 outer05 trial241    medium happiness
+242 inner_r09 inner_c2 inner26 outer_r2 outer_c1 outer05 trial242       low happiness
+243 inner_r09 inner_c3 inner27 outer_r2 outer_c1 outer05 trial243      high happiness
+244 inner_r10 inner_c1 inner28 outer_r2 outer_c1 outer05 trial244    medium happiness
+245 inner_r10 inner_c2 inner29 outer_r2 outer_c1 outer05 trial245       low happiness
+246 inner_r10 inner_c3 inner30 outer_r2 outer_c1 outer05 trial246      high happiness
+247 inner_r11 inner_c1 inner31 outer_r2 outer_c1 outer05 trial247       low happiness
+248 inner_r11 inner_c2 inner32 outer_r2 outer_c1 outer05 trial248      high happiness
+249 inner_r11 inner_c3 inner33 outer_r2 outer_c1 outer05 trial249    medium happiness
+250 inner_r12 inner_c1 inner34 outer_r2 outer_c1 outer05 trial250      high happiness
+251 inner_r12 inner_c2 inner35 outer_r2 outer_c1 outer05 trial251    medium happiness
+252 inner_r12 inner_c3 inner36 outer_r2 outer_c1 outer05 trial252       low happiness
+253 inner_r13 inner_c1 inner37 outer_r2 outer_c1 outer05 trial253      high happiness
+254 inner_r13 inner_c2 inner38 outer_r2 outer_c1 outer05 trial254    medium happiness
+255 inner_r13 inner_c3 inner39 outer_r2 outer_c1 outer05 trial255       low happiness
+256 inner_r14 inner_c1 inner40 outer_r2 outer_c1 outer05 trial256       low happiness
+257 inner_r14 inner_c2 inner41 outer_r2 outer_c1 outer05 trial257      high happiness
+258 inner_r14 inner_c3 inner42 outer_r2 outer_c1 outer05 trial258    medium happiness
+259 inner_r15 inner_c1 inner43 outer_r2 outer_c1 outer05 trial259    medium happiness
+260 inner_r15 inner_c2 inner44 outer_r2 outer_c1 outer05 trial260       low happiness
+261 inner_r15 inner_c3 inner45 outer_r2 outer_c1 outer05 trial261      high happiness
+262 inner_r16 inner_c1 inner46 outer_r2 outer_c1 outer05 trial262      high happiness
+263 inner_r16 inner_c2 inner47 outer_r2 outer_c1 outer05 trial263       low happiness
+264 inner_r16 inner_c3 inner48 outer_r2 outer_c1 outer05 trial264    medium happiness
+265 inner_r17 inner_c1 inner49 outer_r2 outer_c1 outer05 trial265       low happiness
+266 inner_r17 inner_c2 inner50 outer_r2 outer_c1 outer05 trial266    medium happiness
+267 inner_r17 inner_c3 inner51 outer_r2 outer_c1 outer05 trial267      high happiness
+268 inner_r18 inner_c1 inner52 outer_r2 outer_c1 outer05 trial268    medium happiness
+269 inner_r18 inner_c2 inner53 outer_r2 outer_c1 outer05 trial269      high happiness
+270 inner_r18 inner_c3 inner54 outer_r2 outer_c1 outer05 trial270       low happiness
+271 inner_r01 inner_c1 inner01 outer_r2 outer_c2 outer06 trial271      high  calmness
+272 inner_r01 inner_c2 inner02 outer_r2 outer_c2 outer06 trial272       low  calmness
+273 inner_r01 inner_c3 inner03 outer_r2 outer_c2 outer06 trial273    medium  calmness
+274 inner_r02 inner_c1 inner04 outer_r2 outer_c2 outer06 trial274    medium  calmness
+275 inner_r02 inner_c2 inner05 outer_r2 outer_c2 outer06 trial275      high  calmness
+276 inner_r02 inner_c3 inner06 outer_r2 outer_c2 outer06 trial276       low  calmness
+277 inner_r03 inner_c1 inner07 outer_r2 outer_c2 outer06 trial277       low  calmness
+278 inner_r03 inner_c2 inner08 outer_r2 outer_c2 outer06 trial278    medium  calmness
+279 inner_r03 inner_c3 inner09 outer_r2 outer_c2 outer06 trial279      high  calmness
+280 inner_r04 inner_c1 inner10 outer_r2 outer_c2 outer06 trial280       low  calmness
+281 inner_r04 inner_c2 inner11 outer_r2 outer_c2 outer06 trial281      high  calmness
+282 inner_r04 inner_c3 inner12 outer_r2 outer_c2 outer06 trial282    medium  calmness
+283 inner_r05 inner_c1 inner13 outer_r2 outer_c2 outer06 trial283      high  calmness
+284 inner_r05 inner_c2 inner14 outer_r2 outer_c2 outer06 trial284    medium  calmness
+285 inner_r05 inner_c3 inner15 outer_r2 outer_c2 outer06 trial285       low  calmness
+286 inner_r06 inner_c1 inner16 outer_r2 outer_c2 outer06 trial286    medium  calmness
+287 inner_r06 inner_c2 inner17 outer_r2 outer_c2 outer06 trial287       low  calmness
+288 inner_r06 inner_c3 inner18 outer_r2 outer_c2 outer06 trial288      high  calmness
+289 inner_r07 inner_c1 inner19 outer_r2 outer_c2 outer06 trial289      high  calmness
+290 inner_r07 inner_c2 inner20 outer_r2 outer_c2 outer06 trial290    medium  calmness
+291 inner_r07 inner_c3 inner21 outer_r2 outer_c2 outer06 trial291       low  calmness
+292 inner_r08 inner_c1 inner22 outer_r2 outer_c2 outer06 trial292       low  calmness
+293 inner_r08 inner_c2 inner23 outer_r2 outer_c2 outer06 trial293      high  calmness
+294 inner_r08 inner_c3 inner24 outer_r2 outer_c2 outer06 trial294    medium  calmness
+295 inner_r09 inner_c1 inner25 outer_r2 outer_c2 outer06 trial295    medium  calmness
+296 inner_r09 inner_c2 inner26 outer_r2 outer_c2 outer06 trial296       low  calmness
+297 inner_r09 inner_c3 inner27 outer_r2 outer_c2 outer06 trial297      high  calmness
+298 inner_r10 inner_c1 inner28 outer_r2 outer_c2 outer06 trial298    medium  calmness
+299 inner_r10 inner_c2 inner29 outer_r2 outer_c2 outer06 trial299       low  calmness
+300 inner_r10 inner_c3 inner30 outer_r2 outer_c2 outer06 trial300      high  calmness
+301 inner_r11 inner_c1 inner31 outer_r2 outer_c2 outer06 trial301       low  calmness
+302 inner_r11 inner_c2 inner32 outer_r2 outer_c2 outer06 trial302      high  calmness
+303 inner_r11 inner_c3 inner33 outer_r2 outer_c2 outer06 trial303    medium  calmness
+304 inner_r12 inner_c1 inner34 outer_r2 outer_c2 outer06 trial304      high  calmness
+305 inner_r12 inner_c2 inner35 outer_r2 outer_c2 outer06 trial305    medium  calmness
+306 inner_r12 inner_c3 inner36 outer_r2 outer_c2 outer06 trial306       low  calmness
+307 inner_r13 inner_c1 inner37 outer_r2 outer_c2 outer06 trial307      high  calmness
+308 inner_r13 inner_c2 inner38 outer_r2 outer_c2 outer06 trial308    medium  calmness
+309 inner_r13 inner_c3 inner39 outer_r2 outer_c2 outer06 trial309       low  calmness
+310 inner_r14 inner_c1 inner40 outer_r2 outer_c2 outer06 trial310       low  calmness
+311 inner_r14 inner_c2 inner41 outer_r2 outer_c2 outer06 trial311      high  calmness
+312 inner_r14 inner_c3 inner42 outer_r2 outer_c2 outer06 trial312    medium  calmness
+313 inner_r15 inner_c1 inner43 outer_r2 outer_c2 outer06 trial313    medium  calmness
+314 inner_r15 inner_c2 inner44 outer_r2 outer_c2 outer06 trial314       low  calmness
+315 inner_r15 inner_c3 inner45 outer_r2 outer_c2 outer06 trial315      high  calmness
+316 inner_r16 inner_c1 inner46 outer_r2 outer_c2 outer06 trial316      high  calmness
+317 inner_r16 inner_c2 inner47 outer_r2 outer_c2 outer06 trial317       low  calmness
+318 inner_r16 inner_c3 inner48 outer_r2 outer_c2 outer06 trial318    medium  calmness
+319 inner_r17 inner_c1 inner49 outer_r2 outer_c2 outer06 trial319       low  calmness
+320 inner_r17 inner_c2 inner50 outer_r2 outer_c2 outer06 trial320    medium  calmness
+321 inner_r17 inner_c3 inner51 outer_r2 outer_c2 outer06 trial321      high  calmness
+322 inner_r18 inner_c1 inner52 outer_r2 outer_c2 outer06 trial322    medium  calmness
+323 inner_r18 inner_c2 inner53 outer_r2 outer_c2 outer06 trial323      high  calmness
+324 inner_r18 inner_c3 inner54 outer_r2 outer_c2 outer06 trial324       low  calmness
+325 inner_r01 inner_c1 inner01 outer_r2 outer_c3 outer07 trial325      high   sadness
+326 inner_r01 inner_c2 inner02 outer_r2 outer_c3 outer07 trial326       low   sadness
+327 inner_r01 inner_c3 inner03 outer_r2 outer_c3 outer07 trial327    medium   sadness
+328 inner_r02 inner_c1 inner04 outer_r2 outer_c3 outer07 trial328    medium   sadness
+329 inner_r02 inner_c2 inner05 outer_r2 outer_c3 outer07 trial329      high   sadness
+330 inner_r02 inner_c3 inner06 outer_r2 outer_c3 outer07 trial330       low   sadness
+331 inner_r03 inner_c1 inner07 outer_r2 outer_c3 outer07 trial331       low   sadness
+332 inner_r03 inner_c2 inner08 outer_r2 outer_c3 outer07 trial332    medium   sadness
+333 inner_r03 inner_c3 inner09 outer_r2 outer_c3 outer07 trial333      high   sadness
+334 inner_r04 inner_c1 inner10 outer_r2 outer_c3 outer07 trial334       low   sadness
+335 inner_r04 inner_c2 inner11 outer_r2 outer_c3 outer07 trial335      high   sadness
+336 inner_r04 inner_c3 inner12 outer_r2 outer_c3 outer07 trial336    medium   sadness
+337 inner_r05 inner_c1 inner13 outer_r2 outer_c3 outer07 trial337      high   sadness
+338 inner_r05 inner_c2 inner14 outer_r2 outer_c3 outer07 trial338    medium   sadness
+339 inner_r05 inner_c3 inner15 outer_r2 outer_c3 outer07 trial339       low   sadness
+340 inner_r06 inner_c1 inner16 outer_r2 outer_c3 outer07 trial340    medium   sadness
+341 inner_r06 inner_c2 inner17 outer_r2 outer_c3 outer07 trial341       low   sadness
+342 inner_r06 inner_c3 inner18 outer_r2 outer_c3 outer07 trial342      high   sadness
+343 inner_r07 inner_c1 inner19 outer_r2 outer_c3 outer07 trial343      high   sadness
+344 inner_r07 inner_c2 inner20 outer_r2 outer_c3 outer07 trial344    medium   sadness
+345 inner_r07 inner_c3 inner21 outer_r2 outer_c3 outer07 trial345       low   sadness
+346 inner_r08 inner_c1 inner22 outer_r2 outer_c3 outer07 trial346       low   sadness
+347 inner_r08 inner_c2 inner23 outer_r2 outer_c3 outer07 trial347      high   sadness
+348 inner_r08 inner_c3 inner24 outer_r2 outer_c3 outer07 trial348    medium   sadness
+349 inner_r09 inner_c1 inner25 outer_r2 outer_c3 outer07 trial349    medium   sadness
+350 inner_r09 inner_c2 inner26 outer_r2 outer_c3 outer07 trial350       low   sadness
+351 inner_r09 inner_c3 inner27 outer_r2 outer_c3 outer07 trial351      high   sadness
+352 inner_r10 inner_c1 inner28 outer_r2 outer_c3 outer07 trial352    medium   sadness
+353 inner_r10 inner_c2 inner29 outer_r2 outer_c3 outer07 trial353       low   sadness
+354 inner_r10 inner_c3 inner30 outer_r2 outer_c3 outer07 trial354      high   sadness
+355 inner_r11 inner_c1 inner31 outer_r2 outer_c3 outer07 trial355       low   sadness
+356 inner_r11 inner_c2 inner32 outer_r2 outer_c3 outer07 trial356      high   sadness
+357 inner_r11 inner_c3 inner33 outer_r2 outer_c3 outer07 trial357    medium   sadness
+358 inner_r12 inner_c1 inner34 outer_r2 outer_c3 outer07 trial358      high   sadness
+359 inner_r12 inner_c2 inner35 outer_r2 outer_c3 outer07 trial359    medium   sadness
+360 inner_r12 inner_c3 inner36 outer_r2 outer_c3 outer07 trial360       low   sadness
+361 inner_r13 inner_c1 inner37 outer_r2 outer_c3 outer07 trial361      high   sadness
+362 inner_r13 inner_c2 inner38 outer_r2 outer_c3 outer07 trial362    medium   sadness
+363 inner_r13 inner_c3 inner39 outer_r2 outer_c3 outer07 trial363       low   sadness
+364 inner_r14 inner_c1 inner40 outer_r2 outer_c3 outer07 trial364       low   sadness
+365 inner_r14 inner_c2 inner41 outer_r2 outer_c3 outer07 trial365      high   sadness
+366 inner_r14 inner_c3 inner42 outer_r2 outer_c3 outer07 trial366    medium   sadness
+367 inner_r15 inner_c1 inner43 outer_r2 outer_c3 outer07 trial367    medium   sadness
+368 inner_r15 inner_c2 inner44 outer_r2 outer_c3 outer07 trial368       low   sadness
+369 inner_r15 inner_c3 inner45 outer_r2 outer_c3 outer07 trial369      high   sadness
+370 inner_r16 inner_c1 inner46 outer_r2 outer_c3 outer07 trial370      high   sadness
+371 inner_r16 inner_c2 inner47 outer_r2 outer_c3 outer07 trial371       low   sadness
+372 inner_r16 inner_c3 inner48 outer_r2 outer_c3 outer07 trial372    medium   sadness
+373 inner_r17 inner_c1 inner49 outer_r2 outer_c3 outer07 trial373       low   sadness
+374 inner_r17 inner_c2 inner50 outer_r2 outer_c3 outer07 trial374    medium   sadness
+375 inner_r17 inner_c3 inner51 outer_r2 outer_c3 outer07 trial375      high   sadness
+376 inner_r18 inner_c1 inner52 outer_r2 outer_c3 outer07 trial376    medium   sadness
+377 inner_r18 inner_c2 inner53 outer_r2 outer_c3 outer07 trial377      high   sadness
+378 inner_r18 inner_c3 inner54 outer_r2 outer_c3 outer07 trial378       low   sadness
+379 inner_r01 inner_c1 inner01 outer_r2 outer_c4 outer08 trial379      high    stress
+380 inner_r01 inner_c2 inner02 outer_r2 outer_c4 outer08 trial380       low    stress
+381 inner_r01 inner_c3 inner03 outer_r2 outer_c4 outer08 trial381    medium    stress
+382 inner_r02 inner_c1 inner04 outer_r2 outer_c4 outer08 trial382    medium    stress
+383 inner_r02 inner_c2 inner05 outer_r2 outer_c4 outer08 trial383      high    stress
+384 inner_r02 inner_c3 inner06 outer_r2 outer_c4 outer08 trial384       low    stress
+385 inner_r03 inner_c1 inner07 outer_r2 outer_c4 outer08 trial385       low    stress
+386 inner_r03 inner_c2 inner08 outer_r2 outer_c4 outer08 trial386    medium    stress
+387 inner_r03 inner_c3 inner09 outer_r2 outer_c4 outer08 trial387      high    stress
+388 inner_r04 inner_c1 inner10 outer_r2 outer_c4 outer08 trial388       low    stress
+389 inner_r04 inner_c2 inner11 outer_r2 outer_c4 outer08 trial389      high    stress
+390 inner_r04 inner_c3 inner12 outer_r2 outer_c4 outer08 trial390    medium    stress
+391 inner_r05 inner_c1 inner13 outer_r2 outer_c4 outer08 trial391      high    stress
+392 inner_r05 inner_c2 inner14 outer_r2 outer_c4 outer08 trial392    medium    stress
+393 inner_r05 inner_c3 inner15 outer_r2 outer_c4 outer08 trial393       low    stress
+394 inner_r06 inner_c1 inner16 outer_r2 outer_c4 outer08 trial394    medium    stress
+395 inner_r06 inner_c2 inner17 outer_r2 outer_c4 outer08 trial395       low    stress
+396 inner_r06 inner_c3 inner18 outer_r2 outer_c4 outer08 trial396      high    stress
+397 inner_r07 inner_c1 inner19 outer_r2 outer_c4 outer08 trial397      high    stress
+398 inner_r07 inner_c2 inner20 outer_r2 outer_c4 outer08 trial398    medium    stress
+399 inner_r07 inner_c3 inner21 outer_r2 outer_c4 outer08 trial399       low    stress
+400 inner_r08 inner_c1 inner22 outer_r2 outer_c4 outer08 trial400       low    stress
+401 inner_r08 inner_c2 inner23 outer_r2 outer_c4 outer08 trial401      high    stress
+402 inner_r08 inner_c3 inner24 outer_r2 outer_c4 outer08 trial402    medium    stress
+403 inner_r09 inner_c1 inner25 outer_r2 outer_c4 outer08 trial403    medium    stress
+404 inner_r09 inner_c2 inner26 outer_r2 outer_c4 outer08 trial404       low    stress
+405 inner_r09 inner_c3 inner27 outer_r2 outer_c4 outer08 trial405      high    stress
+406 inner_r10 inner_c1 inner28 outer_r2 outer_c4 outer08 trial406    medium    stress
+407 inner_r10 inner_c2 inner29 outer_r2 outer_c4 outer08 trial407       low    stress
+408 inner_r10 inner_c3 inner30 outer_r2 outer_c4 outer08 trial408      high    stress
+409 inner_r11 inner_c1 inner31 outer_r2 outer_c4 outer08 trial409       low    stress
+410 inner_r11 inner_c2 inner32 outer_r2 outer_c4 outer08 trial410      high    stress
+411 inner_r11 inner_c3 inner33 outer_r2 outer_c4 outer08 trial411    medium    stress
+412 inner_r12 inner_c1 inner34 outer_r2 outer_c4 outer08 trial412      high    stress
+413 inner_r12 inner_c2 inner35 outer_r2 outer_c4 outer08 trial413    medium    stress
+414 inner_r12 inner_c3 inner36 outer_r2 outer_c4 outer08 trial414       low    stress
+415 inner_r13 inner_c1 inner37 outer_r2 outer_c4 outer08 trial415      high    stress
+416 inner_r13 inner_c2 inner38 outer_r2 outer_c4 outer08 trial416    medium    stress
+417 inner_r13 inner_c3 inner39 outer_r2 outer_c4 outer08 trial417       low    stress
+418 inner_r14 inner_c1 inner40 outer_r2 outer_c4 outer08 trial418       low    stress
+419 inner_r14 inner_c2 inner41 outer_r2 outer_c4 outer08 trial419      high    stress
+420 inner_r14 inner_c3 inner42 outer_r2 outer_c4 outer08 trial420    medium    stress
+421 inner_r15 inner_c1 inner43 outer_r2 outer_c4 outer08 trial421    medium    stress
+422 inner_r15 inner_c2 inner44 outer_r2 outer_c4 outer08 trial422       low    stress
+423 inner_r15 inner_c3 inner45 outer_r2 outer_c4 outer08 trial423      high    stress
+424 inner_r16 inner_c1 inner46 outer_r2 outer_c4 outer08 trial424      high    stress
+425 inner_r16 inner_c2 inner47 outer_r2 outer_c4 outer08 trial425       low    stress
+426 inner_r16 inner_c3 inner48 outer_r2 outer_c4 outer08 trial426    medium    stress
+427 inner_r17 inner_c1 inner49 outer_r2 outer_c4 outer08 trial427       low    stress
+428 inner_r17 inner_c2 inner50 outer_r2 outer_c4 outer08 trial428    medium    stress
+429 inner_r17 inner_c3 inner51 outer_r2 outer_c4 outer08 trial429      high    stress
+430 inner_r18 inner_c1 inner52 outer_r2 outer_c4 outer08 trial430    medium    stress
+431 inner_r18 inner_c2 inner53 outer_r2 outer_c4 outer08 trial431      high    stress
+432 inner_r18 inner_c3 inner54 outer_r2 outer_c4 outer08 trial432       low    stress
+433 inner_r01 inner_c1 inner01 outer_r3 outer_c1 outer09 trial433      high   sadness
+434 inner_r01 inner_c2 inner02 outer_r3 outer_c1 outer09 trial434       low   sadness
+435 inner_r01 inner_c3 inner03 outer_r3 outer_c1 outer09 trial435    medium   sadness
+436 inner_r02 inner_c1 inner04 outer_r3 outer_c1 outer09 trial436    medium   sadness
+437 inner_r02 inner_c2 inner05 outer_r3 outer_c1 outer09 trial437      high   sadness
+438 inner_r02 inner_c3 inner06 outer_r3 outer_c1 outer09 trial438       low   sadness
+439 inner_r03 inner_c1 inner07 outer_r3 outer_c1 outer09 trial439       low   sadness
+440 inner_r03 inner_c2 inner08 outer_r3 outer_c1 outer09 trial440    medium   sadness
+441 inner_r03 inner_c3 inner09 outer_r3 outer_c1 outer09 trial441      high   sadness
+442 inner_r04 inner_c1 inner10 outer_r3 outer_c1 outer09 trial442       low   sadness
+443 inner_r04 inner_c2 inner11 outer_r3 outer_c1 outer09 trial443      high   sadness
+444 inner_r04 inner_c3 inner12 outer_r3 outer_c1 outer09 trial444    medium   sadness
+445 inner_r05 inner_c1 inner13 outer_r3 outer_c1 outer09 trial445      high   sadness
+446 inner_r05 inner_c2 inner14 outer_r3 outer_c1 outer09 trial446    medium   sadness
+447 inner_r05 inner_c3 inner15 outer_r3 outer_c1 outer09 trial447       low   sadness
+448 inner_r06 inner_c1 inner16 outer_r3 outer_c1 outer09 trial448    medium   sadness
+449 inner_r06 inner_c2 inner17 outer_r3 outer_c1 outer09 trial449       low   sadness
+450 inner_r06 inner_c3 inner18 outer_r3 outer_c1 outer09 trial450      high   sadness
+451 inner_r07 inner_c1 inner19 outer_r3 outer_c1 outer09 trial451      high   sadness
+452 inner_r07 inner_c2 inner20 outer_r3 outer_c1 outer09 trial452    medium   sadness
+453 inner_r07 inner_c3 inner21 outer_r3 outer_c1 outer09 trial453       low   sadness
+454 inner_r08 inner_c1 inner22 outer_r3 outer_c1 outer09 trial454       low   sadness
+455 inner_r08 inner_c2 inner23 outer_r3 outer_c1 outer09 trial455      high   sadness
+456 inner_r08 inner_c3 inner24 outer_r3 outer_c1 outer09 trial456    medium   sadness
+457 inner_r09 inner_c1 inner25 outer_r3 outer_c1 outer09 trial457    medium   sadness
+458 inner_r09 inner_c2 inner26 outer_r3 outer_c1 outer09 trial458       low   sadness
+459 inner_r09 inner_c3 inner27 outer_r3 outer_c1 outer09 trial459      high   sadness
+460 inner_r10 inner_c1 inner28 outer_r3 outer_c1 outer09 trial460    medium   sadness
+461 inner_r10 inner_c2 inner29 outer_r3 outer_c1 outer09 trial461       low   sadness
+462 inner_r10 inner_c3 inner30 outer_r3 outer_c1 outer09 trial462      high   sadness
+463 inner_r11 inner_c1 inner31 outer_r3 outer_c1 outer09 trial463       low   sadness
+464 inner_r11 inner_c2 inner32 outer_r3 outer_c1 outer09 trial464      high   sadness
+465 inner_r11 inner_c3 inner33 outer_r3 outer_c1 outer09 trial465    medium   sadness
+466 inner_r12 inner_c1 inner34 outer_r3 outer_c1 outer09 trial466      high   sadness
+467 inner_r12 inner_c2 inner35 outer_r3 outer_c1 outer09 trial467    medium   sadness
+468 inner_r12 inner_c3 inner36 outer_r3 outer_c1 outer09 trial468       low   sadness
+469 inner_r13 inner_c1 inner37 outer_r3 outer_c1 outer09 trial469      high   sadness
+470 inner_r13 inner_c2 inner38 outer_r3 outer_c1 outer09 trial470    medium   sadness
+471 inner_r13 inner_c3 inner39 outer_r3 outer_c1 outer09 trial471       low   sadness
+472 inner_r14 inner_c1 inner40 outer_r3 outer_c1 outer09 trial472       low   sadness
+473 inner_r14 inner_c2 inner41 outer_r3 outer_c1 outer09 trial473      high   sadness
+474 inner_r14 inner_c3 inner42 outer_r3 outer_c1 outer09 trial474    medium   sadness
+475 inner_r15 inner_c1 inner43 outer_r3 outer_c1 outer09 trial475    medium   sadness
+476 inner_r15 inner_c2 inner44 outer_r3 outer_c1 outer09 trial476       low   sadness
+477 inner_r15 inner_c3 inner45 outer_r3 outer_c1 outer09 trial477      high   sadness
+478 inner_r16 inner_c1 inner46 outer_r3 outer_c1 outer09 trial478      high   sadness
+479 inner_r16 inner_c2 inner47 outer_r3 outer_c1 outer09 trial479       low   sadness
+480 inner_r16 inner_c3 inner48 outer_r3 outer_c1 outer09 trial480    medium   sadness
+481 inner_r17 inner_c1 inner49 outer_r3 outer_c1 outer09 trial481       low   sadness
+482 inner_r17 inner_c2 inner50 outer_r3 outer_c1 outer09 trial482    medium   sadness
+483 inner_r17 inner_c3 inner51 outer_r3 outer_c1 outer09 trial483      high   sadness
+484 inner_r18 inner_c1 inner52 outer_r3 outer_c1 outer09 trial484    medium   sadness
+485 inner_r18 inner_c2 inner53 outer_r3 outer_c1 outer09 trial485      high   sadness
+486 inner_r18 inner_c3 inner54 outer_r3 outer_c1 outer09 trial486       low   sadness
+487 inner_r01 inner_c1 inner01 outer_r3 outer_c2 outer10 trial487      high happiness
+488 inner_r01 inner_c2 inner02 outer_r3 outer_c2 outer10 trial488       low happiness
+489 inner_r01 inner_c3 inner03 outer_r3 outer_c2 outer10 trial489    medium happiness
+490 inner_r02 inner_c1 inner04 outer_r3 outer_c2 outer10 trial490    medium happiness
+491 inner_r02 inner_c2 inner05 outer_r3 outer_c2 outer10 trial491      high happiness
+492 inner_r02 inner_c3 inner06 outer_r3 outer_c2 outer10 trial492       low happiness
+493 inner_r03 inner_c1 inner07 outer_r3 outer_c2 outer10 trial493       low happiness
+494 inner_r03 inner_c2 inner08 outer_r3 outer_c2 outer10 trial494    medium happiness
+495 inner_r03 inner_c3 inner09 outer_r3 outer_c2 outer10 trial495      high happiness
+496 inner_r04 inner_c1 inner10 outer_r3 outer_c2 outer10 trial496       low happiness
+497 inner_r04 inner_c2 inner11 outer_r3 outer_c2 outer10 trial497      high happiness
+498 inner_r04 inner_c3 inner12 outer_r3 outer_c2 outer10 trial498    medium happiness
+499 inner_r05 inner_c1 inner13 outer_r3 outer_c2 outer10 trial499      high happiness
+500 inner_r05 inner_c2 inner14 outer_r3 outer_c2 outer10 trial500    medium happiness
+501 inner_r05 inner_c3 inner15 outer_r3 outer_c2 outer10 trial501       low happiness
+502 inner_r06 inner_c1 inner16 outer_r3 outer_c2 outer10 trial502    medium happiness
+503 inner_r06 inner_c2 inner17 outer_r3 outer_c2 outer10 trial503       low happiness
+504 inner_r06 inner_c3 inner18 outer_r3 outer_c2 outer10 trial504      high happiness
+505 inner_r07 inner_c1 inner19 outer_r3 outer_c2 outer10 trial505      high happiness
+506 inner_r07 inner_c2 inner20 outer_r3 outer_c2 outer10 trial506    medium happiness
+507 inner_r07 inner_c3 inner21 outer_r3 outer_c2 outer10 trial507       low happiness
+508 inner_r08 inner_c1 inner22 outer_r3 outer_c2 outer10 trial508       low happiness
+509 inner_r08 inner_c2 inner23 outer_r3 outer_c2 outer10 trial509      high happiness
+510 inner_r08 inner_c3 inner24 outer_r3 outer_c2 outer10 trial510    medium happiness
+511 inner_r09 inner_c1 inner25 outer_r3 outer_c2 outer10 trial511    medium happiness
+512 inner_r09 inner_c2 inner26 outer_r3 outer_c2 outer10 trial512       low happiness
+513 inner_r09 inner_c3 inner27 outer_r3 outer_c2 outer10 trial513      high happiness
+514 inner_r10 inner_c1 inner28 outer_r3 outer_c2 outer10 trial514    medium happiness
+515 inner_r10 inner_c2 inner29 outer_r3 outer_c2 outer10 trial515       low happiness
+516 inner_r10 inner_c3 inner30 outer_r3 outer_c2 outer10 trial516      high happiness
+517 inner_r11 inner_c1 inner31 outer_r3 outer_c2 outer10 trial517       low happiness
+518 inner_r11 inner_c2 inner32 outer_r3 outer_c2 outer10 trial518      high happiness
+519 inner_r11 inner_c3 inner33 outer_r3 outer_c2 outer10 trial519    medium happiness
+520 inner_r12 inner_c1 inner34 outer_r3 outer_c2 outer10 trial520      high happiness
+521 inner_r12 inner_c2 inner35 outer_r3 outer_c2 outer10 trial521    medium happiness
+522 inner_r12 inner_c3 inner36 outer_r3 outer_c2 outer10 trial522       low happiness
+523 inner_r13 inner_c1 inner37 outer_r3 outer_c2 outer10 trial523      high happiness
+524 inner_r13 inner_c2 inner38 outer_r3 outer_c2 outer10 trial524    medium happiness
+525 inner_r13 inner_c3 inner39 outer_r3 outer_c2 outer10 trial525       low happiness
+526 inner_r14 inner_c1 inner40 outer_r3 outer_c2 outer10 trial526       low happiness
+527 inner_r14 inner_c2 inner41 outer_r3 outer_c2 outer10 trial527      high happiness
+528 inner_r14 inner_c3 inner42 outer_r3 outer_c2 outer10 trial528    medium happiness
+529 inner_r15 inner_c1 inner43 outer_r3 outer_c2 outer10 trial529    medium happiness
+530 inner_r15 inner_c2 inner44 outer_r3 outer_c2 outer10 trial530       low happiness
+531 inner_r15 inner_c3 inner45 outer_r3 outer_c2 outer10 trial531      high happiness
+532 inner_r16 inner_c1 inner46 outer_r3 outer_c2 outer10 trial532      high happiness
+533 inner_r16 inner_c2 inner47 outer_r3 outer_c2 outer10 trial533       low happiness
+534 inner_r16 inner_c3 inner48 outer_r3 outer_c2 outer10 trial534    medium happiness
+535 inner_r17 inner_c1 inner49 outer_r3 outer_c2 outer10 trial535       low happiness
+536 inner_r17 inner_c2 inner50 outer_r3 outer_c2 outer10 trial536    medium happiness
+537 inner_r17 inner_c3 inner51 outer_r3 outer_c2 outer10 trial537      high happiness
+538 inner_r18 inner_c1 inner52 outer_r3 outer_c2 outer10 trial538    medium happiness
+539 inner_r18 inner_c2 inner53 outer_r3 outer_c2 outer10 trial539      high happiness
+540 inner_r18 inner_c3 inner54 outer_r3 outer_c2 outer10 trial540       low happiness
+541 inner_r01 inner_c1 inner01 outer_r3 outer_c3 outer11 trial541      high    stress
+542 inner_r01 inner_c2 inner02 outer_r3 outer_c3 outer11 trial542       low    stress
+543 inner_r01 inner_c3 inner03 outer_r3 outer_c3 outer11 trial543    medium    stress
+544 inner_r02 inner_c1 inner04 outer_r3 outer_c3 outer11 trial544    medium    stress
+545 inner_r02 inner_c2 inner05 outer_r3 outer_c3 outer11 trial545      high    stress
+546 inner_r02 inner_c3 inner06 outer_r3 outer_c3 outer11 trial546       low    stress
+547 inner_r03 inner_c1 inner07 outer_r3 outer_c3 outer11 trial547       low    stress
+548 inner_r03 inner_c2 inner08 outer_r3 outer_c3 outer11 trial548    medium    stress
+549 inner_r03 inner_c3 inner09 outer_r3 outer_c3 outer11 trial549      high    stress
+550 inner_r04 inner_c1 inner10 outer_r3 outer_c3 outer11 trial550       low    stress
+551 inner_r04 inner_c2 inner11 outer_r3 outer_c3 outer11 trial551      high    stress
+552 inner_r04 inner_c3 inner12 outer_r3 outer_c3 outer11 trial552    medium    stress
+553 inner_r05 inner_c1 inner13 outer_r3 outer_c3 outer11 trial553      high    stress
+554 inner_r05 inner_c2 inner14 outer_r3 outer_c3 outer11 trial554    medium    stress
+555 inner_r05 inner_c3 inner15 outer_r3 outer_c3 outer11 trial555       low    stress
+556 inner_r06 inner_c1 inner16 outer_r3 outer_c3 outer11 trial556    medium    stress
+557 inner_r06 inner_c2 inner17 outer_r3 outer_c3 outer11 trial557       low    stress
+558 inner_r06 inner_c3 inner18 outer_r3 outer_c3 outer11 trial558      high    stress
+559 inner_r07 inner_c1 inner19 outer_r3 outer_c3 outer11 trial559      high    stress
+560 inner_r07 inner_c2 inner20 outer_r3 outer_c3 outer11 trial560    medium    stress
+561 inner_r07 inner_c3 inner21 outer_r3 outer_c3 outer11 trial561       low    stress
+562 inner_r08 inner_c1 inner22 outer_r3 outer_c3 outer11 trial562       low    stress
+563 inner_r08 inner_c2 inner23 outer_r3 outer_c3 outer11 trial563      high    stress
+564 inner_r08 inner_c3 inner24 outer_r3 outer_c3 outer11 trial564    medium    stress
+565 inner_r09 inner_c1 inner25 outer_r3 outer_c3 outer11 trial565    medium    stress
+566 inner_r09 inner_c2 inner26 outer_r3 outer_c3 outer11 trial566       low    stress
+567 inner_r09 inner_c3 inner27 outer_r3 outer_c3 outer11 trial567      high    stress
+568 inner_r10 inner_c1 inner28 outer_r3 outer_c3 outer11 trial568    medium    stress
+569 inner_r10 inner_c2 inner29 outer_r3 outer_c3 outer11 trial569       low    stress
+570 inner_r10 inner_c3 inner30 outer_r3 outer_c3 outer11 trial570      high    stress
+571 inner_r11 inner_c1 inner31 outer_r3 outer_c3 outer11 trial571       low    stress
+572 inner_r11 inner_c2 inner32 outer_r3 outer_c3 outer11 trial572      high    stress
+573 inner_r11 inner_c3 inner33 outer_r3 outer_c3 outer11 trial573    medium    stress
+574 inner_r12 inner_c1 inner34 outer_r3 outer_c3 outer11 trial574      high    stress
+575 inner_r12 inner_c2 inner35 outer_r3 outer_c3 outer11 trial575    medium    stress
+576 inner_r12 inner_c3 inner36 outer_r3 outer_c3 outer11 trial576       low    stress
+577 inner_r13 inner_c1 inner37 outer_r3 outer_c3 outer11 trial577      high    stress
+578 inner_r13 inner_c2 inner38 outer_r3 outer_c3 outer11 trial578    medium    stress
+579 inner_r13 inner_c3 inner39 outer_r3 outer_c3 outer11 trial579       low    stress
+580 inner_r14 inner_c1 inner40 outer_r3 outer_c3 outer11 trial580       low    stress
+581 inner_r14 inner_c2 inner41 outer_r3 outer_c3 outer11 trial581      high    stress
+582 inner_r14 inner_c3 inner42 outer_r3 outer_c3 outer11 trial582    medium    stress
+583 inner_r15 inner_c1 inner43 outer_r3 outer_c3 outer11 trial583    medium    stress
+584 inner_r15 inner_c2 inner44 outer_r3 outer_c3 outer11 trial584       low    stress
+585 inner_r15 inner_c3 inner45 outer_r3 outer_c3 outer11 trial585      high    stress
+586 inner_r16 inner_c1 inner46 outer_r3 outer_c3 outer11 trial586      high    stress
+587 inner_r16 inner_c2 inner47 outer_r3 outer_c3 outer11 trial587       low    stress
+588 inner_r16 inner_c3 inner48 outer_r3 outer_c3 outer11 trial588    medium    stress
+589 inner_r17 inner_c1 inner49 outer_r3 outer_c3 outer11 trial589       low    stress
+590 inner_r17 inner_c2 inner50 outer_r3 outer_c3 outer11 trial590    medium    stress
+591 inner_r17 inner_c3 inner51 outer_r3 outer_c3 outer11 trial591      high    stress
+592 inner_r18 inner_c1 inner52 outer_r3 outer_c3 outer11 trial592    medium    stress
+593 inner_r18 inner_c2 inner53 outer_r3 outer_c3 outer11 trial593      high    stress
+594 inner_r18 inner_c3 inner54 outer_r3 outer_c3 outer11 trial594       low    stress
+595 inner_r01 inner_c1 inner01 outer_r3 outer_c4 outer12 trial595      high  calmness
+596 inner_r01 inner_c2 inner02 outer_r3 outer_c4 outer12 trial596       low  calmness
+597 inner_r01 inner_c3 inner03 outer_r3 outer_c4 outer12 trial597    medium  calmness
+598 inner_r02 inner_c1 inner04 outer_r3 outer_c4 outer12 trial598    medium  calmness
+599 inner_r02 inner_c2 inner05 outer_r3 outer_c4 outer12 trial599      high  calmness
+600 inner_r02 inner_c3 inner06 outer_r3 outer_c4 outer12 trial600       low  calmness
+601 inner_r03 inner_c1 inner07 outer_r3 outer_c4 outer12 trial601       low  calmness
+602 inner_r03 inner_c2 inner08 outer_r3 outer_c4 outer12 trial602    medium  calmness
+603 inner_r03 inner_c3 inner09 outer_r3 outer_c4 outer12 trial603      high  calmness
+604 inner_r04 inner_c1 inner10 outer_r3 outer_c4 outer12 trial604       low  calmness
+605 inner_r04 inner_c2 inner11 outer_r3 outer_c4 outer12 trial605      high  calmness
+606 inner_r04 inner_c3 inner12 outer_r3 outer_c4 outer12 trial606    medium  calmness
+607 inner_r05 inner_c1 inner13 outer_r3 outer_c4 outer12 trial607      high  calmness
+608 inner_r05 inner_c2 inner14 outer_r3 outer_c4 outer12 trial608    medium  calmness
+609 inner_r05 inner_c3 inner15 outer_r3 outer_c4 outer12 trial609       low  calmness
+610 inner_r06 inner_c1 inner16 outer_r3 outer_c4 outer12 trial610    medium  calmness
+611 inner_r06 inner_c2 inner17 outer_r3 outer_c4 outer12 trial611       low  calmness
+612 inner_r06 inner_c3 inner18 outer_r3 outer_c4 outer12 trial612      high  calmness
+613 inner_r07 inner_c1 inner19 outer_r3 outer_c4 outer12 trial613      high  calmness
+614 inner_r07 inner_c2 inner20 outer_r3 outer_c4 outer12 trial614    medium  calmness
+615 inner_r07 inner_c3 inner21 outer_r3 outer_c4 outer12 trial615       low  calmness
+616 inner_r08 inner_c1 inner22 outer_r3 outer_c4 outer12 trial616       low  calmness
+617 inner_r08 inner_c2 inner23 outer_r3 outer_c4 outer12 trial617      high  calmness
+618 inner_r08 inner_c3 inner24 outer_r3 outer_c4 outer12 trial618    medium  calmness
+619 inner_r09 inner_c1 inner25 outer_r3 outer_c4 outer12 trial619    medium  calmness
+620 inner_r09 inner_c2 inner26 outer_r3 outer_c4 outer12 trial620       low  calmness
+621 inner_r09 inner_c3 inner27 outer_r3 outer_c4 outer12 trial621      high  calmness
+622 inner_r10 inner_c1 inner28 outer_r3 outer_c4 outer12 trial622    medium  calmness
+623 inner_r10 inner_c2 inner29 outer_r3 outer_c4 outer12 trial623       low  calmness
+624 inner_r10 inner_c3 inner30 outer_r3 outer_c4 outer12 trial624      high  calmness
+625 inner_r11 inner_c1 inner31 outer_r3 outer_c4 outer12 trial625       low  calmness
+626 inner_r11 inner_c2 inner32 outer_r3 outer_c4 outer12 trial626      high  calmness
+627 inner_r11 inner_c3 inner33 outer_r3 outer_c4 outer12 trial627    medium  calmness
+628 inner_r12 inner_c1 inner34 outer_r3 outer_c4 outer12 trial628      high  calmness
+629 inner_r12 inner_c2 inner35 outer_r3 outer_c4 outer12 trial629    medium  calmness
+630 inner_r12 inner_c3 inner36 outer_r3 outer_c4 outer12 trial630       low  calmness
+631 inner_r13 inner_c1 inner37 outer_r3 outer_c4 outer12 trial631      high  calmness
+632 inner_r13 inner_c2 inner38 outer_r3 outer_c4 outer12 trial632    medium  calmness
+633 inner_r13 inner_c3 inner39 outer_r3 outer_c4 outer12 trial633       low  calmness
+634 inner_r14 inner_c1 inner40 outer_r3 outer_c4 outer12 trial634       low  calmness
+635 inner_r14 inner_c2 inner41 outer_r3 outer_c4 outer12 trial635      high  calmness
+636 inner_r14 inner_c3 inner42 outer_r3 outer_c4 outer12 trial636    medium  calmness
+637 inner_r15 inner_c1 inner43 outer_r3 outer_c4 outer12 trial637    medium  calmness
+638 inner_r15 inner_c2 inner44 outer_r3 outer_c4 outer12 trial638       low  calmness
+639 inner_r15 inner_c3 inner45 outer_r3 outer_c4 outer12 trial639      high  calmness
+640 inner_r16 inner_c1 inner46 outer_r3 outer_c4 outer12 trial640      high  calmness
+641 inner_r16 inner_c2 inner47 outer_r3 outer_c4 outer12 trial641       low  calmness
+642 inner_r16 inner_c3 inner48 outer_r3 outer_c4 outer12 trial642    medium  calmness
+643 inner_r17 inner_c1 inner49 outer_r3 outer_c4 outer12 trial643       low  calmness
+644 inner_r17 inner_c2 inner50 outer_r3 outer_c4 outer12 trial644    medium  calmness
+645 inner_r17 inner_c3 inner51 outer_r3 outer_c4 outer12 trial645      high  calmness
+646 inner_r18 inner_c1 inner52 outer_r3 outer_c4 outer12 trial646    medium  calmness
+647 inner_r18 inner_c2 inner53 outer_r3 outer_c4 outer12 trial647      high  calmness
+648 inner_r18 inner_c3 inner54 outer_r3 outer_c4 outer12 trial648       low  calmness
+649 inner_r01 inner_c1 inner01 outer_r4 outer_c1 outer13 trial649      high    stress
+650 inner_r01 inner_c2 inner02 outer_r4 outer_c1 outer13 trial650       low    stress
+651 inner_r01 inner_c3 inner03 outer_r4 outer_c1 outer13 trial651    medium    stress
+652 inner_r02 inner_c1 inner04 outer_r4 outer_c1 outer13 trial652    medium    stress
+653 inner_r02 inner_c2 inner05 outer_r4 outer_c1 outer13 trial653      high    stress
+654 inner_r02 inner_c3 inner06 outer_r4 outer_c1 outer13 trial654       low    stress
+655 inner_r03 inner_c1 inner07 outer_r4 outer_c1 outer13 trial655       low    stress
+656 inner_r03 inner_c2 inner08 outer_r4 outer_c1 outer13 trial656    medium    stress
+657 inner_r03 inner_c3 inner09 outer_r4 outer_c1 outer13 trial657      high    stress
+658 inner_r04 inner_c1 inner10 outer_r4 outer_c1 outer13 trial658       low    stress
+659 inner_r04 inner_c2 inner11 outer_r4 outer_c1 outer13 trial659      high    stress
+660 inner_r04 inner_c3 inner12 outer_r4 outer_c1 outer13 trial660    medium    stress
+661 inner_r05 inner_c1 inner13 outer_r4 outer_c1 outer13 trial661      high    stress
+662 inner_r05 inner_c2 inner14 outer_r4 outer_c1 outer13 trial662    medium    stress
+663 inner_r05 inner_c3 inner15 outer_r4 outer_c1 outer13 trial663       low    stress
+664 inner_r06 inner_c1 inner16 outer_r4 outer_c1 outer13 trial664    medium    stress
+665 inner_r06 inner_c2 inner17 outer_r4 outer_c1 outer13 trial665       low    stress
+666 inner_r06 inner_c3 inner18 outer_r4 outer_c1 outer13 trial666      high    stress
+667 inner_r07 inner_c1 inner19 outer_r4 outer_c1 outer13 trial667      high    stress
+668 inner_r07 inner_c2 inner20 outer_r4 outer_c1 outer13 trial668    medium    stress
+669 inner_r07 inner_c3 inner21 outer_r4 outer_c1 outer13 trial669       low    stress
+670 inner_r08 inner_c1 inner22 outer_r4 outer_c1 outer13 trial670       low    stress
+671 inner_r08 inner_c2 inner23 outer_r4 outer_c1 outer13 trial671      high    stress
+672 inner_r08 inner_c3 inner24 outer_r4 outer_c1 outer13 trial672    medium    stress
+673 inner_r09 inner_c1 inner25 outer_r4 outer_c1 outer13 trial673    medium    stress
+674 inner_r09 inner_c2 inner26 outer_r4 outer_c1 outer13 trial674       low    stress
+675 inner_r09 inner_c3 inner27 outer_r4 outer_c1 outer13 trial675      high    stress
+676 inner_r10 inner_c1 inner28 outer_r4 outer_c1 outer13 trial676    medium    stress
+677 inner_r10 inner_c2 inner29 outer_r4 outer_c1 outer13 trial677       low    stress
+678 inner_r10 inner_c3 inner30 outer_r4 outer_c1 outer13 trial678      high    stress
+679 inner_r11 inner_c1 inner31 outer_r4 outer_c1 outer13 trial679       low    stress
+680 inner_r11 inner_c2 inner32 outer_r4 outer_c1 outer13 trial680      high    stress
+681 inner_r11 inner_c3 inner33 outer_r4 outer_c1 outer13 trial681    medium    stress
+682 inner_r12 inner_c1 inner34 outer_r4 outer_c1 outer13 trial682      high    stress
+683 inner_r12 inner_c2 inner35 outer_r4 outer_c1 outer13 trial683    medium    stress
+684 inner_r12 inner_c3 inner36 outer_r4 outer_c1 outer13 trial684       low    stress
+685 inner_r13 inner_c1 inner37 outer_r4 outer_c1 outer13 trial685      high    stress
+686 inner_r13 inner_c2 inner38 outer_r4 outer_c1 outer13 trial686    medium    stress
+687 inner_r13 inner_c3 inner39 outer_r4 outer_c1 outer13 trial687       low    stress
+688 inner_r14 inner_c1 inner40 outer_r4 outer_c1 outer13 trial688       low    stress
+689 inner_r14 inner_c2 inner41 outer_r4 outer_c1 outer13 trial689      high    stress
+690 inner_r14 inner_c3 inner42 outer_r4 outer_c1 outer13 trial690    medium    stress
+691 inner_r15 inner_c1 inner43 outer_r4 outer_c1 outer13 trial691    medium    stress
+692 inner_r15 inner_c2 inner44 outer_r4 outer_c1 outer13 trial692       low    stress
+693 inner_r15 inner_c3 inner45 outer_r4 outer_c1 outer13 trial693      high    stress
+694 inner_r16 inner_c1 inner46 outer_r4 outer_c1 outer13 trial694      high    stress
+695 inner_r16 inner_c2 inner47 outer_r4 outer_c1 outer13 trial695       low    stress
+696 inner_r16 inner_c3 inner48 outer_r4 outer_c1 outer13 trial696    medium    stress
+697 inner_r17 inner_c1 inner49 outer_r4 outer_c1 outer13 trial697       low    stress
+698 inner_r17 inner_c2 inner50 outer_r4 outer_c1 outer13 trial698    medium    stress
+699 inner_r17 inner_c3 inner51 outer_r4 outer_c1 outer13 trial699      high    stress
+700 inner_r18 inner_c1 inner52 outer_r4 outer_c1 outer13 trial700    medium    stress
+701 inner_r18 inner_c2 inner53 outer_r4 outer_c1 outer13 trial701      high    stress
+702 inner_r18 inner_c3 inner54 outer_r4 outer_c1 outer13 trial702       low    stress
+703 inner_r01 inner_c1 inner01 outer_r4 outer_c2 outer14 trial703      high   sadness
+704 inner_r01 inner_c2 inner02 outer_r4 outer_c2 outer14 trial704       low   sadness
+705 inner_r01 inner_c3 inner03 outer_r4 outer_c2 outer14 trial705    medium   sadness
+706 inner_r02 inner_c1 inner04 outer_r4 outer_c2 outer14 trial706    medium   sadness
+707 inner_r02 inner_c2 inner05 outer_r4 outer_c2 outer14 trial707      high   sadness
+708 inner_r02 inner_c3 inner06 outer_r4 outer_c2 outer14 trial708       low   sadness
+709 inner_r03 inner_c1 inner07 outer_r4 outer_c2 outer14 trial709       low   sadness
+710 inner_r03 inner_c2 inner08 outer_r4 outer_c2 outer14 trial710    medium   sadness
+711 inner_r03 inner_c3 inner09 outer_r4 outer_c2 outer14 trial711      high   sadness
+712 inner_r04 inner_c1 inner10 outer_r4 outer_c2 outer14 trial712       low   sadness
+713 inner_r04 inner_c2 inner11 outer_r4 outer_c2 outer14 trial713      high   sadness
+714 inner_r04 inner_c3 inner12 outer_r4 outer_c2 outer14 trial714    medium   sadness
+715 inner_r05 inner_c1 inner13 outer_r4 outer_c2 outer14 trial715      high   sadness
+716 inner_r05 inner_c2 inner14 outer_r4 outer_c2 outer14 trial716    medium   sadness
+717 inner_r05 inner_c3 inner15 outer_r4 outer_c2 outer14 trial717       low   sadness
+718 inner_r06 inner_c1 inner16 outer_r4 outer_c2 outer14 trial718    medium   sadness
+719 inner_r06 inner_c2 inner17 outer_r4 outer_c2 outer14 trial719       low   sadness
+720 inner_r06 inner_c3 inner18 outer_r4 outer_c2 outer14 trial720      high   sadness
+721 inner_r07 inner_c1 inner19 outer_r4 outer_c2 outer14 trial721      high   sadness
+722 inner_r07 inner_c2 inner20 outer_r4 outer_c2 outer14 trial722    medium   sadness
+723 inner_r07 inner_c3 inner21 outer_r4 outer_c2 outer14 trial723       low   sadness
+724 inner_r08 inner_c1 inner22 outer_r4 outer_c2 outer14 trial724       low   sadness
+725 inner_r08 inner_c2 inner23 outer_r4 outer_c2 outer14 trial725      high   sadness
+726 inner_r08 inner_c3 inner24 outer_r4 outer_c2 outer14 trial726    medium   sadness
+727 inner_r09 inner_c1 inner25 outer_r4 outer_c2 outer14 trial727    medium   sadness
+728 inner_r09 inner_c2 inner26 outer_r4 outer_c2 outer14 trial728       low   sadness
+729 inner_r09 inner_c3 inner27 outer_r4 outer_c2 outer14 trial729      high   sadness
+730 inner_r10 inner_c1 inner28 outer_r4 outer_c2 outer14 trial730    medium   sadness
+731 inner_r10 inner_c2 inner29 outer_r4 outer_c2 outer14 trial731       low   sadness
+732 inner_r10 inner_c3 inner30 outer_r4 outer_c2 outer14 trial732      high   sadness
+733 inner_r11 inner_c1 inner31 outer_r4 outer_c2 outer14 trial733       low   sadness
+734 inner_r11 inner_c2 inner32 outer_r4 outer_c2 outer14 trial734      high   sadness
+735 inner_r11 inner_c3 inner33 outer_r4 outer_c2 outer14 trial735    medium   sadness
+736 inner_r12 inner_c1 inner34 outer_r4 outer_c2 outer14 trial736      high   sadness
+737 inner_r12 inner_c2 inner35 outer_r4 outer_c2 outer14 trial737    medium   sadness
+738 inner_r12 inner_c3 inner36 outer_r4 outer_c2 outer14 trial738       low   sadness
+739 inner_r13 inner_c1 inner37 outer_r4 outer_c2 outer14 trial739      high   sadness
+740 inner_r13 inner_c2 inner38 outer_r4 outer_c2 outer14 trial740    medium   sadness
+741 inner_r13 inner_c3 inner39 outer_r4 outer_c2 outer14 trial741       low   sadness
+742 inner_r14 inner_c1 inner40 outer_r4 outer_c2 outer14 trial742       low   sadness
+743 inner_r14 inner_c2 inner41 outer_r4 outer_c2 outer14 trial743      high   sadness
+744 inner_r14 inner_c3 inner42 outer_r4 outer_c2 outer14 trial744    medium   sadness
+745 inner_r15 inner_c1 inner43 outer_r4 outer_c2 outer14 trial745    medium   sadness
+746 inner_r15 inner_c2 inner44 outer_r4 outer_c2 outer14 trial746       low   sadness
+747 inner_r15 inner_c3 inner45 outer_r4 outer_c2 outer14 trial747      high   sadness
+748 inner_r16 inner_c1 inner46 outer_r4 outer_c2 outer14 trial748      high   sadness
+749 inner_r16 inner_c2 inner47 outer_r4 outer_c2 outer14 trial749       low   sadness
+750 inner_r16 inner_c3 inner48 outer_r4 outer_c2 outer14 trial750    medium   sadness
+751 inner_r17 inner_c1 inner49 outer_r4 outer_c2 outer14 trial751       low   sadness
+752 inner_r17 inner_c2 inner50 outer_r4 outer_c2 outer14 trial752    medium   sadness
+753 inner_r17 inner_c3 inner51 outer_r4 outer_c2 outer14 trial753      high   sadness
+754 inner_r18 inner_c1 inner52 outer_r4 outer_c2 outer14 trial754    medium   sadness
+755 inner_r18 inner_c2 inner53 outer_r4 outer_c2 outer14 trial755      high   sadness
+756 inner_r18 inner_c3 inner54 outer_r4 outer_c2 outer14 trial756       low   sadness
+757 inner_r01 inner_c1 inner01 outer_r4 outer_c3 outer15 trial757      high  calmness
+758 inner_r01 inner_c2 inner02 outer_r4 outer_c3 outer15 trial758       low  calmness
+759 inner_r01 inner_c3 inner03 outer_r4 outer_c3 outer15 trial759    medium  calmness
+760 inner_r02 inner_c1 inner04 outer_r4 outer_c3 outer15 trial760    medium  calmness
+761 inner_r02 inner_c2 inner05 outer_r4 outer_c3 outer15 trial761      high  calmness
+762 inner_r02 inner_c3 inner06 outer_r4 outer_c3 outer15 trial762       low  calmness
+763 inner_r03 inner_c1 inner07 outer_r4 outer_c3 outer15 trial763       low  calmness
+764 inner_r03 inner_c2 inner08 outer_r4 outer_c3 outer15 trial764    medium  calmness
+765 inner_r03 inner_c3 inner09 outer_r4 outer_c3 outer15 trial765      high  calmness
+766 inner_r04 inner_c1 inner10 outer_r4 outer_c3 outer15 trial766       low  calmness
+767 inner_r04 inner_c2 inner11 outer_r4 outer_c3 outer15 trial767      high  calmness
+768 inner_r04 inner_c3 inner12 outer_r4 outer_c3 outer15 trial768    medium  calmness
+769 inner_r05 inner_c1 inner13 outer_r4 outer_c3 outer15 trial769      high  calmness
+770 inner_r05 inner_c2 inner14 outer_r4 outer_c3 outer15 trial770    medium  calmness
+771 inner_r05 inner_c3 inner15 outer_r4 outer_c3 outer15 trial771       low  calmness
+772 inner_r06 inner_c1 inner16 outer_r4 outer_c3 outer15 trial772    medium  calmness
+773 inner_r06 inner_c2 inner17 outer_r4 outer_c3 outer15 trial773       low  calmness
+774 inner_r06 inner_c3 inner18 outer_r4 outer_c3 outer15 trial774      high  calmness
+775 inner_r07 inner_c1 inner19 outer_r4 outer_c3 outer15 trial775      high  calmness
+776 inner_r07 inner_c2 inner20 outer_r4 outer_c3 outer15 trial776    medium  calmness
+777 inner_r07 inner_c3 inner21 outer_r4 outer_c3 outer15 trial777       low  calmness
+778 inner_r08 inner_c1 inner22 outer_r4 outer_c3 outer15 trial778       low  calmness
+779 inner_r08 inner_c2 inner23 outer_r4 outer_c3 outer15 trial779      high  calmness
+780 inner_r08 inner_c3 inner24 outer_r4 outer_c3 outer15 trial780    medium  calmness
+781 inner_r09 inner_c1 inner25 outer_r4 outer_c3 outer15 trial781    medium  calmness
+782 inner_r09 inner_c2 inner26 outer_r4 outer_c3 outer15 trial782       low  calmness
+783 inner_r09 inner_c3 inner27 outer_r4 outer_c3 outer15 trial783      high  calmness
+784 inner_r10 inner_c1 inner28 outer_r4 outer_c3 outer15 trial784    medium  calmness
+785 inner_r10 inner_c2 inner29 outer_r4 outer_c3 outer15 trial785       low  calmness
+786 inner_r10 inner_c3 inner30 outer_r4 outer_c3 outer15 trial786      high  calmness
+787 inner_r11 inner_c1 inner31 outer_r4 outer_c3 outer15 trial787       low  calmness
+788 inner_r11 inner_c2 inner32 outer_r4 outer_c3 outer15 trial788      high  calmness
+789 inner_r11 inner_c3 inner33 outer_r4 outer_c3 outer15 trial789    medium  calmness
+790 inner_r12 inner_c1 inner34 outer_r4 outer_c3 outer15 trial790      high  calmness
+791 inner_r12 inner_c2 inner35 outer_r4 outer_c3 outer15 trial791    medium  calmness
+792 inner_r12 inner_c3 inner36 outer_r4 outer_c3 outer15 trial792       low  calmness
+793 inner_r13 inner_c1 inner37 outer_r4 outer_c3 outer15 trial793      high  calmness
+794 inner_r13 inner_c2 inner38 outer_r4 outer_c3 outer15 trial794    medium  calmness
+795 inner_r13 inner_c3 inner39 outer_r4 outer_c3 outer15 trial795       low  calmness
+796 inner_r14 inner_c1 inner40 outer_r4 outer_c3 outer15 trial796       low  calmness
+797 inner_r14 inner_c2 inner41 outer_r4 outer_c3 outer15 trial797      high  calmness
+798 inner_r14 inner_c3 inner42 outer_r4 outer_c3 outer15 trial798    medium  calmness
+799 inner_r15 inner_c1 inner43 outer_r4 outer_c3 outer15 trial799    medium  calmness
+800 inner_r15 inner_c2 inner44 outer_r4 outer_c3 outer15 trial800       low  calmness
+801 inner_r15 inner_c3 inner45 outer_r4 outer_c3 outer15 trial801      high  calmness
+802 inner_r16 inner_c1 inner46 outer_r4 outer_c3 outer15 trial802      high  calmness
+803 inner_r16 inner_c2 inner47 outer_r4 outer_c3 outer15 trial803       low  calmness
+804 inner_r16 inner_c3 inner48 outer_r4 outer_c3 outer15 trial804    medium  calmness
+805 inner_r17 inner_c1 inner49 outer_r4 outer_c3 outer15 trial805       low  calmness
+806 inner_r17 inner_c2 inner50 outer_r4 outer_c3 outer15 trial806    medium  calmness
+807 inner_r17 inner_c3 inner51 outer_r4 outer_c3 outer15 trial807      high  calmness
+808 inner_r18 inner_c1 inner52 outer_r4 outer_c3 outer15 trial808    medium  calmness
+809 inner_r18 inner_c2 inner53 outer_r4 outer_c3 outer15 trial809      high  calmness
+810 inner_r18 inner_c3 inner54 outer_r4 outer_c3 outer15 trial810       low  calmness
+811 inner_r01 inner_c1 inner01 outer_r4 outer_c4 outer16 trial811      high happiness
+812 inner_r01 inner_c2 inner02 outer_r4 outer_c4 outer16 trial812       low happiness
+813 inner_r01 inner_c3 inner03 outer_r4 outer_c4 outer16 trial813    medium happiness
+814 inner_r02 inner_c1 inner04 outer_r4 outer_c4 outer16 trial814    medium happiness
+815 inner_r02 inner_c2 inner05 outer_r4 outer_c4 outer16 trial815      high happiness
+816 inner_r02 inner_c3 inner06 outer_r4 outer_c4 outer16 trial816       low happiness
+817 inner_r03 inner_c1 inner07 outer_r4 outer_c4 outer16 trial817       low happiness
+818 inner_r03 inner_c2 inner08 outer_r4 outer_c4 outer16 trial818    medium happiness
+819 inner_r03 inner_c3 inner09 outer_r4 outer_c4 outer16 trial819      high happiness
+820 inner_r04 inner_c1 inner10 outer_r4 outer_c4 outer16 trial820       low happiness
+821 inner_r04 inner_c2 inner11 outer_r4 outer_c4 outer16 trial821      high happiness
+822 inner_r04 inner_c3 inner12 outer_r4 outer_c4 outer16 trial822    medium happiness
+823 inner_r05 inner_c1 inner13 outer_r4 outer_c4 outer16 trial823      high happiness
+824 inner_r05 inner_c2 inner14 outer_r4 outer_c4 outer16 trial824    medium happiness
+825 inner_r05 inner_c3 inner15 outer_r4 outer_c4 outer16 trial825       low happiness
+826 inner_r06 inner_c1 inner16 outer_r4 outer_c4 outer16 trial826    medium happiness
+827 inner_r06 inner_c2 inner17 outer_r4 outer_c4 outer16 trial827       low happiness
+828 inner_r06 inner_c3 inner18 outer_r4 outer_c4 outer16 trial828      high happiness
+829 inner_r07 inner_c1 inner19 outer_r4 outer_c4 outer16 trial829      high happiness
+830 inner_r07 inner_c2 inner20 outer_r4 outer_c4 outer16 trial830    medium happiness
+831 inner_r07 inner_c3 inner21 outer_r4 outer_c4 outer16 trial831       low happiness
+832 inner_r08 inner_c1 inner22 outer_r4 outer_c4 outer16 trial832       low happiness
+833 inner_r08 inner_c2 inner23 outer_r4 outer_c4 outer16 trial833      high happiness
+834 inner_r08 inner_c3 inner24 outer_r4 outer_c4 outer16 trial834    medium happiness
+835 inner_r09 inner_c1 inner25 outer_r4 outer_c4 outer16 trial835    medium happiness
+836 inner_r09 inner_c2 inner26 outer_r4 outer_c4 outer16 trial836       low happiness
+837 inner_r09 inner_c3 inner27 outer_r4 outer_c4 outer16 trial837      high happiness
+838 inner_r10 inner_c1 inner28 outer_r4 outer_c4 outer16 trial838    medium happiness
+839 inner_r10 inner_c2 inner29 outer_r4 outer_c4 outer16 trial839       low happiness
+840 inner_r10 inner_c3 inner30 outer_r4 outer_c4 outer16 trial840      high happiness
+841 inner_r11 inner_c1 inner31 outer_r4 outer_c4 outer16 trial841       low happiness
+842 inner_r11 inner_c2 inner32 outer_r4 outer_c4 outer16 trial842      high happiness
+843 inner_r11 inner_c3 inner33 outer_r4 outer_c4 outer16 trial843    medium happiness
+844 inner_r12 inner_c1 inner34 outer_r4 outer_c4 outer16 trial844      high happiness
+845 inner_r12 inner_c2 inner35 outer_r4 outer_c4 outer16 trial845    medium happiness
+846 inner_r12 inner_c3 inner36 outer_r4 outer_c4 outer16 trial846       low happiness
+847 inner_r13 inner_c1 inner37 outer_r4 outer_c4 outer16 trial847      high happiness
+848 inner_r13 inner_c2 inner38 outer_r4 outer_c4 outer16 trial848    medium happiness
+849 inner_r13 inner_c3 inner39 outer_r4 outer_c4 outer16 trial849       low happiness
+850 inner_r14 inner_c1 inner40 outer_r4 outer_c4 outer16 trial850       low happiness
+851 inner_r14 inner_c2 inner41 outer_r4 outer_c4 outer16 trial851      high happiness
+852 inner_r14 inner_c3 inner42 outer_r4 outer_c4 outer16 trial852    medium happiness
+853 inner_r15 inner_c1 inner43 outer_r4 outer_c4 outer16 trial853    medium happiness
+854 inner_r15 inner_c2 inner44 outer_r4 outer_c4 outer16 trial854       low happiness
+855 inner_r15 inner_c3 inner45 outer_r4 outer_c4 outer16 trial855      high happiness
+856 inner_r16 inner_c1 inner46 outer_r4 outer_c4 outer16 trial856      high happiness
+857 inner_r16 inner_c2 inner47 outer_r4 outer_c4 outer16 trial857       low happiness
+858 inner_r16 inner_c3 inner48 outer_r4 outer_c4 outer16 trial858    medium happiness
+859 inner_r17 inner_c1 inner49 outer_r4 outer_c4 outer16 trial859       low happiness
+860 inner_r17 inner_c2 inner50 outer_r4 outer_c4 outer16 trial860    medium happiness
+861 inner_r17 inner_c3 inner51 outer_r4 outer_c4 outer16 trial861      high happiness
+862 inner_r18 inner_c1 inner52 outer_r4 outer_c4 outer16 trial862    medium happiness
+863 inner_r18 inner_c2 inner53 outer_r4 outer_c4 outer16 trial863      high happiness
+864 inner_r18 inner_c3 inner54 outer_r4 outer_c4 outer16 trial864       low happiness

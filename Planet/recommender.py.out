@@ -1,0 +1,702 @@
+***EXPERIMENT PLANS***
+
+plan 1:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 2:
+	trial 1: personalization = social media content, choice = present
+plan 3:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 4:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 5:
+	trial 1: personalization = social media collaborative, choice = present
+plan 6:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 7:
+	trial 1: personalization = social media collaborative, choice = present
+plan 8:
+	trial 1: personalization = social media content, choice = present
+plan 9:
+	trial 1: personalization = in_app_content, choice = present
+plan 10:
+	trial 1: personalization = in_app_content, choice = absent
+plan 11:
+	trial 1: personalization = in_app_content, choice = present
+plan 12:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 13:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 14:
+	trial 1: personalization = in_app_content, choice = present
+plan 15:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 16:
+	trial 1: personalization = in_app_content, choice = absent
+plan 17:
+	trial 1: personalization = social media content, choice = absent
+plan 18:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 19:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 20:
+	trial 1: personalization = in_app_content, choice = absent
+plan 21:
+	trial 1: personalization = in_app_content, choice = present
+plan 22:
+	trial 1: personalization = social media content, choice = present
+plan 23:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 24:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 25:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 26:
+	trial 1: personalization = social media content, choice = absent
+plan 27:
+	trial 1: personalization = social media content, choice = absent
+plan 28:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 29:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 30:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 31:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 32:
+	trial 1: personalization = social media content, choice = absent
+plan 33:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 34:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 35:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 36:
+	trial 1: personalization = social media content, choice = absent
+plan 37:
+	trial 1: personalization = social media content, choice = present
+plan 38:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 39:
+	trial 1: personalization = social media collaborative, choice = present
+plan 40:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 41:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 42:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 43:
+	trial 1: personalization = social media content, choice = absent
+plan 44:
+	trial 1: personalization = in_app_content, choice = absent
+plan 45:
+	trial 1: personalization = in_app_content, choice = absent
+plan 46:
+	trial 1: personalization = social media collaborative, choice = present
+plan 47:
+	trial 1: personalization = social media content, choice = absent
+plan 48:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 49:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 50:
+	trial 1: personalization = social media collaborative, choice = present
+plan 51:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 52:
+	trial 1: personalization = in_app_content, choice = absent
+plan 53:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 54:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 55:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 56:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 57:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 58:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 59:
+	trial 1: personalization = in_app_content, choice = present
+plan 60:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 61:
+	trial 1: personalization = in_app_content, choice = absent
+plan 62:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 63:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 64:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 65:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 66:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 67:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 68:
+	trial 1: personalization = social media content, choice = present
+plan 69:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 70:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 71:
+	trial 1: personalization = in_app_content, choice = present
+plan 72:
+	trial 1: personalization = social media content, choice = absent
+plan 73:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 74:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 75:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 76:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 77:
+	trial 1: personalization = in_app_content, choice = present
+plan 78:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 79:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 80:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 81:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 82:
+	trial 1: personalization = social media content, choice = absent
+plan 83:
+	trial 1: personalization = social media collaborative, choice = present
+plan 84:
+	trial 1: personalization = social media content, choice = absent
+plan 85:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 86:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 87:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 88:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 89:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 90:
+	trial 1: personalization = in_app_content, choice = absent
+plan 91:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 92:
+	trial 1: personalization = social media collaborative, choice = present
+plan 93:
+	trial 1: personalization = social media collaborative, choice = present
+plan 94:
+	trial 1: personalization = social media collaborative, choice = present
+plan 95:
+	trial 1: personalization = social media content, choice = absent
+plan 96:
+	trial 1: personalization = in_app_content, choice = absent
+plan 97:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 98:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 99:
+	trial 1: personalization = social media content, choice = absent
+plan 100:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 101:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 102:
+	trial 1: personalization = in_app_content, choice = absent
+plan 103:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 104:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 105:
+	trial 1: personalization = in_app_content, choice = present
+plan 106:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 107:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 108:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 109:
+	trial 1: personalization = social media collaborative, choice = present
+plan 110:
+	trial 1: personalization = social media collaborative, choice = present
+plan 111:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 112:
+	trial 1: personalization = in_app_content, choice = absent
+plan 113:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 114:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 115:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 116:
+	trial 1: personalization = social media collaborative, choice = present
+plan 117:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 118:
+	trial 1: personalization = social media collaborative, choice = present
+plan 119:
+	trial 1: personalization = in_app_content, choice = absent
+plan 120:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 121:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 122:
+	trial 1: personalization = social media content, choice = present
+plan 123:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 124:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 125:
+	trial 1: personalization = social media collaborative, choice = present
+plan 126:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 127:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 128:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 129:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 130:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 131:
+	trial 1: personalization = in_app_content, choice = absent
+plan 132:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 133:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 134:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 135:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 136:
+	trial 1: personalization = in_app_content, choice = absent
+plan 137:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 138:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 139:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 140:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 141:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 142:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 143:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 144:
+	trial 1: personalization = social media content, choice = absent
+plan 145:
+	trial 1: personalization = social media collaborative, choice = present
+plan 146:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 147:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 148:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 149:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 150:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 151:
+	trial 1: personalization = in_app_content, choice = absent
+plan 152:
+	trial 1: personalization = in_app_content, choice = absent
+plan 153:
+	trial 1: personalization = social media content, choice = present
+plan 154:
+	trial 1: personalization = social media content, choice = absent
+plan 155:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 156:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 157:
+	trial 1: personalization = social media content, choice = present
+plan 158:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 159:
+	trial 1: personalization = in_app_content, choice = present
+plan 160:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 161:
+	trial 1: personalization = in_app_content, choice = present
+plan 162:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 163:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 164:
+	trial 1: personalization = social media collaborative, choice = present
+plan 165:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 166:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 167:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 168:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 169:
+	trial 1: personalization = social media collaborative, choice = present
+plan 170:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 171:
+	trial 1: personalization = in_app_content, choice = absent
+plan 172:
+	trial 1: personalization = social media content, choice = absent
+plan 173:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 174:
+	trial 1: personalization = in_app_content, choice = absent
+plan 175:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 176:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 177:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 178:
+	trial 1: personalization = social media content, choice = present
+plan 179:
+	trial 1: personalization = in_app_content, choice = present
+plan 180:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 181:
+	trial 1: personalization = in_app_content, choice = absent
+plan 182:
+	trial 1: personalization = social media content, choice = present
+plan 183:
+	trial 1: personalization = in_app_content, choice = present
+plan 184:
+	trial 1: personalization = in_app_content, choice = present
+plan 185:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 186:
+	trial 1: personalization = in_app_content, choice = absent
+plan 187:
+	trial 1: personalization = social media content, choice = absent
+plan 188:
+	trial 1: personalization = in_app_content, choice = absent
+plan 189:
+	trial 1: personalization = in_app_content, choice = absent
+plan 190:
+	trial 1: personalization = social media collaborative, choice = present
+plan 191:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 192:
+	trial 1: personalization = in_app_content, choice = present
+plan 193:
+	trial 1: personalization = in_app_content, choice = present
+plan 194:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 195:
+	trial 1: personalization = social media content, choice = absent
+plan 196:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 197:
+	trial 1: personalization = social media content, choice = absent
+plan 198:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 199:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 200:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 201:
+	trial 1: personalization = in_app_content, choice = absent
+plan 202:
+	trial 1: personalization = in_app_content, choice = absent
+plan 203:
+	trial 1: personalization = social media content, choice = present
+plan 204:
+	trial 1: personalization = social media content, choice = present
+plan 205:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 206:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 207:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 208:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 209:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 210:
+	trial 1: personalization = social media content, choice = present
+plan 211:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 212:
+	trial 1: personalization = in_app_content, choice = absent
+plan 213:
+	trial 1: personalization = social media content, choice = present
+plan 214:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 215:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 216:
+	trial 1: personalization = social media content, choice = absent
+plan 217:
+	trial 1: personalization = in_app_content, choice = present
+plan 218:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 219:
+	trial 1: personalization = social media content, choice = absent
+plan 220:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 221:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 222:
+	trial 1: personalization = in_app_content, choice = present
+plan 223:
+	trial 1: personalization = in_app_content, choice = absent
+plan 224:
+	trial 1: personalization = in_app_content, choice = absent
+plan 225:
+	trial 1: personalization = social media content, choice = present
+plan 226:
+	trial 1: personalization = social media content, choice = present
+plan 227:
+	trial 1: personalization = social media content, choice = present
+plan 228:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 229:
+	trial 1: personalization = in_app_content, choice = present
+plan 230:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 231:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 232:
+	trial 1: personalization = in_app_content, choice = absent
+plan 233:
+	trial 1: personalization = social media content, choice = absent
+plan 234:
+	trial 1: personalization = social media collaborative, choice = present
+plan 235:
+	trial 1: personalization = social media collaborative, choice = present
+plan 236:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 237:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 238:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 239:
+	trial 1: personalization = social media collaborative, choice = present
+plan 240:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 241:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 242:
+	trial 1: personalization = social media content, choice = absent
+plan 243:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 244:
+	trial 1: personalization = social media content, choice = present
+plan 245:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 246:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 247:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 248:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 249:
+	trial 1: personalization = in_app_content, choice = present
+plan 250:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 251:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 252:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 253:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 254:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 255:
+	trial 1: personalization = social media collaborative, choice = present
+plan 256:
+	trial 1: personalization = social media collaborative, choice = present
+plan 257:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 258:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 259:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 260:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 261:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 262:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 263:
+	trial 1: personalization = social media content, choice = present
+plan 264:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 265:
+	trial 1: personalization = social media content, choice = present
+plan 266:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 267:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 268:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 269:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 270:
+	trial 1: personalization = in_app_content, choice = absent
+plan 271:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 272:
+	trial 1: personalization = in_app_content, choice = absent
+plan 273:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 274:
+	trial 1: personalization = social media content, choice = present
+plan 275:
+	trial 1: personalization = social media content, choice = present
+plan 276:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 277:
+	trial 1: personalization = social media content, choice = absent
+plan 278:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 279:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 280:
+	trial 1: personalization = in_app_content, choice = absent
+plan 281:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 282:
+	trial 1: personalization = social media collaborative, choice = present
+plan 283:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 284:
+	trial 1: personalization = in_app_content, choice = present
+plan 285:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 286:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 287:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 288:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 289:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 290:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 291:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 292:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 293:
+	trial 1: personalization = in_app_content, choice = present
+plan 294:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 295:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 296:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 297:
+	trial 1: personalization = social media content, choice = present
+plan 298:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 299:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 300:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 301:
+	trial 1: personalization = social media content, choice = present
+plan 302:
+	trial 1: personalization = social media content, choice = present
+plan 303:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 304:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 305:
+	trial 1: personalization = in_app_content, choice = present
+plan 306:
+	trial 1: personalization = social media content, choice = present
+plan 307:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 308:
+	trial 1: personalization = in_app_content, choice = absent
+plan 309:
+	trial 1: personalization = social media content, choice = absent
+plan 310:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 311:
+	trial 1: personalization = in_app_content, choice = present
+plan 312:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 313:
+	trial 1: personalization = in_app_content, choice = present
+plan 314:
+	trial 1: personalization = social media collaborative, choice = present
+plan 315:
+	trial 1: personalization = in_app_content, choice = absent
+plan 316:
+	trial 1: personalization = social media content, choice = absent
+plan 317:
+	trial 1: personalization = in_app_content, choice = present
+plan 318:
+	trial 1: personalization = in_app_collaborative, choice = absent
+plan 319:
+	trial 1: personalization = social media collaborative, choice = absent
+plan 320:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 321:
+	trial 1: personalization = in_app_content, choice = absent
+plan 322:
+	trial 1: personalization = social media content, choice = present
+plan 323:
+	trial 1: personalization = in_app_collaborative, choice = present
+plan 324:
+	trial 1: personalization = in_app_demographic, choice = present
+plan 325:
+	trial 1: personalization = social media content, choice = absent
+plan 326:
+	trial 1: personalization = social media collaborative, choice = present
+plan 327:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 328:
+	trial 1: personalization = social media content, choice = absent
+plan 329:
+	trial 1: personalization = in_app_content, choice = absent
+plan 330:
+	trial 1: personalization = social media collaborative, choice = present
+plan 331:
+	trial 1: personalization = in_app_content, choice = absent
+plan 332:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 333:
+	trial 1: personalization = social media content, choice = present
+plan 334:
+	trial 1: personalization = in_app_content, choice = absent
+plan 335:
+	trial 1: personalization = social_media_demographic, choice = present
+plan 336:
+	trial 1: personalization = in_app_content, choice = absent
+plan 337:
+	trial 1: personalization = social media collaborative, choice = present
+plan 338:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 339:
+	trial 1: personalization = in_app_demographic, choice = absent
+plan 340:
+	trial 1: personalization = social_media_demographic, choice = absent
+plan 341:
+	trial 1: personalization = social media collaborative, choice = present
+ 
+
+***ASSIGNMENT***
+
+     pid  plan
+0      1   323
+1      2   215
+2      3   196
+3      4    10
+4      5   156
+..   ...   ...
+336  337   132
+337  338    72
+338  339    12
+339  340    84
+340  341   142
+
+[341 rows x 2 columns]

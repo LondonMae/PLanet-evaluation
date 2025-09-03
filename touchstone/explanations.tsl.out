@@ -1,0 +1,63 @@
+[
+  [
+    [ 'control', 'invalid', [length]: 2 ],
+    [ 'control', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'causal', 'invalid', [length]: 2 ],
+    [ 'causal', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'ai', 'invalid', [length]: 2 ],
+    [ 'ai', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'control', 'invalid', [length]: 2 ],
+    [ 'control', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'causal', 'invalid', [length]: 2 ],
+    [ 'causal', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'ai', 'invalid', [length]: 2 ],
+    [ 'ai', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'control', 'invalid', [length]: 2 ],
+    [ 'control', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'causal', 'invalid', [length]: 2 ],
+    [ 'causal', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'ai', 'invalid', [length]: 2 ],
+    [ 'ai', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'control', 'invalid', [length]: 2 ],
+    [ 'control', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'causal', 'invalid', [length]: 2 ],
+    [ 'causal', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [
+    [ 'ai', 'invalid', [length]: 2 ],
+    [ 'ai', 'valid', [length]: 2 ],
+    [length]: 2
+  ],
+  [length]: 12
+]

@@ -1,0 +1,214 @@
+# An edibble: 210 x 2
+        unit      pronouns
+    <U(210)>       <T(10)>
+       <chr>         <chr>
+  1  unit001         washi
+  2  unit002         jibun
+  3  unit003       watashi
+  4  unit004        atashi
+  5  unit005         washi
+  6  unit006         washi
+  7  unit007         jibun
+  8  unit008      atakushi
+  9  unit009         jibun
+ 10  unit010 watashi-kanji
+ 11  unit011         washi
+ 12  unit012     watakushi
+ 13  unit013       watashi
+ 14  unit014          uchi
+ 15  unit015        atashi
+ 16  unit016        atashi
+ 17  unit017          uchi
+ 18  unit018 watashi-kanji
+ 19  unit019         washi
+ 20  unit020 watashi-kanji
+ 21  unit021         jibun
+ 22  unit022           ore
+ 23  unit023           ore
+ 24  unit024         jibun
+ 25  unit025         washi
+ 26  unit026       watashi
+ 27  unit027 watashi-kanji
+ 28  unit028        atashi
+ 29  unit029          uchi
+ 30  unit030         jibun
+ 31  unit031           ore
+ 32  unit032          uchi
+ 33  unit033       watashi
+ 34  unit034     watakushi
+ 35  unit035     watakushi
+ 36  unit036          uchi
+ 37  unit037          uchi
+ 38  unit038 watashi-kanji
+ 39  unit039 watashi-kanji
+ 40  unit040          boku
+ 41  unit041           ore
+ 42  unit042          uchi
+ 43  unit043       watashi
+ 44  unit044     watakushi
+ 45  unit045 watashi-kanji
+ 46  unit046        atashi
+ 47  unit047      atakushi
+ 48  unit048           ore
+ 49  unit049      atakushi
+ 50  unit050          boku
+ 51  unit051        atashi
+ 52  unit052         washi
+ 53  unit053         jibun
+ 54  unit054     watakushi
+ 55  unit055           ore
+ 56  unit056      atakushi
+ 57  unit057          boku
+ 58  unit058         jibun
+ 59  unit059         jibun
+ 60  unit060     watakushi
+ 61  unit061         jibun
+ 62  unit062         jibun
+ 63  unit063        atashi
+ 64  unit064         jibun
+ 65  unit065      atakushi
+ 66  unit066          boku
+ 67  unit067        atashi
+ 68  unit068          boku
+ 69  unit069       watashi
+ 70  unit070         jibun
+ 71  unit071           ore
+ 72  unit072     watakushi
+ 73  unit073          uchi
+ 74  unit074     watakushi
+ 75  unit075         jibun
+ 76  unit076          uchi
+ 77  unit077       watashi
+ 78  unit078      atakushi
+ 79  unit079          boku
+ 80  unit080     watakushi
+ 81  unit081         washi
+ 82  unit082 watashi-kanji
+ 83  unit083           ore
+ 84  unit084           ore
+ 85  unit085          uchi
+ 86  unit086 watashi-kanji
+ 87  unit087       watashi
+ 88  unit088       watashi
+ 89  unit089          uchi
+ 90  unit090       watashi
+ 91  unit091         washi
+ 92  unit092      atakushi
+ 93  unit093         washi
+ 94  unit094       watashi
+ 95  unit095         washi
+ 96  unit096          boku
+ 97  unit097           ore
+ 98  unit098 watashi-kanji
+ 99  unit099 watashi-kanji
+100  unit100         washi
+101  unit101        atashi
+102  unit102           ore
+103  unit103          boku
+104  unit104       watashi
+105  unit105          boku
+106  unit106         washi
+107  unit107      atakushi
+108  unit108      atakushi
+109  unit109          uchi
+110  unit110     watakushi
+111  unit111      atakushi
+112  unit112           ore
+113  unit113          uchi
+114  unit114       watashi
+115  unit115          boku
+116  unit116          uchi
+117  unit117 watashi-kanji
+118  unit118          uchi
+119  unit119 watashi-kanji
+120  unit120          boku
+121  unit121          boku
+122  unit122 watashi-kanji
+123  unit123      atakushi
+124  unit124      atakushi
+125  unit125          uchi
+126  unit126           ore
+127  unit127 watashi-kanji
+128  unit128       watashi
+129  unit129        atashi
+130  unit130     watakushi
+131  unit131      atakushi
+132  unit132          boku
+133  unit133         washi
+134  unit134     watakushi
+135  unit135       watashi
+136  unit136     watakushi
+137  unit137       watashi
+138  unit138     watakushi
+139  unit139       watashi
+140  unit140           ore
+141  unit141 watashi-kanji
+142  unit142          boku
+143  unit143        atashi
+144  unit144           ore
+145  unit145          boku
+146  unit146         washi
+147  unit147         jibun
+148  unit148     watakushi
+149  unit149     watakushi
+150  unit150          uchi
+151  unit151         jibun
+152  unit152         washi
+153  unit153     watakushi
+154  unit154         jibun
+155  unit155     watakushi
+156  unit156         washi
+157  unit157        atashi
+158  unit158          uchi
+159  unit159 watashi-kanji
+160  unit160        atashi
+161  unit161         jibun
+162  unit162        atashi
+163  unit163     watakushi
+164  unit164 watashi-kanji
+165  unit165       watashi
+166  unit166         jibun
+167  unit167       watashi
+168  unit168      atakushi
+169  unit169      atakushi
+170  unit170          boku
+171  unit171       watashi
+172  unit172      atakushi
+173  unit173      atakushi
+174  unit174           ore
+175  unit175          boku
+176  unit176        atashi
+177  unit177         jibun
+178  unit178           ore
+179  unit179        atashi
+180  unit180        atashi
+181  unit181          boku
+182  unit182           ore
+183  unit183     watakushi
+184  unit184         jibun
+185  unit185 watashi-kanji
+186  unit186      atakushi
+187  unit187          uchi
+188  unit188        atashi
+189  unit189          boku
+190  unit190         washi
+191  unit191 watashi-kanji
+192  unit192        atashi
+193  unit193     watakushi
+194  unit194       watashi
+195  unit195         washi
+196  unit196           ore
+197  unit197           ore
+198  unit198        atashi
+199  unit199      atakushi
+200  unit200          uchi
+201  unit201         washi
+202  unit202 watashi-kanji
+203  unit203      atakushi
+204  unit204          boku
+205  unit205         washi
+206  unit206          boku
+207  unit207           ore
+208  unit208          uchi
+209  unit209      atakushi
+210  unit210        atashi

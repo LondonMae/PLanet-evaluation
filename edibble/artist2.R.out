@@ -1,0 +1,244 @@
+# An edibble: 240 x 6
+      participant  trial    unit    replication subtask interface
+          <U(16)> <U(5)> <U(80)>       <U(240)>  <T(5)>    <T(5)>
+            <chr>  <chr>   <chr>          <chr>   <chr>     <chr>
+  1 participant01 trial1  unit01 replication001      S3        M5
+  2 participant01 trial1  unit01 replication002      S3        M5
+  3 participant01 trial1  unit01 replication003      S3        M5
+  4 participant02 trial1  unit02 replication004      S5        M2
+  5 participant02 trial1  unit02 replication005      S5        M2
+  6 participant02 trial1  unit02 replication006      S5        M2
+  7 participant03 trial1  unit03 replication007      S1        M4
+  8 participant03 trial1  unit03 replication008      S1        M4
+  9 participant03 trial1  unit03 replication009      S1        M4
+ 10 participant04 trial1  unit04 replication010      S2        M1
+ 11 participant04 trial1  unit04 replication011      S2        M1
+ 12 participant04 trial1  unit04 replication012      S2        M1
+ 13 participant05 trial1  unit05 replication013      S4        M3
+ 14 participant05 trial1  unit05 replication014      S4        M3
+ 15 participant05 trial1  unit05 replication015      S4        M3
+ 16 participant06 trial1  unit06 replication016      S2        M2
+ 17 participant06 trial1  unit06 replication017      S2        M2
+ 18 participant06 trial1  unit06 replication018      S2        M2
+ 19 participant07 trial1  unit07 replication019      S3        M4
+ 20 participant07 trial1  unit07 replication020      S3        M4
+ 21 participant07 trial1  unit07 replication021      S3        M4
+ 22 participant08 trial1  unit08 replication022      S5        M5
+ 23 participant08 trial1  unit08 replication023      S5        M5
+ 24 participant08 trial1  unit08 replication024      S5        M5
+ 25 participant09 trial1  unit09 replication025      S1        M1
+ 26 participant09 trial1  unit09 replication026      S1        M1
+ 27 participant09 trial1  unit09 replication027      S1        M1
+ 28 participant10 trial1  unit10 replication028      S4        M3
+ 29 participant10 trial1  unit10 replication029      S4        M3
+ 30 participant10 trial1  unit10 replication030      S4        M3
+ 31 participant11 trial1  unit11 replication031      S3        M5
+ 32 participant11 trial1  unit11 replication032      S3        M5
+ 33 participant11 trial1  unit11 replication033      S3        M5
+ 34 participant12 trial1  unit12 replication034      S1        M3
+ 35 participant12 trial1  unit12 replication035      S1        M3
+ 36 participant12 trial1  unit12 replication036      S1        M3
+ 37 participant13 trial1  unit13 replication037      S4        M1
+ 38 participant13 trial1  unit13 replication038      S4        M1
+ 39 participant13 trial1  unit13 replication039      S4        M1
+ 40 participant14 trial1  unit14 replication040      S2        M4
+ 41 participant14 trial1  unit14 replication041      S2        M4
+ 42 participant14 trial1  unit14 replication042      S2        M4
+ 43 participant15 trial1  unit15 replication043      S5        M2
+ 44 participant15 trial1  unit15 replication044      S5        M2
+ 45 participant15 trial1  unit15 replication045      S5        M2
+ 46 participant16 trial1  unit16 replication046      S1        M2
+ 47 participant16 trial1  unit16 replication047      S1        M2
+ 48 participant16 trial1  unit16 replication048      S1        M2
+ 49 participant01 trial2  unit17 replication049      S2        M1
+ 50 participant01 trial2  unit17 replication050      S2        M1
+ 51 participant01 trial2  unit17 replication051      S2        M1
+ 52 participant02 trial2  unit18 replication052      S4        M4
+ 53 participant02 trial2  unit18 replication053      S4        M4
+ 54 participant02 trial2  unit18 replication054      S4        M4
+ 55 participant03 trial2  unit19 replication055      S3        M3
+ 56 participant03 trial2  unit19 replication056      S3        M3
+ 57 participant03 trial2  unit19 replication057      S3        M3
+ 58 participant04 trial2  unit20 replication058      S5        M2
+ 59 participant04 trial2  unit20 replication059      S5        M2
+ 60 participant04 trial2  unit20 replication060      S5        M2
+ 61 participant05 trial2  unit21 replication061      S1        M5
+ 62 participant05 trial2  unit21 replication062      S1        M5
+ 63 participant05 trial2  unit21 replication063      S1        M5
+ 64 participant06 trial2  unit22 replication064      S5        M3
+ 65 participant06 trial2  unit22 replication065      S5        M3
+ 66 participant06 trial2  unit22 replication066      S5        M3
+ 67 participant07 trial2  unit23 replication067      S2        M1
+ 68 participant07 trial2  unit23 replication068      S2        M1
+ 69 participant07 trial2  unit23 replication069      S2        M1
+ 70 participant08 trial2  unit24 replication070      S1        M2
+ 71 participant08 trial2  unit24 replication071      S1        M2
+ 72 participant08 trial2  unit24 replication072      S1        M2
+ 73 participant09 trial2  unit25 replication073      S4        M5
+ 74 participant09 trial2  unit25 replication074      S4        M5
+ 75 participant09 trial2  unit25 replication075      S4        M5
+ 76 participant10 trial2  unit26 replication076      S3        M4
+ 77 participant10 trial2  unit26 replication077      S3        M4
+ 78 participant10 trial2  unit26 replication078      S3        M4
+ 79 participant11 trial2  unit27 replication079      S4        M1
+ 80 participant11 trial2  unit27 replication080      S4        M1
+ 81 participant11 trial2  unit27 replication081      S4        M1
+ 82 participant12 trial2  unit28 replication082      S2        M5
+ 83 participant12 trial2  unit28 replication083      S2        M5
+ 84 participant12 trial2  unit28 replication084      S2        M5
+ 85 participant13 trial2  unit29 replication085      S1        M4
+ 86 participant13 trial2  unit29 replication086      S1        M4
+ 87 participant13 trial2  unit29 replication087      S1        M4
+ 88 participant14 trial2  unit30 replication088      S5        M2
+ 89 participant14 trial2  unit30 replication089      S5        M2
+ 90 participant14 trial2  unit30 replication090      S5        M2
+ 91 participant15 trial2  unit31 replication091      S3        M3
+ 92 participant15 trial2  unit31 replication092      S3        M3
+ 93 participant15 trial2  unit31 replication093      S3        M3
+ 94 participant16 trial2  unit32 replication094      S2        M3
+ 95 participant16 trial2  unit32 replication095      S2        M3
+ 96 participant16 trial2  unit32 replication096      S2        M3
+ 97 participant01 trial3  unit33 replication097      S5        M2
+ 98 participant01 trial3  unit33 replication098      S5        M2
+ 99 participant01 trial3  unit33 replication099      S5        M2
+100 participant02 trial3  unit34 replication100      S1        M3
+101 participant02 trial3  unit34 replication101      S1        M3
+102 participant02 trial3  unit34 replication102      S1        M3
+103 participant03 trial3  unit35 replication103      S2        M5
+104 participant03 trial3  unit35 replication104      S2        M5
+105 participant03 trial3  unit35 replication105      S2        M5
+106 participant04 trial3  unit36 replication106      S4        M4
+107 participant04 trial3  unit36 replication107      S4        M4
+108 participant04 trial3  unit36 replication108      S4        M4
+109 participant05 trial3  unit37 replication109      S3        M1
+110 participant05 trial3  unit37 replication110      S3        M1
+111 participant05 trial3  unit37 replication111      S3        M1
+112 participant06 trial3  unit38 replication112      S3        M5
+113 participant06 trial3  unit38 replication113      S3        M5
+114 participant06 trial3  unit38 replication114      S3        M5
+115 participant07 trial3  unit39 replication115      S4        M3
+116 participant07 trial3  unit39 replication116      S4        M3
+117 participant07 trial3  unit39 replication117      S4        M3
+118 participant08 trial3  unit40 replication118      S2        M1
+119 participant08 trial3  unit40 replication119      S2        M1
+120 participant08 trial3  unit40 replication120      S2        M1
+121 participant09 trial3  unit41 replication121      S5        M4
+122 participant09 trial3  unit41 replication122      S5        M4
+123 participant09 trial3  unit41 replication123      S5        M4
+124 participant10 trial3  unit42 replication124      S1        M2
+125 participant10 trial3  unit42 replication125      S1        M2
+126 participant10 trial3  unit42 replication126      S1        M2
+127 participant11 trial3  unit43 replication127      S1        M4
+128 participant11 trial3  unit43 replication128      S1        M4
+129 participant11 trial3  unit43 replication129      S1        M4
+130 participant12 trial3  unit44 replication130      S5        M1
+131 participant12 trial3  unit44 replication131      S5        M1
+132 participant12 trial3  unit44 replication132      S5        M1
+133 participant13 trial3  unit45 replication133      S2        M2
+134 participant13 trial3  unit45 replication134      S2        M2
+135 participant13 trial3  unit45 replication135      S2        M2
+136 participant14 trial3  unit46 replication136      S3        M3
+137 participant14 trial3  unit46 replication137      S3        M3
+138 participant14 trial3  unit46 replication138      S3        M3
+139 participant15 trial3  unit47 replication139      S4        M5
+140 participant15 trial3  unit47 replication140      S4        M5
+141 participant15 trial3  unit47 replication141      S4        M5
+142 participant16 trial3  unit48 replication142      S5        M5
+143 participant16 trial3  unit48 replication143      S5        M5
+144 participant16 trial3  unit48 replication144      S5        M5
+145 participant01 trial4  unit49 replication145      S4        M4
+146 participant01 trial4  unit49 replication146      S4        M4
+147 participant01 trial4  unit49 replication147      S4        M4
+148 participant02 trial4  unit50 replication148      S3        M5
+149 participant02 trial4  unit50 replication149      S3        M5
+150 participant02 trial4  unit50 replication150      S3        M5
+151 participant03 trial4  unit51 replication151      S5        M1
+152 participant03 trial4  unit51 replication152      S5        M1
+153 participant03 trial4  unit51 replication153      S5        M1
+154 participant04 trial4  unit52 replication154      S1        M3
+155 participant04 trial4  unit52 replication155      S1        M3
+156 participant04 trial4  unit52 replication156      S1        M3
+157 participant05 trial4  unit53 replication157      S2        M2
+158 participant05 trial4  unit53 replication158      S2        M2
+159 participant05 trial4  unit53 replication159      S2        M2
+160 participant06 trial4  unit54 replication160      S1        M1
+161 participant06 trial4  unit54 replication161      S1        M1
+162 participant06 trial4  unit54 replication162      S1        M1
+163 participant07 trial4  unit55 replication163      S5        M2
+164 participant07 trial4  unit55 replication164      S5        M2
+165 participant07 trial4  unit55 replication165      S5        M2
+166 participant08 trial4  unit56 replication166      S4        M4
+167 participant08 trial4  unit56 replication167      S4        M4
+168 participant08 trial4  unit56 replication168      S4        M4
+169 participant09 trial4  unit57 replication169      S3        M3
+170 participant09 trial4  unit57 replication170      S3        M3
+171 participant09 trial4  unit57 replication171      S3        M3
+172 participant10 trial4  unit58 replication172      S2        M5
+173 participant10 trial4  unit58 replication173      S2        M5
+174 participant10 trial4  unit58 replication174      S2        M5
+175 participant11 trial4  unit59 replication175      S2        M2
+176 participant11 trial4  unit59 replication176      S2        M2
+177 participant11 trial4  unit59 replication177      S2        M2
+178 participant12 trial4  unit60 replication178      S3        M4
+179 participant12 trial4  unit60 replication179      S3        M4
+180 participant12 trial4  unit60 replication180      S3        M4
+181 participant13 trial4  unit61 replication181      S5        M3
+182 participant13 trial4  unit61 replication182      S5        M3
+183 participant13 trial4  unit61 replication183      S5        M3
+184 participant14 trial4  unit62 replication184      S4        M5
+185 participant14 trial4  unit62 replication185      S4        M5
+186 participant14 trial4  unit62 replication186      S4        M5
+187 participant15 trial4  unit63 replication187      S1        M1
+188 participant15 trial4  unit63 replication188      S1        M1
+189 participant15 trial4  unit63 replication189      S1        M1
+190 participant16 trial4  unit64 replication190      S4        M1
+191 participant16 trial4  unit64 replication191      S4        M1
+192 participant16 trial4  unit64 replication192      S4        M1
+193 participant01 trial5  unit65 replication193      S1        M3
+194 participant01 trial5  unit65 replication194      S1        M3
+195 participant01 trial5  unit65 replication195      S1        M3
+196 participant02 trial5  unit66 replication196      S2        M1
+197 participant02 trial5  unit66 replication197      S2        M1
+198 participant02 trial5  unit66 replication198      S2        M1
+199 participant03 trial5  unit67 replication199      S4        M2
+200 participant03 trial5  unit67 replication200      S4        M2
+201 participant03 trial5  unit67 replication201      S4        M2
+202 participant04 trial5  unit68 replication202      S3        M5
+203 participant04 trial5  unit68 replication203      S3        M5
+204 participant04 trial5  unit68 replication204      S3        M5
+205 participant05 trial5  unit69 replication205      S5        M4
+206 participant05 trial5  unit69 replication206      S5        M4
+207 participant05 trial5  unit69 replication207      S5        M4
+208 participant06 trial5  unit70 replication208      S4        M4
+209 participant06 trial5  unit70 replication209      S4        M4
+210 participant06 trial5  unit70 replication210      S4        M4
+211 participant07 trial5  unit71 replication211      S1        M5
+212 participant07 trial5  unit71 replication212      S1        M5
+213 participant07 trial5  unit71 replication213      S1        M5
+214 participant08 trial5  unit72 replication214      S3        M3
+215 participant08 trial5  unit72 replication215      S3        M3
+216 participant08 trial5  unit72 replication216      S3        M3
+217 participant09 trial5  unit73 replication217      S2        M2
+218 participant09 trial5  unit73 replication218      S2        M2
+219 participant09 trial5  unit73 replication219      S2        M2
+220 participant10 trial5  unit74 replication220      S5        M1
+221 participant10 trial5  unit74 replication221      S5        M1
+222 participant10 trial5  unit74 replication222      S5        M1
+223 participant11 trial5  unit75 replication223      S5        M3
+224 participant11 trial5  unit75 replication224      S5        M3
+225 participant11 trial5  unit75 replication225      S5        M3
+226 participant12 trial5  unit76 replication226      S4        M2
+227 participant12 trial5  unit76 replication227      S4        M2
+228 participant12 trial5  unit76 replication228      S4        M2
+229 participant13 trial5  unit77 replication229      S3        M5
+230 participant13 trial5  unit77 replication230      S3        M5
+231 participant13 trial5  unit77 replication231      S3        M5
+232 participant14 trial5  unit78 replication232      S1        M1
+233 participant14 trial5  unit78 replication233      S1        M1
+234 participant14 trial5  unit78 replication234      S1        M1
+235 participant15 trial5  unit79 replication235      S2        M4
+236 participant15 trial5  unit79 replication236      S2        M4
+237 participant15 trial5  unit79 replication237      S2        M4
+238 participant16 trial5  unit80 replication238      S3        M4
+239 participant16 trial5  unit80 replication239      S3        M4
+240 participant16 trial5  unit80 replication240      S3        M4

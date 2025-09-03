@@ -1,5 +1,7 @@
 from planet import *
 
+
+
 gesture = ExperimentVariable("Gesture", options=[
     "Tap", "Double Tap", "Swipe Left", "Swipe Right",  "Swipe Up", "Swipe Down", 
     "Clockwise Swipe", "Counterclockwise Swipe", "Pinch", "Spread", "Rest"

@@ -1,0 +1,166 @@
+# An edibble: 162 x 4
+      participant    trial footstep  posture
+          <U(18)> <U(162)>   <T(3)>   <T(3)>
+            <chr>    <chr>    <chr>    <chr>
+  1 participant01 trial001     full     desk
+  2 participant01 trial002     full straight
+  3 participant01 trial003     rear     back
+  4 participant01 trial004     fore straight
+  5 participant01 trial005     rear straight
+  6 participant01 trial006     rear     desk
+  7 participant01 trial007     full     back
+  8 participant01 trial008     fore     back
+  9 participant01 trial009     fore     desk
+ 10 participant02 trial010     fore straight
+ 11 participant02 trial011     rear straight
+ 12 participant02 trial012     fore     back
+ 13 participant02 trial013     full     back
+ 14 participant02 trial014     rear     desk
+ 15 participant02 trial015     full     desk
+ 16 participant02 trial016     rear     back
+ 17 participant02 trial017     full straight
+ 18 participant02 trial018     fore     desk
+ 19 participant03 trial019     rear     back
+ 20 participant03 trial020     fore     back
+ 21 participant03 trial021     full     desk
+ 22 participant03 trial022     full straight
+ 23 participant03 trial023     fore     desk
+ 24 participant03 trial024     rear straight
+ 25 participant03 trial025     fore straight
+ 26 participant03 trial026     rear     desk
+ 27 participant03 trial027     full     back
+ 28 participant04 trial028     full     back
+ 29 participant04 trial029     rear     back
+ 30 participant04 trial030     full     desk
+ 31 participant04 trial031     full straight
+ 32 participant04 trial032     rear     desk
+ 33 participant04 trial033     fore straight
+ 34 participant04 trial034     fore     desk
+ 35 participant04 trial035     fore     back
+ 36 participant04 trial036     rear straight
+ 37 participant05 trial037     fore     back
+ 38 participant05 trial038     rear straight
+ 39 participant05 trial039     fore     desk
+ 40 participant05 trial040     full straight
+ 41 participant05 trial041     rear     desk
+ 42 participant05 trial042     full     desk
+ 43 participant05 trial043     fore straight
+ 44 participant05 trial044     full     back
+ 45 participant05 trial045     rear     back
+ 46 participant06 trial046     fore     desk
+ 47 participant06 trial047     rear straight
+ 48 participant06 trial048     full     back
+ 49 participant06 trial049     fore     back
+ 50 participant06 trial050     rear     desk
+ 51 participant06 trial051     full     desk
+ 52 participant06 trial052     fore straight
+ 53 participant06 trial053     full straight
+ 54 participant06 trial054     rear     back
+ 55 participant07 trial055     full     desk
+ 56 participant07 trial056     full     back
+ 57 participant07 trial057     fore straight
+ 58 participant07 trial058     full straight
+ 59 participant07 trial059     fore     back
+ 60 participant07 trial060     rear     desk
+ 61 participant07 trial061     rear straight
+ 62 participant07 trial062     fore     desk
+ 63 participant07 trial063     rear     back
+ 64 participant08 trial064     rear     back
+ 65 participant08 trial065     full straight
+ 66 participant08 trial066     rear     desk
+ 67 participant08 trial067     rear straight
+ 68 participant08 trial068     full     desk
+ 69 participant08 trial069     fore straight
+ 70 participant08 trial070     full     back
+ 71 participant08 trial071     fore     desk
+ 72 participant08 trial072     fore     back
+ 73 participant09 trial073     full straight
+ 74 participant09 trial074     rear straight
+ 75 participant09 trial075     rear     back
+ 76 participant09 trial076     rear     desk
+ 77 participant09 trial077     full     back
+ 78 participant09 trial078     full     desk
+ 79 participant09 trial079     fore straight
+ 80 participant09 trial080     fore     back
+ 81 participant09 trial081     fore     desk
+ 82 participant10 trial082     fore straight
+ 83 participant10 trial083     full     desk
+ 84 participant10 trial084     rear straight
+ 85 participant10 trial085     fore     back
+ 86 participant10 trial086     full     back
+ 87 participant10 trial087     rear     back
+ 88 participant10 trial088     fore     desk
+ 89 participant10 trial089     full straight
+ 90 participant10 trial090     rear     desk
+ 91 participant11 trial091     full straight
+ 92 participant11 trial092     rear straight
+ 93 participant11 trial093     rear     desk
+ 94 participant11 trial094     fore     back
+ 95 participant11 trial095     full     back
+ 96 participant11 trial096     rear     back
+ 97 participant11 trial097     fore     desk
+ 98 participant11 trial098     fore straight
+ 99 participant11 trial099     full     desk
+100 participant12 trial100     full     desk
+101 participant12 trial101     rear     back
+102 participant12 trial102     rear straight
+103 participant12 trial103     fore     desk
+104 participant12 trial104     rear     desk
+105 participant12 trial105     fore     back
+106 participant12 trial106     fore straight
+107 participant12 trial107     full     back
+108 participant12 trial108     full straight
+109 participant13 trial109     fore     desk
+110 participant13 trial110     full     back
+111 participant13 trial111     rear straight
+112 participant13 trial112     fore     back
+113 participant13 trial113     rear     back
+114 participant13 trial114     fore straight
+115 participant13 trial115     full straight
+116 participant13 trial116     rear     desk
+117 participant13 trial117     full     desk
+118 participant14 trial118     rear     desk
+119 participant14 trial119     rear     back
+120 participant14 trial120     full straight
+121 participant14 trial121     full     desk
+122 participant14 trial122     fore     desk
+123 participant14 trial123     rear straight
+124 participant14 trial124     full     back
+125 participant14 trial125     fore     back
+126 participant14 trial126     fore straight
+127 participant15 trial127     rear     back
+128 participant15 trial128     rear     desk
+129 participant15 trial129     full straight
+130 participant15 trial130     fore     back
+131 participant15 trial131     full     back
+132 participant15 trial132     rear straight
+133 participant15 trial133     full     desk
+134 participant15 trial134     fore     desk
+135 participant15 trial135     fore straight
+136 participant16 trial136     rear     back
+137 participant16 trial137     rear     desk
+138 participant16 trial138     rear straight
+139 participant16 trial139     full     back
+140 participant16 trial140     full     desk
+141 participant16 trial141     fore     desk
+142 participant16 trial142     full straight
+143 participant16 trial143     fore     back
+144 participant16 trial144     fore straight
+145 participant17 trial145     rear straight
+146 participant17 trial146     fore     desk
+147 participant17 trial147     fore     back
+148 participant17 trial148     rear     back
+149 participant17 trial149     rear     desk
+150 participant17 trial150     full     desk
+151 participant17 trial151     fore straight
+152 participant17 trial152     full     back
+153 participant17 trial153     full straight
+154 participant18 trial154     full     desk
+155 participant18 trial155     fore straight
+156 participant18 trial156     full straight
+157 participant18 trial157     fore     desk
+158 participant18 trial158     rear     back
+159 participant18 trial159     rear     desk
+160 participant18 trial160     full     back
+161 participant18 trial161     fore     back
+162 participant18 trial162     rear straight

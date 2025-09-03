@@ -1,0 +1,28 @@
+# An edibble: 24 x 3
+     participant   trial interface
+         <U(12)> <U(24)>    <T(2)>
+           <chr>   <chr>     <chr>
+ 1 participant01 trial01   rambler
+ 2 participant01 trial02  baseline
+ 3 participant02 trial03  baseline
+ 4 participant02 trial04   rambler
+ 5 participant03 trial05   rambler
+ 6 participant03 trial06  baseline
+ 7 participant04 trial07  baseline
+ 8 participant04 trial08   rambler
+ 9 participant05 trial09  baseline
+10 participant05 trial10   rambler
+11 participant06 trial11   rambler
+12 participant06 trial12  baseline
+13 participant07 trial13   rambler
+14 participant07 trial14  baseline
+15 participant08 trial15  baseline
+16 participant08 trial16   rambler
+17 participant09 trial17   rambler
+18 participant09 trial18  baseline
+19 participant10 trial19  baseline
+20 participant10 trial20   rambler
+21 participant11 trial21  baseline
+22 participant11 trial22   rambler
+23 participant12 trial23  baseline
+24 participant12 trial24   rambler
