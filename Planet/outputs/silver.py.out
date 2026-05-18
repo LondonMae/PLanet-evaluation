@@ -1,0 +1,31 @@
+***EXPERIMENT PLANS***
+
+plan 1:
+	trial 1: pronouns = ore
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = atashi
+	trial 6: pronouns = boku
+	trial 7: pronouns = watashi
+	trial 8: pronouns = washi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = uchi
+ 
+
+***ASSIGNMENT***
+
+     pid  plan
+0      1     0
+1      2     0
+2      3     0
+3      4     0
+4      5     0
+..   ...   ...
+205  206     0
+206  207     0
+207  208     0
+208  209     0
+209  210     0
+
+[210 rows x 2 columns]

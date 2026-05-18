@@ -1,0 +1,22 @@
+***EXPERIMENT PLANS***
+
+plan 1:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+ 
+
+***ASSIGNMENT***
+
+     pid  plan
+0      1     0
+1      2     0
+2      3     0
+3      4     0
+4      5     0
+..   ...   ...
+501  502     0
+502  503     0
+503  504     0
+504  505     0
+505  506     0
+
+[506 rows x 2 columns]

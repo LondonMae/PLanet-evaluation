@@ -3,7 +3,7 @@
 INPUT_DIR="./planet"
 
 # Define the directory where output files will be saved
-OUTPUT_DIR="./Planet"
+OUTPUT_DIR="./planet/outputs"
 
 rm -f "$OUTPUT_DIR"/*.out
 
@@ -21,11 +21,10 @@ for file in "$INPUT_DIR"/*; do
 
     start_time=$(date +%s%N)
     # Run your command/script on the file and redirect its output to the output file
-    NO_COLOR=1 python3 "$file" &> /dev/null
+    /Users/londonbielicke/Documents/projects/ucla/PLanet/experimental-design-dsl/venv/bin/python3.11  "$file" > "$output_file"
     end_time=$(date +%s%N)
     duration_ns=$((end_time - start_time))
     duration_ms=$((duration_ns / 1000000))
     echo "program executed in $duration_ms miliseconds."
-    # node ../UIST2025/touchstone-language/src/run_generator.js 12  "$file" > "$output_file"
   fi
 done

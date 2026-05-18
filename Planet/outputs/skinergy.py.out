@@ -1,0 +1,28 @@
+***EXPERIMENT PLANS***
+
+plan 1:
+	trial 1: Gesture = Rest
+	trial 2: Gesture = Swipe Right
+	trial 3: Gesture = Double Tap
+	trial 4: Gesture = Swipe Left
+	trial 5: Gesture = Tap
+	trial 6: Gesture = Swipe Down
+	trial 7: Gesture = Swipe Up
+	trial 8: Gesture = Clockwise Swipe
+	trial 9: Gesture = Counterclockwise Swipe
+	trial 10: Gesture = Pinch
+ 
+
+***ASSIGNMENT***
+
+   pid  plan
+0    1     0
+1    2     0
+2    3     0
+3    4     0
+4    5     0
+5    6     0
+6    7     0
+7    8     0
+8    9     0
+9   10     0

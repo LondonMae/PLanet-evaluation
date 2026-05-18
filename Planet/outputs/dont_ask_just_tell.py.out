@@ -1,0 +1,31 @@
+***EXPERIMENT PLANS***
+
+plan 1:
+	trial 1: Intervention = Control, Statement = 31
+	trial 2: Intervention = Control, Statement = 14
+	trial 3: Intervention = Control, Statement = 21
+	trial 4: Intervention = Control, Statement = 38
+	trial 5: Intervention = Control, Statement = 33
+	trial 6: Intervention = Control, Statement = 37
+	trial 7: Intervention = Control, Statement = 29
+	trial 8: Intervention = Control, Statement = 40
+	trial 9: Intervention = Control, Statement = 39
+	trial 10: Intervention = Control, Statement = 26
+ 
+
+***ASSIGNMENT***
+
+     pid  plan
+0      1     0
+1      2     0
+2      3     0
+3      4     0
+4      5     0
+..   ...   ...
+199  200     0
+200  201     0
+201  202     0
+202  203     0
+203  204     0
+
+[204 rows x 2 columns]
