@@ -1,9 +1,9 @@
 #!/bin/bash
 # Define the directory containing the files
-INPUT_DIR="./touchstone"
+INPUT_DIR="./planet"
 
 # Define the directory where output files will be saved
-OUTPUT_DIR="./touchstone"
+OUTPUT_DIR="./Planet"
 
 rm -f "$OUTPUT_DIR"/*.out
 
@@ -19,7 +19,13 @@ for file in "$INPUT_DIR"/*; do
     # Define the output file path
     output_file="$OUTPUT_DIR/${filename}.out" # You can adjust the extension
 
+    start_time=$(date +%s%N)
     # Run your command/script on the file and redirect its output to the output file
-    NO_COLOR=1 node ../UIST2025/touchstone-language/src/run_generator.js 12  "$file" > "$output_file"
+    NO_COLOR=1 python3 "$file" &> /dev/null
+    end_time=$(date +%s%N)
+    duration_ns=$((end_time - start_time))
+    duration_ms=$((duration_ns / 1000000))
+    echo "program executed in $duration_ms miliseconds."
+    # node ../UIST2025/touchstone-language/src/run_generator.js 12  "$file" > "$output_file"
   fi
 done
